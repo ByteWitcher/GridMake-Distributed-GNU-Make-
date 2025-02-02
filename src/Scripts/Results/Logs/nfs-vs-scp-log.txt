@@ -1,0 +1,1232 @@
+Node file: /var/lib/oar/5044545
+Hosts: Any["gros-38.nancy.grid5000.fr", "gros-43.nancy.grid5000.fr", "gros-53.nancy.grid5000.fr"]
+Adding workers... Attempting to add worker for host: gros-38.nancy.grid5000.fr
+Worker added for host: gros-38.nancy.grid5000.fr
+Attempting to add worker for host: gros-43.nancy.grid5000.fr
+Worker added for host: gros-43.nancy.grid5000.fr
+Attempting to add worker for host: gros-53.nancy.grid5000.fr
+Worker added for host: gros-53.nancy.grid5000.fr
+Workers added: [2, 3, 4]
+Generating the file of size 1 KB...
+File generated
+Generating the file of size 2 KB...
+File generated
+Generating the file of size 3 KB...
+File generated
+Generating the file of size 4 KB...
+File generated
+Generating the file of size 5 KB...
+File generated
+Generating the file of size 6 KB...
+File generated
+Generating the file of size 7 KB...
+File generated
+Generating the file of size 8 KB...
+File generated
+Generating the file of size 9 KB...
+File generated
+Generating the file of size 10 KB...
+File generated
+Generating the file of size 11 KB...
+File generated
+Generating the file of size 12 KB...
+File generated
+Generating the file of size 13 KB...
+File generated
+Generating the file of size 14 KB...
+File generated
+Generating the file of size 15 KB...
+File generated
+Generating the file of size 16 KB...
+File generated
+Generating the file of size 17 KB...
+File generated
+Generating the file of size 18 KB...
+File generated
+Generating the file of size 19 KB...
+File generated
+Generating the file of size 20 KB...
+File generated
+Generating the file of size 21 KB...
+File generated
+Generating the file of size 22 KB...
+File generated
+Generating the file of size 23 KB...
+File generated
+Generating the file of size 24 KB...
+File generated
+Generating the file of size 25 KB...
+File generated
+Generating the file of size 26 KB...
+File generated
+Generating the file of size 27 KB...
+File generated
+Generating the file of size 28 KB...
+File generated
+Generating the file of size 29 KB...
+File generated
+Generating the file of size 30 KB...
+File generated
+Generating the file of size 31 KB...
+File generated
+Generating the file of size 32 KB...
+File generated
+Generating the file of size 33 KB...
+File generated
+Generating the file of size 34 KB...
+File generated
+Generating the file of size 35 KB...
+File generated
+Generating the file of size 36 KB...
+File generated
+Generating the file of size 37 KB...
+File generated
+Generating the file of size 38 KB...
+File generated
+Generating the file of size 39 KB...
+File generated
+Generating the file of size 40 KB...
+File generated
+Generating the file of size 41 KB...
+File generated
+Generating the file of size 42 KB...
+File generated
+Generating the file of size 43 KB...
+File generated
+Generating the file of size 44 KB...
+File generated
+Generating the file of size 45 KB...
+File generated
+Generating the file of size 46 KB...
+File generated
+Generating the file of size 47 KB...
+File generated
+Generating the file of size 48 KB...
+File generated
+Generating the file of size 49 KB...
+File generated
+Generating the file of size 50 KB...
+File generated
+Generating the file of size 51 KB...
+File generated
+Generating the file of size 52 KB...
+File generated
+Generating the file of size 53 KB...
+File generated
+Generating the file of size 54 KB...
+File generated
+Generating the file of size 55 KB...
+File generated
+Generating the file of size 56 KB...
+File generated
+Generating the file of size 57 KB...
+File generated
+Generating the file of size 58 KB...
+File generated
+Generating the file of size 59 KB...
+File generated
+Generating the file of size 60 KB...
+File generated
+Generating the file of size 61 KB...
+File generated
+Generating the file of size 62 KB...
+File generated
+Generating the file of size 63 KB...
+File generated
+Generating the file of size 64 KB...
+File generated
+Generating the file of size 65 KB...
+File generated
+Generating the file of size 66 KB...
+File generated
+Generating the file of size 67 KB...
+File generated
+Generating the file of size 68 KB...
+File generated
+Generating the file of size 69 KB...
+File generated
+Generating the file of size 70 KB...
+File generated
+Generating the file of size 71 KB...
+File generated
+Generating the file of size 72 KB...
+File generated
+Generating the file of size 73 KB...
+File generated
+Generating the file of size 74 KB...
+File generated
+Generating the file of size 75 KB...
+File generated
+Generating the file of size 76 KB...
+File generated
+Generating the file of size 77 KB...
+File generated
+Generating the file of size 78 KB...
+File generated
+Generating the file of size 79 KB...
+File generated
+Generating the file of size 80 KB...
+File generated
+Generating the file of size 81 KB...
+File generated
+Generating the file of size 82 KB...
+File generated
+Generating the file of size 83 KB...
+File generated
+Generating the file of size 84 KB...
+File generated
+Generating the file of size 85 KB...
+File generated
+Generating the file of size 86 KB...
+File generated
+Generating the file of size 87 KB...
+File generated
+Generating the file of size 88 KB...
+File generated
+Generating the file of size 89 KB...
+File generated
+Generating the file of size 90 KB...
+File generated
+Generating the file of size 91 KB...
+File generated
+Generating the file of size 92 KB...
+File generated
+Generating the file of size 93 KB...
+File generated
+Generating the file of size 94 KB...
+File generated
+Generating the file of size 95 KB...
+File generated
+Generating the file of size 96 KB...
+File generated
+Generating the file of size 97 KB...
+File generated
+Generating the file of size 98 KB...
+File generated
+Generating the file of size 99 KB...
+File generated
+Generating the file of size 100 KB...
+File generated
+Generating the file of size 1024 KB...
+File generated
+Generating the file of size 2048 KB...
+File generated
+Generating the file of size 4096 KB...
+File generated
+Generating the file of size 8192 KB...
+File generated
+Generating the file of size 16384 KB...
+File generated
+Generating the file of size 32768 KB...
+File generated
+Generating the file of size 65536 KB...
+File generated
+Generating the file of size 131072 KB...
+File generated
+Generating the file of size 262144 KB...
+File generated
+Generating the file of size 524288 KB...
+File generated
+Generating the file of size 1048576 KB...
+File generated
+Generating the file of size 1 KB...
+File generated
+Generating the file of size 2 KB...
+File generated
+Generating the file of size 3 KB...
+File generated
+Generating the file of size 4 KB...
+File generated
+Generating the file of size 5 KB...
+File generated
+Generating the file of size 6 KB...
+File generated
+Generating the file of size 7 KB...
+File generated
+Generating the file of size 8 KB...
+File generated
+Generating the file of size 9 KB...
+File generated
+Generating the file of size 10 KB...
+File generated
+Generating the file of size 11 KB...
+File generated
+Generating the file of size 12 KB...
+File generated
+Generating the file of size 13 KB...
+File generated
+Generating the file of size 14 KB...
+File generated
+Generating the file of size 15 KB...
+File generated
+Generating the file of size 16 KB...
+File generated
+Generating the file of size 17 KB...
+File generated
+Generating the file of size 18 KB...
+File generated
+Generating the file of size 19 KB...
+File generated
+Generating the file of size 20 KB...
+File generated
+Generating the file of size 21 KB...
+File generated
+Generating the file of size 22 KB...
+File generated
+Generating the file of size 23 KB...
+File generated
+Generating the file of size 24 KB...
+File generated
+Generating the file of size 25 KB...
+File generated
+Generating the file of size 26 KB...
+File generated
+Generating the file of size 27 KB...
+File generated
+Generating the file of size 28 KB...
+File generated
+Generating the file of size 29 KB...
+File generated
+Generating the file of size 30 KB...
+File generated
+Generating the file of size 31 KB...
+File generated
+Generating the file of size 32 KB...
+File generated
+Generating the file of size 33 KB...
+File generated
+Generating the file of size 34 KB...
+File generated
+Generating the file of size 35 KB...
+File generated
+Generating the file of size 36 KB...
+File generated
+Generating the file of size 37 KB...
+File generated
+Generating the file of size 38 KB...
+File generated
+Generating the file of size 39 KB...
+File generated
+Generating the file of size 40 KB...
+File generated
+Generating the file of size 41 KB...
+File generated
+Generating the file of size 42 KB...
+File generated
+Generating the file of size 43 KB...
+File generated
+Generating the file of size 44 KB...
+File generated
+Generating the file of size 45 KB...
+File generated
+Generating the file of size 46 KB...
+File generated
+Generating the file of size 47 KB...
+File generated
+Generating the file of size 48 KB...
+File generated
+Generating the file of size 49 KB...
+File generated
+Generating the file of size 50 KB...
+File generated
+Generating the file of size 51 KB...
+File generated
+Generating the file of size 52 KB...
+File generated
+Generating the file of size 53 KB...
+File generated
+Generating the file of size 54 KB...
+File generated
+Generating the file of size 55 KB...
+File generated
+Generating the file of size 56 KB...
+File generated
+Generating the file of size 57 KB...
+File generated
+Generating the file of size 58 KB...
+File generated
+Generating the file of size 59 KB...
+File generated
+Generating the file of size 60 KB...
+File generated
+Generating the file of size 61 KB...
+File generated
+Generating the file of size 62 KB...
+File generated
+Generating the file of size 63 KB...
+File generated
+Generating the file of size 64 KB...
+File generated
+Generating the file of size 65 KB...
+File generated
+Generating the file of size 66 KB...
+File generated
+Generating the file of size 67 KB...
+File generated
+Generating the file of size 68 KB...
+File generated
+Generating the file of size 69 KB...
+File generated
+Generating the file of size 70 KB...
+File generated
+Generating the file of size 71 KB...
+File generated
+Generating the file of size 72 KB...
+File generated
+Generating the file of size 73 KB...
+File generated
+Generating the file of size 74 KB...
+File generated
+Generating the file of size 75 KB...
+File generated
+Generating the file of size 76 KB...
+File generated
+Generating the file of size 77 KB...
+File generated
+Generating the file of size 78 KB...
+File generated
+Generating the file of size 79 KB...
+File generated
+Generating the file of size 80 KB...
+File generated
+Generating the file of size 81 KB...
+File generated
+Generating the file of size 82 KB...
+File generated
+Generating the file of size 83 KB...
+File generated
+Generating the file of size 84 KB...
+File generated
+Generating the file of size 85 KB...
+File generated
+Generating the file of size 86 KB...
+File generated
+Generating the file of size 87 KB...
+File generated
+Generating the file of size 88 KB...
+File generated
+Generating the file of size 89 KB...
+File generated
+Generating the file of size 90 KB...
+File generated
+Generating the file of size 91 KB...
+File generated
+Generating the file of size 92 KB...
+File generated
+Generating the file of size 93 KB...
+File generated
+Generating the file of size 94 KB...
+File generated
+Generating the file of size 95 KB...
+File generated
+Generating the file of size 96 KB...
+File generated
+Generating the file of size 97 KB...
+File generated
+Generating the file of size 98 KB...
+File generated
+Generating the file of size 99 KB...
+File generated
+Generating the file of size 100 KB...
+File generated
+Generating the file of size 1024 KB...
+File generated
+Generating the file of size 2048 KB...
+File generated
+Generating the file of size 4096 KB...
+File generated
+Generating the file of size 8192 KB...
+File generated
+Generating the file of size 16384 KB...
+File generated
+Generating the file of size 32768 KB...
+File generated
+Generating the file of size 65536 KB...
+File generated
+Generating the file of size 131072 KB...
+File generated
+Generating the file of size 262144 KB...
+File generated
+Generating the file of size 524288 KB...
+File generated
+Generating the file of size 1048576 KB...
+File generated
+
+Initiating TCP connections...
+Attempting to open connection with worker 2...
+Establishing connection with worker 2: RTT: 800.8713720000001 ms
+Establishing connection with worker 2: RTT: 6.43595 ms
+Establishing connection with worker 2: RTT: 0.385784 ms
+Establishing connection with worker 2: RTT: 0.295592 ms
+Establishing connection with worker 2: RTT: 0.18075 ms
+Establishing connection with worker 2: RTT: 0.27037300000000003 ms
+Establishing connection with worker 2: RTT: 0.407235 ms
+Establishing connection with worker 2: RTT: 0.28967899999999996 ms
+Establishing connection with worker 2: RTT: 0.298077 ms
+Establishing connection with worker 2: RTT: 0.410563 ms
+Establishing connection with worker 2: RTT: 0.39304 ms
+Establishing connection with worker 2: RTT: 0.329577 ms
+Establishing connection with worker 2: RTT: 0.267288 ms
+Establishing connection with worker 2: RTT: 0.26632700000000004 ms
+Establishing connection with worker 2: RTT: 0.17415 ms
+Establishing connection with worker 2: RTT: 0.279196 ms
+Establishing connection with worker 2: RTT: 0.292389 ms
+Establishing connection with worker 2: RTT: 0.326764 ms
+Establishing connection with worker 2: RTT: 0.29108900000000004 ms
+Establishing connection with worker 2: RTT: 0.39689199999999997 ms
+Establishing connection with worker 2: RTT: 0.37494299999999997 ms
+Establishing connection with worker 2: RTT: 0.264773 ms
+Establishing connection with worker 2: RTT: 0.39765 ms
+Establishing connection with worker 2: RTT: 0.256769 ms
+Establishing connection with worker 2: RTT: 0.20753 ms
+Connection successfully established with worker 2
+
+Attempting to open connection with worker 3...
+Establishing connection with worker 3: RTT: 514.9210039999999 ms
+Establishing connection with worker 3: RTT: 3.196709 ms
+Establishing connection with worker 3: RTT: 0.382458 ms
+Establishing connection with worker 3: RTT: 0.187512 ms
+Establishing connection with worker 3: RTT: 0.202733 ms
+Establishing connection with worker 3: RTT: 0.25020499999999996 ms
+Establishing connection with worker 3: RTT: 0.26605999999999996 ms
+Establishing connection with worker 3: RTT: 0.202849 ms
+Establishing connection with worker 3: RTT: 0.190858 ms
+Establishing connection with worker 3: RTT: 0.146335 ms
+Establishing connection with worker 3: RTT: 0.076907 ms
+Establishing connection with worker 3: RTT: 0.07730500000000001 ms
+Establishing connection with worker 3: RTT: 0.086348 ms
+Establishing connection with worker 3: RTT: 0.077144 ms
+Establishing connection with worker 3: RTT: 0.074229 ms
+Establishing connection with worker 3: RTT: 0.079818 ms
+Establishing connection with worker 3: RTT: 0.086854 ms
+Establishing connection with worker 3: RTT: 0.078393 ms
+Establishing connection with worker 3: RTT: 0.075721 ms
+Establishing connection with worker 3: RTT: 0.074793 ms
+Establishing connection with worker 3: RTT: 0.07537 ms
+Establishing connection with worker 3: RTT: 0.074576 ms
+Establishing connection with worker 3: RTT: 0.077036 ms
+Establishing connection with worker 3: RTT: 0.07629899999999999 ms
+Establishing connection with worker 3: RTT: 0.076854 ms
+Connection successfully established with worker 3
+
+Attempting to open connection with worker 4...
+Establishing connection with worker 4: RTT: 511.44473 ms
+Establishing connection with worker 4: RTT: 3.349474 ms
+Establishing connection with worker 4: RTT: 0.30327400000000004 ms
+Establishing connection with worker 4: RTT: 0.109905 ms
+Establishing connection with worker 4: RTT: 0.092934 ms
+Establishing connection with worker 4: RTT: 0.144335 ms
+Establishing connection with worker 4: RTT: 0.109854 ms
+Establishing connection with worker 4: RTT: 0.105086 ms
+Establishing connection with worker 4: RTT: 0.096568 ms
+Establishing connection with worker 4: RTT: 0.09686299999999999 ms
+Establishing connection with worker 4: RTT: 0.095978 ms
+Establishing connection with worker 4: RTT: 0.095501 ms
+Establishing connection with worker 4: RTT: 0.09560600000000001 ms
+Establishing connection with worker 4: RTT: 0.132835 ms
+Establishing connection with worker 4: RTT: 0.191363 ms
+Establishing connection with worker 4: RTT: 0.18871 ms
+Establishing connection with worker 4: RTT: 0.150555 ms
+Establishing connection with worker 4: RTT: 0.10514 ms
+Establishing connection with worker 4: RTT: 0.083113 ms
+Establishing connection with worker 4: RTT: 0.192076 ms
+Establishing connection with worker 4: RTT: 0.31351300000000004 ms
+Establishing connection with worker 4: RTT: 0.306126 ms
+Establishing connection with worker 4: RTT: 0.19092 ms
+Establishing connection with worker 4: RTT: 0.26653 ms
+Establishing connection with worker 4: RTT: 0.29700899999999997 ms
+Connection successfully established with worker 4
+
+All TCP connection attempts completed
+Average latency: 0.19379766666666665 ms
+
+Measuring NFS performance...
+Worker 2 is ready for NFS performance measurement
+NFS: Worker 2 ===> Size: 1 KB, RTT: 39.028016 ms, Throughput: 0.025155854566065967 Mbytes/s
+NFS: Worker 2 ===> Size: 2 KB, RTT: 1.4718179999999998 ms, Throughput: 1.544841839833962 Mbytes/s
+NFS: Worker 2 ===> Size: 3 KB, RTT: 0.9105530000000001 ms, Throughput: 4.1672711988085736 Mbytes/s
+NFS: Worker 2 ===> Size: 4 KB, RTT: 0.580286 ms, Throughput: 10.479375248151607 Mbytes/s
+NFS: Worker 2 ===> Size: 5 KB, RTT: 0.7846660000000001 ms, Throughput: 8.460419207950986 Mbytes/s
+NFS: Worker 2 ===> Size: 6 KB, RTT: 0.883827 ms, Throughput: 8.663908016744124 Mbytes/s
+NFS: Worker 2 ===> Size: 7 KB, RTT: 0.751113 ms, Throughput: 12.575701410824104 Mbytes/s
+NFS: Worker 2 ===> Size: 8 KB, RTT: 0.798343 ms, Throughput: 13.223304158845524 Mbytes/s
+NFS: Worker 2 ===> Size: 9 KB, RTT: 0.898197 ms, Throughput: 12.725470451027773 Mbytes/s
+NFS: Worker 2 ===> Size: 10 KB, RTT: 0.683918 ms, Throughput: 20.499309386466493 Mbytes/s
+NFS: Worker 2 ===> Size: 11 KB, RTT: 0.6045809999999999 ms, Throughput: 27.054931230496837 Mbytes/s
+NFS: Worker 2 ===> Size: 12 KB, RTT: 0.8187599999999999 ms, Throughput: 19.172406459107048 Mbytes/s
+NFS: Worker 2 ===> Size: 13 KB, RTT: 0.742946 ms, Throughput: 23.711119017735744 Mbytes/s
+NFS: Worker 2 ===> Size: 14 KB, RTT: 0.7036399999999999 ms, Throughput: 27.5581524258733 Mbytes/s
+NFS: Worker 2 ===> Size: 15 KB, RTT: 0.872109 ms, Throughput: 22.041679770200382 Mbytes/s
+NFS: Worker 2 ===> Size: 16 KB, RTT: 0.839881 ms, Throughput: 24.709378177626036 Mbytes/s
+NFS: Worker 2 ===> Size: 17 KB, RTT: 0.728267 ms, Throughput: 31.8808966906519 Mbytes/s
+NFS: Worker 2 ===> Size: 18 KB, RTT: 0.915948 ms, Throughput: 24.813210562125754 Mbytes/s
+NFS: Worker 2 ===> Size: 19 KB, RTT: 0.9916040000000002 ms, Throughput: 23.664459604578138 Mbytes/s
+NFS: Worker 2 ===> Size: 20 KB, RTT: 1.085202 ms, Throughput: 22.25347282356051 Mbytes/s
+NFS: Worker 2 ===> Size: 21 KB, RTT: 0.9138809999999999 ms, Throughput: 29.033458577959117 Mbytes/s
+NFS: Worker 2 ===> Size: 22 KB, RTT: 0.712271 ms, Throughput: 42.565147273552185 Mbytes/s
+NFS: Worker 2 ===> Size: 23 KB, RTT: 0.845334 ms, Throughput: 35.21604991502091 Mbytes/s
+NFS: Worker 2 ===> Size: 24 KB, RTT: 0.639926 ms, Throughput: 54.20378541892155 Mbytes/s
+NFS: Worker 2 ===> Size: 25 KB, RTT: 0.958599 ms, Throughput: 32.505751801765214 Mbytes/s
+NFS: Worker 2 ===> Size: 26 KB, RTT: 0.995134 ms, Throughput: 32.23780605481943 Mbytes/s
+NFS: Worker 2 ===> Size: 27 KB, RTT: 0.707782 ms, Throughput: 52.707810263627124 Mbytes/s
+NFS: Worker 2 ===> Size: 28 KB, RTT: 0.966312 ms, Throughput: 36.03637144792576 Mbytes/s
+NFS: Worker 2 ===> Size: 29 KB, RTT: 1.173552 ms, Throughput: 29.316426023423897 Mbytes/s
+NFS: Worker 2 ===> Size: 30 KB, RTT: 1.118066 ms, Throughput: 32.17541645799837 Mbytes/s
+NFS: Worker 2 ===> Size: 31 KB, RTT: 1.110494 ms, Throughput: 33.526738053787305 Mbytes/s
+NFS: Worker 2 ===> Size: 32 KB, RTT: 1.15097 ms, Throughput: 33.12346307131349 Mbytes/s
+NFS: Worker 2 ===> Size: 33 KB, RTT: 0.9406669999999999 ms, Throughput: 43.9570810094157 Mbytes/s
+NFS: Worker 2 ===> Size: 34 KB, RTT: 0.7946500000000001 ms, Throughput: 56.552536108461645 Mbytes/s
+NFS: Worker 2 ===> Size: 35 KB, RTT: 1.104472 ms, Throughput: 38.10690936537703 Mbytes/s
+NFS: Worker 2 ===> Size: 36 KB, RTT: 0.956673 ms, Throughput: 46.9286237740992 Mbytes/s
+NFS: Worker 2 ===> Size: 37 KB, RTT: 0.9338719999999999 ms, Throughput: 49.74627998931633 Mbytes/s
+NFS: Worker 2 ===> Size: 38 KB, RTT: 1.149896 ms, Throughput: 39.378940878597064 Mbytes/s
+NFS: Worker 2 ===> Size: 39 KB, RTT: 0.769658 ms, Throughput: 67.75314074374519 Mbytes/s
+NFS: Worker 2 ===> Size: 40 KB, RTT: 0.7592760000000001 ms, Throughput: 70.79797588020574 Mbytes/s
+NFS: Worker 2 ===> Size: 41 KB, RTT: 1.172017 ms, Throughput: 41.51332521848403 Mbytes/s
+NFS: Worker 2 ===> Size: 42 KB, RTT: 1.386615 ms, Throughput: 34.78597811014473 Mbytes/s
+NFS: Worker 2 ===> Size: 43 KB, RTT: 0.93981 ms, Throughput: 57.34444133391598 Mbytes/s
+NFS: Worker 2 ===> Size: 44 KB, RTT: 1.0898290000000002 ms, Throughput: 48.700893914647985 Mbytes/s
+NFS: Worker 2 ===> Size: 45 KB, RTT: 0.930782 ms, Throughput: 60.760720329843544 Mbytes/s
+NFS: Worker 2 ===> Size: 46 KB, RTT: 1.070471 ms, Throughput: 52.05671650784933 Mbytes/s
+NFS: Worker 2 ===> Size: 47 KB, RTT: 0.784304 ms, Throughput: 79.57785458429126 Mbytes/s
+NFS: Worker 2 ===> Size: 48 KB, RTT: 0.8174140000000001 ms, Throughput: 76.85887808173358 Mbytes/s
+NFS: Worker 2 ===> Size: 49 KB, RTT: 1.1601789999999998 ms, Throughput: 50.23000339054574 Mbytes/s
+NFS: Worker 2 ===> Size: 50 KB, RTT: 1.1633360000000001 ms, Throughput: 51.085811346654026 Mbytes/s
+NFS: Worker 2 ===> Size: 51 KB, RTT: 1.121953 ms, Throughput: 54.46569858807139 Mbytes/s
+NFS: Worker 2 ===> Size: 52 KB, RTT: 0.813948 ms, Throughput: 83.73968120999047 Mbytes/s
+NFS: Worker 2 ===> Size: 53 KB, RTT: 0.83726 ms, Throughput: 82.1904824289775 Mbytes/s
+NFS: Worker 2 ===> Size: 54 KB, RTT: 1.150367 ms, Throughput: 55.93159262947891 Mbytes/s
+NFS: Worker 2 ===> Size: 55 KB, RTT: 0.812886 ms, Throughput: 88.72619995506776 Mbytes/s
+NFS: Worker 2 ===> Size: 56 KB, RTT: 0.886682 ms, Throughput: 80.52321129879616 Mbytes/s
+NFS: Worker 2 ===> Size: 57 KB, RTT: 1.4340799999999998 ms, Throughput: 45.38262810321634 Mbytes/s
+NFS: Worker 2 ===> Size: 58 KB, RTT: 1.6164770000000002 ms, Throughput: 40.200678237009626 Mbytes/s
+NFS: Worker 2 ===> Size: 59 KB, RTT: 1.3178239999999999 ms, Throughput: 51.8936313264775 Mbytes/s
+NFS: Worker 2 ===> Size: 60 KB, RTT: 1.3138670000000001 ms, Throughput: 52.961936552786355 Mbytes/s
+NFS: Worker 2 ===> Size: 61 KB, RTT: 1.0071539999999999 ms, Throughput: 74.49790464018089 Mbytes/s
+NFS: Worker 2 ===> Size: 62 KB, RTT: 1.333859 ms, Throughput: 53.75594075976025 Mbytes/s
+NFS: Worker 2 ===> Size: 63 KB, RTT: 1.498443 ms, Throughput: 47.65885656120901 Mbytes/s
+NFS: Worker 2 ===> Size: 64 KB, RTT: 1.340346 ms, Throughput: 55.17224332989647 Mbytes/s
+NFS: Worker 2 ===> Size: 65 KB, RTT: 1.343964 ms, Throughput: 55.85591640165641 Mbytes/s
+NFS: Worker 2 ===> Size: 66 KB, RTT: 1.181456 ms, Throughput: 66.17866757844025 Mbytes/s
+NFS: Worker 2 ===> Size: 67 KB, RTT: 1.4836980000000002 ms, Throughput: 51.27043422182659 Mbytes/s
+NFS: Worker 2 ===> Size: 68 KB, RTT: 1.629321 ms, Throughput: 46.70605595337149 Mbytes/s
+NFS: Worker 2 ===> Size: 69 KB, RTT: 1.671941 ms, Throughput: 46.013593519852016 Mbytes/s
+NFS: Worker 2 ===> Size: 70 KB, RTT: 1.073787 ms, Throughput: 78.91350372926279 Mbytes/s
+NFS: Worker 2 ===> Size: 71 KB, RTT: 1.623248 ms, Throughput: 48.97581121381518 Mbytes/s
+NFS: Worker 2 ===> Size: 72 KB, RTT: 1.4251120000000002 ms, Throughput: 57.74765067157694 Mbytes/s
+NFS: Worker 2 ===> Size: 73 KB, RTT: 1.255132 ms, Throughput: 68.04975792333349 Mbytes/s
+NFS: Worker 2 ===> Size: 74 KB, RTT: 1.5839560000000001 ms, Throughput: 52.50236845279005 Mbytes/s
+NFS: Worker 2 ===> Size: 75 KB, RTT: 1.615221 ms, Throughput: 52.03001759619121 Mbytes/s
+NFS: Worker 2 ===> Size: 76 KB, RTT: 1.0909190000000002 ms, Throughput: 84.01593182618302 Mbytes/s
+NFS: Worker 2 ===> Size: 77 KB, RTT: 1.001051 ms, Throughput: 94.76159106060206 Mbytes/s
+NFS: Worker 2 ===> Size: 78 KB, RTT: 1.042596 ms, Throughput: 91.21659246095518 Mbytes/s
+NFS: Worker 2 ===> Size: 79 KB, RTT: 0.96186 ms, Throughput: 102.27412074291091 Mbytes/s
+NFS: Worker 2 ===> Size: 80 KB, RTT: 1.353976 ms, Throughput: 68.14538146585186 Mbytes/s
+NFS: Worker 2 ===> Size: 81 KB, RTT: 1.2772029999999999 ms, Throughput: 73.94929338218316 Mbytes/s
+NFS: Worker 2 ===> Size: 82 KB, RTT: 1.035863 ms, Throughput: 96.67383165948961 Mbytes/s
+NFS: Worker 2 ===> Size: 83 KB, RTT: 1.2885920000000002 ms, Throughput: 74.97690927994879 Mbytes/s
+NFS: Worker 2 ===> Size: 84 KB, RTT: 1.4116140000000001 ms, Throughput: 68.12751435946329 Mbytes/s
+NFS: Worker 2 ===> Size: 85 KB, RTT: 1.0908689999999999 ms, Throughput: 93.9705056609071 Mbytes/s
+NFS: Worker 2 ===> Size: 86 KB, RTT: 1.004853 ms, Throughput: 105.33293909745487 Mbytes/s
+NFS: Worker 2 ===> Size: 87 KB, RTT: 1.537828 ms, Throughput: 63.866094288648114 Mbytes/s
+NFS: Worker 2 ===> Size: 88 KB, RTT: 1.353288 ms, Throughput: 75.00493123329709 Mbytes/s
+NFS: Worker 2 ===> Size: 89 KB, RTT: 1.774088 ms, Throughput: 55.48090942052576 Mbytes/s
+NFS: Worker 2 ===> Size: 90 KB, RTT: 1.7616100000000001 ms, Throughput: 56.55476230309894 Mbytes/s
+NFS: Worker 2 ===> Size: 91 KB, RTT: 1.197046 ms, Throughput: 89.80874235484823 Mbytes/s
+NFS: Worker 2 ===> Size: 92 KB, RTT: 1.285396 ms, Throughput: 83.35335746744029 Mbytes/s
+NFS: Worker 2 ===> Size: 93 KB, RTT: 1.279292 ms, Throughput: 84.73925414411036 Mbytes/s
+NFS: Worker 2 ===> Size: 94 KB, RTT: 1.441758 ms, Throughput: 74.37594593543494 Mbytes/s
+NFS: Worker 2 ===> Size: 95 KB, RTT: 1.639492 ms, Throughput: 64.7876392669638 Mbytes/s
+NFS: Worker 2 ===> Size: 96 KB, RTT: 1.47304 ms, Throughput: 74.08080536700619 Mbytes/s
+NFS: Worker 2 ===> Size: 97 KB, RTT: 1.295004 ms, Throughput: 87.10696761485792 Mbytes/s
+NFS: Worker 2 ===> Size: 98 KB, RTT: 1.684671 ms, Throughput: 64.78943106988433 Mbytes/s
+NFS: Worker 2 ===> Size: 99 KB, RTT: 1.740251 ms, Throughput: 63.077159835351644 Mbytes/s
+NFS: Worker 2 ===> Size: 100 KB, RTT: 1.236554 ms, Throughput: 94.90181958827006 Mbytes/s
+NFS: Worker 2 ===> Size: 1024 KB, RTT: 5.050656 ms, Throughput: 206.47821262548197 Mbytes/s
+NFS: Worker 2 ===> Size: 2048 KB, RTT: 6.088811000000001 ms, Throughput: 340.06196949270065 Mbytes/s
+NFS: Worker 2 ===> Size: 4096 KB, RTT: 11.748808 ms, Throughput: 346.5820682943431 Mbytes/s
+NFS: Worker 2 ===> Size: 8192 KB, RTT: 25.315649 ms, Throughput: 318.6220361628842 Mbytes/s
+NFS: Worker 2 ===> Size: 16384 KB, RTT: 30.986915 ms, Throughput: 519.8284501136069 Mbytes/s
+NFS: Worker 2 ===> Size: 32768 KB, RTT: 61.52451 ms, Throughput: 521.8782790672338 Mbytes/s
+NFS: Worker 2 ===> Size: 65536 KB, RTT: 111.538378 ms, Throughput: 574.8631322739948 Mbytes/s
+NFS: Worker 2 ===> Size: 131072 KB, RTT: 218.349533 ms, Throughput: 586.7737448069549 Mbytes/s
+NFS: Worker 2 ===> Size: 262144 KB, RTT: 438.551242 ms, Throughput: 584.0165901592767 Mbytes/s
+NFS: Worker 2 ===> Size: 524288 KB, RTT: 865.008421 ms, Throughput: 592.0437933498845 Mbytes/s
+NFS: Worker 2 ===> Size: 1048576 KB, RTT: 1749.0882960000001 ms, Throughput: 585.5173319460018 Mbytes/s
+NFS performance measurement completed for worker 2
+
+Worker 3 is ready for NFS performance measurement
+NFS: Worker 3 ===> Size: 1 KB, RTT: 19.428292 ms, Throughput: 0.050464595964392935 Mbytes/s
+NFS: Worker 3 ===> Size: 2 KB, RTT: 1.317378 ms, Throughput: 1.5744354804905027 Mbytes/s
+NFS: Worker 3 ===> Size: 3 KB, RTT: 0.592063 ms, Throughput: 5.686405905176346 Mbytes/s
+NFS: Worker 3 ===> Size: 4 KB, RTT: 0.676242 ms, Throughput: 6.517064072020128 Mbytes/s
+NFS: Worker 3 ===> Size: 5 KB, RTT: 0.806393 ms, Throughput: 6.693010928819433 Mbytes/s
+NFS: Worker 3 ===> Size: 6 KB, RTT: 0.983399 ms, Throughput: 6.463413288915608 Mbytes/s
+NFS: Worker 3 ===> Size: 7 KB, RTT: 0.911418 ms, Throughput: 8.191028489127257 Mbytes/s
+NFS: Worker 3 ===> Size: 8 KB, RTT: 0.869101 ms, Throughput: 9.861192279680452 Mbytes/s
+NFS: Worker 3 ===> Size: 9 KB, RTT: 0.57453 ms, Throughput: 17.660209654473995 Mbytes/s
+NFS: Worker 3 ===> Size: 10 KB, RTT: 0.9892169999999999 ms, Throughput: 10.703661810047098 Mbytes/s
+NFS: Worker 3 ===> Size: 11 KB, RTT: 1.0397990000000001 ms, Throughput: 11.155556651729848 Mbytes/s
+NFS: Worker 3 ===> Size: 12 KB, RTT: 0.97772 ms, Throughput: 13.00831644217897 Mbytes/s
+NFS: Worker 3 ===> Size: 13 KB, RTT: 0.985758 ms, Throughput: 13.967715512309331 Mbytes/s
+NFS: Worker 3 ===> Size: 14 KB, RTT: 0.821875 ms, Throughput: 18.35099279080724 Mbytes/s
+NFS: Worker 3 ===> Size: 15 KB, RTT: 0.797596 ms, Throughput: 20.324106961991948 Mbytes/s
+NFS: Worker 3 ===> Size: 16 KB, RTT: 0.925716 ms, Throughput: 18.406996661412574 Mbytes/s
+NFS: Worker 3 ===> Size: 17 KB, RTT: 0.7684000000000001 ms, Throughput: 24.00644714885199 Mbytes/s
+NFS: Worker 3 ===> Size: 18 KB, RTT: 0.572715 ms, Throughput: 35.44970263844102 Mbytes/s
+NFS: Worker 3 ===> Size: 19 KB, RTT: 0.5641700000000001 ms, Throughput: 38.0752684089995 Mbytes/s
+NFS: Worker 3 ===> Size: 20 KB, RTT: 0.791141 ms, Throughput: 27.343700781338594 Mbytes/s
+NFS: Worker 3 ===> Size: 21 KB, RTT: 0.9536180000000001 ms, Throughput: 23.390345064350267 Mbytes/s
+NFS: Worker 3 ===> Size: 22 KB, RTT: 0.9536209999999999 ms, Throughput: 24.504087174813833 Mbytes/s
+NFS: Worker 3 ===> Size: 23 KB, RTT: 0.708275 ms, Throughput: 35.57204701775836 Mbytes/s
+NFS: Worker 3 ===> Size: 24 KB, RTT: 0.637823 ms, Throughput: 41.78038358625877 Mbytes/s
+NFS: Worker 3 ===> Size: 25 KB, RTT: 0.7953469999999999 ms, Throughput: 33.979541206386145 Mbytes/s
+NFS: Worker 3 ===> Size: 26 KB, RTT: 0.836132 ms, Throughput: 33.44048556655138 Mbytes/s
+NFS: Worker 3 ===> Size: 27 KB, RTT: 0.888046 ms, Throughput: 32.50424991863825 Mbytes/s
+NFS: Worker 3 ===> Size: 28 KB, RTT: 1.058228 ms, Throughput: 27.862721042130723 Mbytes/s
+NFS: Worker 3 ===> Size: 29 KB, RTT: 0.953152 ms, Throughput: 32.31812979146363 Mbytes/s
+NFS: Worker 3 ===> Size: 30 KB, RTT: 0.969414 ms, Throughput: 32.82342363538586 Mbytes/s
+NFS: Worker 3 ===> Size: 31 KB, RTT: 1.084972 ms, Throughput: 30.029656746531654 Mbytes/s
+NFS: Worker 3 ===> Size: 32 KB, RTT: 0.808271 ms, Throughput: 42.72528530236514 Mbytes/s
+NFS: Worker 3 ===> Size: 33 KB, RTT: 1.121342 ms, Throughput: 30.85393274025168 Mbytes/s
+NFS: Worker 3 ===> Size: 34 KB, RTT: 0.8053389999999999 ms, Throughput: 45.578323507004264 Mbytes/s
+NFS: Worker 3 ===> Size: 35 KB, RTT: 1.011432 ms, Throughput: 36.572321946375794 Mbytes/s
+NFS: Worker 3 ===> Size: 36 KB, RTT: 1.0989490000000002 ms, Throughput: 34.396264535097025 Mbytes/s
+NFS: Worker 3 ===> Size: 37 KB, RTT: 1.1374849999999999 ms, Throughput: 34.06727928940414 Mbytes/s
+NFS: Worker 3 ===> Size: 38 KB, RTT: 0.952896 ms, Throughput: 42.360269256496835 Mbytes/s
+NFS: Worker 3 ===> Size: 39 KB, RTT: 1.1807219999999998 ms, Throughput: 34.50225706334453 Mbytes/s
+NFS: Worker 3 ===> Size: 40 KB, RTT: 0.959371 ms, Throughput: 44.262603439933734 Mbytes/s
+NFS: Worker 3 ===> Size: 41 KB, RTT: 0.7468130000000001 ms, Throughput: 59.76345194258156 Mbytes/s
+NFS: Worker 3 ===> Size: 42 KB, RTT: 1.166995 ms, Throughput: 37.624146784681976 Mbytes/s
+NFS: Worker 3 ===> Size: 43 KB, RTT: 0.8097030000000001 ms, Throughput: 57.29991785483776 Mbytes/s
+NFS: Worker 3 ===> Size: 44 KB, RTT: 1.020049 ms, Throughput: 45.55659222112076 Mbytes/s
+NFS: Worker 3 ===> Size: 45 KB, RTT: 1.067394 ms, Throughput: 44.365005451571875 Mbytes/s
+NFS: Worker 3 ===> Size: 46 KB, RTT: 0.9689209999999999 ms, Throughput: 50.357063987346244 Mbytes/s
+NFS: Worker 3 ===> Size: 47 KB, RTT: 0.790879 ms, Throughput: 64.28127516543539 Mbytes/s
+NFS: Worker 3 ===> Size: 48 KB, RTT: 1.244554 ms, Throughput: 40.14301618566413 Mbytes/s
+NFS: Worker 3 ===> Size: 49 KB, RTT: 1.131099 ms, Throughput: 45.389413751073036 Mbytes/s
+NFS: Worker 3 ===> Size: 50 KB, RTT: 1.0977649999999999 ms, Throughput: 47.8279938212048 Mbytes/s
+NFS: Worker 3 ===> Size: 51 KB, RTT: 1.049763 ms, Throughput: 51.191516883901784 Mbytes/s
+NFS: Worker 3 ===> Size: 52 KB, RTT: 0.796684 ms, Throughput: 70.54617062361947 Mbytes/s
+NFS: Worker 3 ===> Size: 53 KB, RTT: 1.12953 ms, Throughput: 49.167846991856955 Mbytes/s
+NFS: Worker 3 ===> Size: 54 KB, RTT: 1.096347 ms, Throughput: 51.72607855080909 Mbytes/s
+NFS: Worker 3 ===> Size: 55 KB, RTT: 0.961814 ms, Throughput: 60.69306804827337 Mbytes/s
+NFS: Worker 3 ===> Size: 56 KB, RTT: 1.005267 ms, Throughput: 58.904280745745695 Mbytes/s
+NFS: Worker 3 ===> Size: 57 KB, RTT: 1.1806320000000001 ms, Throughput: 50.43048738061457 Mbytes/s
+NFS: Worker 3 ===> Size: 58 KB, RTT: 1.409737 ms, Throughput: 42.49482137591972 Mbytes/s
+NFS: Worker 3 ===> Size: 59 KB, RTT: 1.383633 ms, Throughput: 44.09099587611983 Mbytes/s
+NFS: Worker 3 ===> Size: 60 KB, RTT: 1.341581 ms, Throughput: 46.32916827109725 Mbytes/s
+NFS: Worker 3 ===> Size: 61 KB, RTT: 1.278818 ms, Throughput: 49.56081255345419 Mbytes/s
+NFS: Worker 3 ===> Size: 62 KB, RTT: 0.839987 ms, Throughput: 79.33987260412012 Mbytes/s
+NFS: Worker 3 ===> Size: 63 KB, RTT: 1.23152 ms, Throughput: 53.282453540677565 Mbytes/s
+NFS: Worker 3 ===> Size: 64 KB, RTT: 1.0859299999999998 ms, Throughput: 61.93785205475109 Mbytes/s
+NFS: Worker 3 ===> Size: 65 KB, RTT: 1.051519 ms, Throughput: 65.12654347904152 Mbytes/s
+NFS: Worker 3 ===> Size: 66 KB, RTT: 1.090806 ms, Throughput: 63.566248698163236 Mbytes/s
+NFS: Worker 3 ===> Size: 67 KB, RTT: 1.505404 ms, Throughput: 45.80146827202409 Mbytes/s
+NFS: Worker 3 ===> Size: 68 KB, RTT: 1.191782 ms, Throughput: 59.561020980727015 Mbytes/s
+NFS: Worker 3 ===> Size: 69 KB, RTT: 1.341153 ms, Throughput: 53.296579764755016 Mbytes/s
+NFS: Worker 3 ===> Size: 70 KB, RTT: 1.477344 ms, Throughput: 48.811041135602544 Mbytes/s
+NFS: Worker 3 ===> Size: 71 KB, RTT: 1.493236 ms, Throughput: 48.9528513494241 Mbytes/s
+NFS: Worker 3 ===> Size: 72 KB, RTT: 1.374723 ms, Throughput: 54.17534435293546 Mbytes/s
+NFS: Worker 3 ===> Size: 73 KB, RTT: 1.447123 ms, Throughput: 52.02559679887672 Mbytes/s
+NFS: Worker 3 ===> Size: 74 KB, RTT: 1.5492920000000001 ms, Throughput: 49.078891606981074 Mbytes/s
+NFS: Worker 3 ===> Size: 75 KB, RTT: 1.195729 ms, Throughput: 65.46056306557927 Mbytes/s
+NFS: Worker 3 ===> Size: 76 KB, RTT: 1.238337 ms, Throughput: 63.899988204734804 Mbytes/s
+NFS: Worker 3 ===> Size: 77 KB, RTT: 1.311492 ms, Throughput: 60.90474495358153 Mbytes/s
+NFS: Worker 3 ===> Size: 78 KB, RTT: 1.449223 ms, Throughput: 55.503931522790154 Mbytes/s
+NFS: Worker 3 ===> Size: 79 KB, RTT: 1.138669 ms, Throughput: 72.65713660100866 Mbytes/s
+NFS: Worker 3 ===> Size: 80 KB, RTT: 1.08493 ms, Throughput: 77.49911713005764 Mbytes/s
+NFS: Worker 3 ===> Size: 81 KB, RTT: 1.206966 ms, Throughput: 69.99444524082568 Mbytes/s
+NFS: Worker 3 ===> Size: 82 KB, RTT: 1.551041 ms, Throughput: 54.32019479211253 Mbytes/s
+NFS: Worker 3 ===> Size: 83 KB, RTT: 1.253933 ms, Throughput: 68.86087297454121 Mbytes/s
+NFS: Worker 3 ===> Size: 84 KB, RTT: 1.339321 ms, Throughput: 64.97694593205208 Mbytes/s
+NFS: Worker 3 ===> Size: 85 KB, RTT: 1.434533 ms, Throughput: 61.13949799621265 Mbytes/s
+NFS: Worker 3 ===> Size: 86 KB, RTT: 1.3457670000000002 ms, Throughput: 66.1860781629631 Mbytes/s
+NFS: Worker 3 ===> Size: 87 KB, RTT: 1.517413 ms, Throughput: 58.97775620436233 Mbytes/s
+NFS: Worker 3 ===> Size: 88 KB, RTT: 1.138928 ms, Throughput: 80.91479501428337 Mbytes/s
+NFS: Worker 3 ===> Size: 89 KB, RTT: 1.157309 ms, Throughput: 80.44209384009514 Mbytes/s
+NFS: Worker 3 ===> Size: 90 KB, RTT: 1.022814 ms, Throughput: 92.91156602816187 Mbytes/s
+NFS: Worker 3 ===> Size: 91 KB, RTT: 1.277982 ms, Throughput: 73.98644232754543 Mbytes/s
+NFS: Worker 3 ===> Size: 92 KB, RTT: 1.5118639999999999 ms, Throughput: 62.608448721611694 Mbytes/s
+NFS: Worker 3 ===> Size: 93 KB, RTT: 1.043854 ms, Throughput: 93.91966132368148 Mbytes/s
+NFS: Worker 3 ===> Size: 94 KB, RTT: 1.638023 ms, Throughput: 58.80008826718953 Mbytes/s
+NFS: Worker 3 ===> Size: 95 KB, RTT: 1.525827 ms, Throughput: 64.02702983423431 Mbytes/s
+NFS: Worker 3 ===> Size: 96 KB, RTT: 1.7194960000000001 ms, Throughput: 57.07269143246063 Mbytes/s
+NFS: Worker 3 ===> Size: 97 KB, RTT: 1.147685 ms, Throughput: 88.46079586788206 Mbytes/s
+NFS: Worker 3 ===> Size: 98 KB, RTT: 1.650322 ms, Throughput: 60.82305137441625 Mbytes/s
+NFS: Worker 3 ===> Size: 99 KB, RTT: 1.639759 ms, Throughput: 61.858966155972375 Mbytes/s
+NFS: Worker 3 ===> Size: 100 KB, RTT: 1.469698 ms, Throughput: 70.11284106475672 Mbytes/s
+NFS: Worker 3 ===> Size: 1024 KB, RTT: 4.030083 ms, Throughput: 252.95777198841756 Mbytes/s
+NFS: Worker 3 ===> Size: 2048 KB, RTT: 5.020587 ms, Throughput: 404.55259214039273 Mbytes/s
+NFS: Worker 3 ===> Size: 4096 KB, RTT: 9.133047999999999 ms, Throughput: 441.68665114727 Mbytes/s
+NFS: Worker 3 ===> Size: 8192 KB, RTT: 22.695130000000002 ms, Throughput: 353.69627640939564 Mbytes/s
+NFS: Worker 3 ===> Size: 16384 KB, RTT: 27.818281 ms, Throughput: 576.7547574246992 Mbytes/s
+NFS: Worker 3 ===> Size: 32768 KB, RTT: 61.483196 ms, Throughput: 521.1188121253014 Mbytes/s
+NFS: Worker 3 ===> Size: 65536 KB, RTT: 112.654504 ms, Throughput: 568.496499971353 Mbytes/s
+NFS: Worker 3 ===> Size: 131072 KB, RTT: 222.587978 ms, Throughput: 575.2521388548646 Mbytes/s
+NFS: Worker 3 ===> Size: 262144 KB, RTT: 462.805341 ms, Throughput: 553.2401985011137 Mbytes/s
+NFS: Worker 3 ===> Size: 524288 KB, RTT: 923.8368059999999 ms, Throughput: 554.2565456442303 Mbytes/s
+NFS: Worker 3 ===> Size: 1048576 KB, RTT: 1765.991261 ms, Throughput: 579.8695542325909 Mbytes/s
+NFS performance measurement completed for worker 3
+
+Worker 4 is ready for NFS performance measurement
+NFS: Worker 4 ===> Size: 1 KB, RTT: 18.725478 ms, Throughput: 0.052992058103144654 Mbytes/s
+NFS: Worker 4 ===> Size: 2 KB, RTT: 1.0800040000000002 ms, Throughput: 2.4944284446260827 Mbytes/s
+NFS: Worker 4 ===> Size: 3 KB, RTT: 0.535062 ms, Throughput: 12.306870738869074 Mbytes/s
+NFS: Worker 4 ===> Size: 4 KB, RTT: 0.80512 ms, Throughput: 7.687788691840956 Mbytes/s
+NFS: Worker 4 ===> Size: 5 KB, RTT: 1.1697520000000001 ms, Throughput: 5.59478850016557 Mbytes/s
+NFS: Worker 4 ===> Size: 6 KB, RTT: 0.997283 ms, Throughput: 8.3672605294499 Mbytes/s
+NFS: Worker 4 ===> Size: 7 KB, RTT: 0.80311 ms, Throughput: 13.50706183153165 Mbytes/s
+NFS: Worker 4 ===> Size: 8 KB, RTT: 0.557839 ms, Throughput: 29.952459456350883 Mbytes/s
+NFS: Worker 4 ===> Size: 9 KB, RTT: 0.6986950000000001 ms, Throughput: 21.880430236552925 Mbytes/s
+NFS: Worker 4 ===> Size: 10 KB, RTT: 0.701136 ms, Throughput: 24.164742766506567 Mbytes/s
+NFS: Worker 4 ===> Size: 11 KB, RTT: 0.8536400000000001 ms, Throughput: 19.29857931017137 Mbytes/s
+NFS: Worker 4 ===> Size: 12 KB, RTT: 0.9909490000000001 ms, Throughput: 16.88726691068392 Mbytes/s
+NFS: Worker 4 ===> Size: 13 KB, RTT: 0.8111929999999999 ms, Throughput: 24.690213036578346 Mbytes/s
+NFS: Worker 4 ===> Size: 14 KB, RTT: 0.752251 ms, Throughput: 30.03210380413055 Mbytes/s
+NFS: Worker 4 ===> Size: 15 KB, RTT: 0.7568400000000001 ms, Throughput: 31.856133014085604 Mbytes/s
+NFS: Worker 4 ===> Size: 16 KB, RTT: 0.8033359999999999 ms, Throughput: 30.859503838428527 Mbytes/s
+NFS: Worker 4 ===> Size: 17 KB, RTT: 0.822155 ms, Throughput: 31.613232320154776 Mbytes/s
+NFS: Worker 4 ===> Size: 18 KB, RTT: 0.58551 ms, Throughput: 60.92916489024301 Mbytes/s
+NFS: Worker 4 ===> Size: 19 KB, RTT: 0.697612 ms, Throughput: 46.31689602923592 Mbytes/s
+NFS: Worker 4 ===> Size: 20 KB, RTT: 0.856091 ms, Throughput: 34.93449976926461 Mbytes/s
+NFS: Worker 4 ===> Size: 21 KB, RTT: 0.7119099999999999 ms, Throughput: 49.42820696985547 Mbytes/s
+NFS: Worker 4 ===> Size: 22 KB, RTT: 0.855162 ms, Throughput: 38.49190992433974 Mbytes/s
+NFS: Worker 4 ===> Size: 23 KB, RTT: 0.954 ms, Throughput: 34.18758780561682 Mbytes/s
+NFS: Worker 4 ===> Size: 24 KB, RTT: 0.9454450000000001 ms, Throughput: 36.144661925001074 Mbytes/s
+NFS: Worker 4 ===> Size: 25 KB, RTT: 0.762574 ms, Throughput: 52.43964322919463 Mbytes/s
+NFS: Worker 4 ===> Size: 26 KB, RTT: 0.5999519999999999 ms, Throughput: 83.81320908553755 Mbytes/s
+NFS: Worker 4 ===> Size: 27 KB, RTT: 0.609305 ms, Throughput: 84.43011597971156 Mbytes/s
+NFS: Worker 4 ===> Size: 28 KB, RTT: 0.7720640000000001 ms, Throughput: 57.55912473292565 Mbytes/s
+NFS: Worker 4 ===> Size: 29 KB, RTT: 0.629448 ms, Throughput: 85.18950093099787 Mbytes/s
+NFS: Worker 4 ===> Size: 30 KB, RTT: 0.958682 ms, Throughput: 44.27696913732312 Mbytes/s
+NFS: Worker 4 ===> Size: 31 KB, RTT: 1.030588 ms, Throughput: 41.268135401913085 Mbytes/s
+NFS: Worker 4 ===> Size: 32 KB, RTT: 0.997132 ms, Throughput: 44.635014133230875 Mbytes/s
+NFS: Worker 4 ===> Size: 33 KB, RTT: 0.8805850000000001 ms, Throughput: 55.222563128024454 Mbytes/s
+NFS: Worker 4 ===> Size: 34 KB, RTT: 0.94887 ms, Throughput: 50.935897376894765 Mbytes/s
+NFS: Worker 4 ===> Size: 35 KB, RTT: 0.670426 ms, Throughput: 91.5322213503938 Mbytes/s
+NFS: Worker 4 ===> Size: 36 KB, RTT: 1.087097 ms, Throughput: 44.496625692327946 Mbytes/s
+NFS: Worker 4 ===> Size: 37 KB, RTT: 0.9805790000000001 ms, Throughput: 52.8589793291104 Mbytes/s
+NFS: Worker 4 ===> Size: 38 KB, RTT: 0.799991 ms, Throughput: 73.77873363261509 Mbytes/s
+NFS: Worker 4 ===> Size: 39 KB, RTT: 0.996818 ms, Throughput: 54.42333193771443 Mbytes/s
+NFS: Worker 4 ===> Size: 40 KB, RTT: 0.809777 ms, Throughput: 76.1796757988018 Mbytes/s
+NFS: Worker 4 ===> Size: 41 KB, RTT: 0.636786 ms, Throughput: 117.83923720557895 Mbytes/s
+NFS: Worker 4 ===> Size: 42 KB, RTT: 0.666273 ms, Throughput: 111.07398771610555 Mbytes/s
+NFS: Worker 4 ===> Size: 43 KB, RTT: 1.015871 ms, Throughput: 58.41481049213896 Mbytes/s
+NFS: Worker 4 ===> Size: 44 KB, RTT: 1.168392 ms, Throughput: 49.31098036110412 Mbytes/s
+NFS: Worker 4 ===> Size: 45 KB, RTT: 1.1336320000000002 ms, Throughput: 52.52701933845949 Mbytes/s
+NFS: Worker 4 ===> Size: 46 KB, RTT: 0.727418 ms, Throughput: 104.37020368997861 Mbytes/s
+NFS: Worker 4 ===> Size: 47 KB, RTT: 0.673037 ms, Throughput: 122.06122283446976 Mbytes/s
+NFS: Worker 4 ===> Size: 48 KB, RTT: 0.675921 ms, Throughput: 123.70946288320242 Mbytes/s
+NFS: Worker 4 ===> Size: 49 KB, RTT: 0.889142 ms, Throughput: 80.81218662023565 Mbytes/s
+NFS: Worker 4 ===> Size: 50 KB, RTT: 1.099632 ms, Throughput: 60.83569122738821 Mbytes/s
+NFS: Worker 4 ===> Size: 51 KB, RTT: 0.71194 ms, Throughput: 120.03125218409808 Mbytes/s
+NFS: Worker 4 ===> Size: 52 KB, RTT: 1.095763 ms, Throughput: 63.57558146813662 Mbytes/s
+NFS: Worker 4 ===> Size: 53 KB, RTT: 1.22112 ms, Throughput: 56.0082203328388 Mbytes/s
+NFS: Worker 4 ===> Size: 54 KB, RTT: 0.948496 ms, Throughput: 80.94463128197494 Mbytes/s
+NFS: Worker 4 ===> Size: 55 KB, RTT: 0.9343100000000001 ms, Throughput: 84.27875917345179 Mbytes/s
+NFS: Worker 4 ===> Size: 56 KB, RTT: 0.628237 ms, Throughput: 165.10530510705615 Mbytes/s
+NFS: Worker 4 ===> Size: 57 KB, RTT: 1.059994 ms, Throughput: 72.95564460638151 Mbytes/s
+NFS: Worker 4 ===> Size: 58 KB, RTT: 1.231835 ms, Throughput: 60.589484032322595 Mbytes/s
+NFS: Worker 4 ===> Size: 59 KB, RTT: 1.297387 ms, Throughput: 57.59541643258847 Mbytes/s
+NFS: Worker 4 ===> Size: 60 KB, RTT: 1.150743 ms, Throughput: 68.63232575954571 Mbytes/s
+NFS: Worker 4 ===> Size: 61 KB, RTT: 1.146352 ms, Throughput: 70.13693231120996 Mbytes/s
+NFS: Worker 4 ===> Size: 62 KB, RTT: 0.999991 ms, Throughput: 86.128627760028 Mbytes/s
+NFS: Worker 4 ===> Size: 63 KB, RTT: 0.7276560000000001 ms, Throughput: 142.86280294533572 Mbytes/s
+NFS: Worker 4 ===> Size: 64 KB, RTT: 0.9884139999999999 ms, Throughput: 90.39564365314106 Mbytes/s
+NFS: Worker 4 ===> Size: 65 KB, RTT: 0.740202 ms, Throughput: 143.22555297579157 Mbytes/s
+NFS: Worker 4 ===> Size: 66 KB, RTT: 0.802037 ms, Throughput: 127.62287437528215 Mbytes/s
+NFS: Worker 4 ===> Size: 67 KB, RTT: 1.1182239999999999 ms, Throughput: 79.67424791315308 Mbytes/s
+NFS: Worker 4 ===> Size: 68 KB, RTT: 0.863541 ms, Throughput: 117.21535588457492 Mbytes/s
+NFS: Worker 4 ===> Size: 69 KB, RTT: 0.871754 ms, Throughput: 117.23949316653473 Mbytes/s
+NFS: Worker 4 ===> Size: 70 KB, RTT: 0.8794799999999999 ms, Throughput: 117.36099307948379 Mbytes/s
+NFS: Worker 4 ===> Size: 71 KB, RTT: 1.145153 ms, Throughput: 81.75019513195872 Mbytes/s
+NFS: Worker 4 ===> Size: 72 KB, RTT: 0.9812989999999999 ms, Throughput: 102.75248798024231 Mbytes/s
+NFS: Worker 4 ===> Size: 73 KB, RTT: 1.023321 ms, Throughput: 98.15211988787188 Mbytes/s
+NFS: Worker 4 ===> Size: 74 KB, RTT: 0.832069 ms, Throughput: 135.06078757522522 Mbytes/s
+NFS: Worker 4 ===> Size: 75 KB, RTT: 0.840272 ms, Throughput: 134.81902411907308 Mbytes/s
+NFS: Worker 4 ===> Size: 76 KB, RTT: 0.818586 ms, Throughput: 142.2968229043842 Mbytes/s
+NFS: Worker 4 ===> Size: 77 KB, RTT: 0.83351 ms, Throughput: 140.15875552888065 Mbytes/s
+NFS: Worker 4 ===> Size: 78 KB, RTT: 0.8789060000000001 ms, Throughput: 130.90267693423405 Mbytes/s
+NFS: Worker 4 ===> Size: 79 KB, RTT: 0.877842 ms, Throughput: 132.8237849777819 Mbytes/s
+NFS: Worker 4 ===> Size: 80 KB, RTT: 1.1948830000000001 ms, Throughput: 87.01109509797587 Mbytes/s
+NFS: Worker 4 ===> Size: 81 KB, RTT: 0.9433790000000001 ms, Throughput: 122.37814641768645 Mbytes/s
+NFS: Worker 4 ===> Size: 82 KB, RTT: 0.82479 ms, Throughput: 151.7260473567635 Mbytes/s
+NFS: Worker 4 ===> Size: 83 KB, RTT: 1.316694 ms, Throughput: 79.4899282621594 Mbytes/s
+NFS: Worker 4 ===> Size: 84 KB, RTT: 1.148634 ms, Throughput: 96.32320563628357 Mbytes/s
+NFS: Worker 4 ===> Size: 85 KB, RTT: 1.067985 ms, Throughput: 107.66588389262441 Mbytes/s
+NFS: Worker 4 ===> Size: 86 KB, RTT: 1.062688 ms, Throughput: 109.6861413203183 Mbytes/s
+NFS: Worker 4 ===> Size: 87 KB, RTT: 0.828981 ms, Throughput: 159.7094160970878 Mbytes/s
+NFS: Worker 4 ===> Size: 88 KB, RTT: 1.023463 ms, Throughput: 118.29723561299132 Mbytes/s
+NFS: Worker 4 ===> Size: 89 KB, RTT: 0.86393 ms, Throughput: 153.30894868949997 Mbytes/s
+NFS: Worker 4 ===> Size: 90 KB, RTT: 1.087132 ms, Throughput: 111.23663657430552 Mbytes/s
+NFS: Worker 4 ===> Size: 91 KB, RTT: 0.8471690000000001 ms, Throughput: 161.52971408317578 Mbytes/s
+NFS: Worker 4 ===> Size: 92 KB, RTT: 1.050929 ms, Throughput: 119.16881101443126 Mbytes/s
+NFS: Worker 4 ===> Size: 93 KB, RTT: 0.852557 ms, Throughput: 163.47878581148703 Mbytes/s
+NFS: Worker 4 ===> Size: 94 KB, RTT: 1.262668 ms, Throughput: 95.0613777741418 Mbytes/s
+NFS: Worker 4 ===> Size: 95 KB, RTT: 0.95439 ms, Throughput: 141.12582733605018 Mbytes/s
+NFS: Worker 4 ===> Size: 96 KB, RTT: 0.954019 ms, Throughput: 142.6918920564375 Mbytes/s
+NFS: Worker 4 ===> Size: 97 KB, RTT: 1.156242 ms, Throughput: 110.24548929103048 Mbytes/s
+NFS: Worker 4 ===> Size: 98 KB, RTT: 1.3883590000000001 ms, Throughput: 87.69242222934896 Mbytes/s
+NFS: Worker 4 ===> Size: 99 KB, RTT: 1.143402 ms, Throughput: 114.2255282120717 Mbytes/s
+NFS: Worker 4 ===> Size: 100 KB, RTT: 1.581289 ms, Throughput: 76.03968760706388 Mbytes/s
+NFS: Worker 4 ===> Size: 1024 KB, RTT: 3.744138 ms, Throughput: 290.0964831893439 Mbytes/s
+NFS: Worker 4 ===> Size: 2048 KB, RTT: 4.890931999999999 ms, Throughput: 435.3577541460752 Mbytes/s
+NFS: Worker 4 ===> Size: 4096 KB, RTT: 8.06127 ms, Throughput: 515.1810326829559 Mbytes/s
+NFS: Worker 4 ===> Size: 8192 KB, RTT: 23.369023 ms, Throughput: 346.74042760202906 Mbytes/s
+NFS: Worker 4 ===> Size: 16384 KB, RTT: 28.362379999999998 ms, Throughput: 570.0975768323177 Mbytes/s
+NFS: Worker 4 ===> Size: 32768 KB, RTT: 59.04438699999999 ms, Throughput: 544.7051611392768 Mbytes/s
+NFS: Worker 4 ===> Size: 65536 KB, RTT: 111.151895 ms, Throughput: 577.3313410831527 Mbytes/s
+NFS: Worker 4 ===> Size: 131072 KB, RTT: 219.889433 ms, Throughput: 582.8980693796613 Mbytes/s
+NFS: Worker 4 ===> Size: 262144 KB, RTT: 442.348191 ms, Throughput: 579.1184605406168 Mbytes/s
+NFS: Worker 4 ===> Size: 524288 KB, RTT: 909.519614 ms, Throughput: 563.1184235680106 Mbytes/s
+NFS: Worker 4 ===> Size: 1048576 KB, RTT: 1900.140723 ms, Throughput: 538.9917036091528 Mbytes/s
+NFS performance measurement completed for worker 4
+
+Measuring SCP performance...
+Worker 2 is ready for SCP performance measurement
+SCP: Worker 2 ===> Size: 1 KB, RTT: 287.741739 ms, Throughput: 0.003396335007915528 Mbytes/s
+SCP: Worker 2 ===> Size: 2 KB, RTT: 193.105433 ms, Throughput: 0.010125174870356161 Mbytes/s
+SCP: Worker 2 ===> Size: 3 KB, RTT: 202.808104 ms, Throughput: 0.014460410660040876 Mbytes/s
+SCP: Worker 2 ===> Size: 4 KB, RTT: 192.310777 ms, Throughput: 0.020334117517545137 Mbytes/s
+SCP: Worker 2 ===> Size: 5 KB, RTT: 195.826402 ms, Throughput: 0.024960845802239368 Mbytes/s
+SCP: Worker 2 ===> Size: 6 KB, RTT: 195.344519 ms, Throughput: 0.030026982736727586 Mbytes/s
+SCP: Worker 2 ===> Size: 7 KB, RTT: 189.68907 ms, Throughput: 0.03607706323265053 Mbytes/s
+SCP: Worker 2 ===> Size: 8 KB, RTT: 196.217626 ms, Throughput: 0.039857640802339084 Mbytes/s
+SCP: Worker 2 ===> Size: 9 KB, RTT: 191.108368 ms, Throughput: 0.04603993671311176 Mbytes/s
+SCP: Worker 2 ===> Size: 10 KB, RTT: 196.203982 ms, Throughput: 0.04982551929052267 Mbytes/s
+SCP: Worker 2 ===> Size: 11 KB, RTT: 188.26986200000002 ms, Throughput: 0.05712035677617781 Mbytes/s
+SCP: Worker 2 ===> Size: 12 KB, RTT: 191.40455500000002 ms, Throughput: 0.061291487145262856 Mbytes/s
+SCP: Worker 2 ===> Size: 13 KB, RTT: 192.504319 ms, Throughput: 0.0660193681133178 Mbytes/s
+SCP: Worker 2 ===> Size: 14 KB, RTT: 186.518788 ms, Throughput: 0.07338190481221485 Mbytes/s
+SCP: Worker 2 ===> Size: 15 KB, RTT: 192.41744 ms, Throughput: 0.07621062566441034 Mbytes/s
+SCP: Worker 2 ===> Size: 16 KB, RTT: 193.501212 ms, Throughput: 0.08083554432989692 Mbytes/s
+SCP: Worker 2 ===> Size: 17 KB, RTT: 191.68284899999998 ms, Throughput: 0.08670340692838852 Mbytes/s
+SCP: Worker 2 ===> Size: 18 KB, RTT: 195.223379 ms, Throughput: 0.09013690471895953 Mbytes/s
+SCP: Worker 2 ===> Size: 19 KB, RTT: 188.210396 ms, Throughput: 0.09869364172352564 Mbytes/s
+SCP: Worker 2 ===> Size: 20 KB, RTT: 192.47573100000002 ms, Throughput: 0.10158336063070565 Mbytes/s
+SCP: Worker 2 ===> Size: 21 KB, RTT: 187.49516699999998 ms, Throughput: 0.10949901888078177 Mbytes/s
+SCP: Worker 2 ===> Size: 22 KB, RTT: 207.71810299999999 ms, Throughput: 0.10353388113867336 Mbytes/s
+SCP: Worker 2 ===> Size: 23 KB, RTT: 209.48692899999998 ms, Throughput: 0.10732512424694034 Mbytes/s
+SCP: Worker 2 ===> Size: 24 KB, RTT: 191.295888 ms, Throughput: 0.12265268405310177 Mbytes/s
+SCP: Worker 2 ===> Size: 25 KB, RTT: 191.537439 ms, Throughput: 0.1276019135095078 Mbytes/s
+SCP: Worker 2 ===> Size: 26 KB, RTT: 191.437018 ms, Throughput: 0.13277567840374077 Mbytes/s
+SCP: Worker 2 ===> Size: 27 KB, RTT: 188.759668 ms, Throughput: 0.13984029976896895 Mbytes/s
+SCP: Worker 2 ===> Size: 28 KB, RTT: 195.829567 ms, Throughput: 0.13977847495780857 Mbytes/s
+SCP: Worker 2 ===> Size: 29 KB, RTT: 200.119448 ms, Throughput: 0.14166395272141805 Mbytes/s
+SCP: Worker 2 ===> Size: 30 KB, RTT: 195.62561 ms, Throughput: 0.14991895836864225 Mbytes/s
+SCP: Worker 2 ===> Size: 31 KB, RTT: 188.72074899999998 ms, Throughput: 0.16059052866738222 Mbytes/s
+SCP: Worker 2 ===> Size: 32 KB, RTT: 195.39636299999998 ms, Throughput: 0.1601013721927422 Mbytes/s
+SCP: Worker 2 ===> Size: 33 KB, RTT: 187.710033 ms, Throughput: 0.17187270561396187 Mbytes/s
+SCP: Worker 2 ===> Size: 34 KB, RTT: 188.473276 ms, Throughput: 0.17636307031657264 Mbytes/s
+SCP: Worker 2 ===> Size: 35 KB, RTT: 192.07918800000002 ms, Throughput: 0.17813828189257633 Mbytes/s
+SCP: Worker 2 ===> Size: 36 KB, RTT: 191.83883400000002 ms, Throughput: 0.18345776115994075 Mbytes/s
+SCP: Worker 2 ===> Size: 37 KB, RTT: 196.299972 ms, Throughput: 0.18426417730062233 Mbytes/s
+SCP: Worker 2 ===> Size: 38 KB, RTT: 192.733109 ms, Throughput: 0.1927503617584238 Mbytes/s
+SCP: Worker 2 ===> Size: 39 KB, RTT: 190.094975 ms, Throughput: 0.2005711199073746 Mbytes/s
+SCP: Worker 2 ===> Size: 40 KB, RTT: 192.55957500000002 ms, Throughput: 0.20307816327089218 Mbytes/s
+SCP: Worker 2 ===> Size: 41 KB, RTT: 192.492591 ms, Throughput: 0.2082276298105135 Mbytes/s
+SCP: Worker 2 ===> Size: 42 KB, RTT: 200.28277599999998 ms, Throughput: 0.20500099747472011 Mbytes/s
+SCP: Worker 2 ===> Size: 43 KB, RTT: 195.414968 ms, Throughput: 0.21511571449444464 Mbytes/s
+SCP: Worker 2 ===> Size: 44 KB, RTT: 188.67029499999998 ms, Throughput: 0.22799596514462686 Mbytes/s
+SCP: Worker 2 ===> Size: 45 KB, RTT: 186.70158800000002 ms, Throughput: 0.2356392100170827 Mbytes/s
+SCP: Worker 2 ===> Size: 46 KB, RTT: 188.80992 ms, Throughput: 0.23818295727853717 Mbytes/s
+SCP: Worker 2 ===> Size: 47 KB, RTT: 192.487216 ms, Throughput: 0.2387066385161457 Mbytes/s
+SCP: Worker 2 ===> Size: 48 KB, RTT: 187.66345 ms, Throughput: 0.25005878715380125 Mbytes/s
+SCP: Worker 2 ===> Size: 49 KB, RTT: 195.055692 ms, Throughput: 0.24558385364702595 Mbytes/s
+SCP: Worker 2 ===> Size: 50 KB, RTT: 192.42764200000002 ms, Throughput: 0.254021936060468 Mbytes/s
+SCP: Worker 2 ===> Size: 51 KB, RTT: 192.75437100000002 ms, Throughput: 0.25866270898726407 Mbytes/s
+SCP: Worker 2 ===> Size: 52 KB, RTT: 191.646601 ms, Throughput: 0.26526063741711325 Mbytes/s
+SCP: Worker 2 ===> Size: 53 KB, RTT: 190.848086 ms, Throughput: 0.2714942380885629 Mbytes/s
+SCP: Worker 2 ===> Size: 54 KB, RTT: 192.665211 ms, Throughput: 0.27400504217859717 Mbytes/s
+SCP: Worker 2 ===> Size: 55 KB, RTT: 191.44819299999997 ms, Throughput: 0.28085521487655585 Mbytes/s
+SCP: Worker 2 ===> Size: 56 KB, RTT: 195.431413 ms, Throughput: 0.2801270989984356 Mbytes/s
+SCP: Worker 2 ===> Size: 57 KB, RTT: 201.635698 ms, Throughput: 0.27634696305235723 Mbytes/s
+SCP: Worker 2 ===> Size: 58 KB, RTT: 191.658029 ms, Throughput: 0.2958499732090017 Mbytes/s
+SCP: Worker 2 ===> Size: 59 KB, RTT: 192.151173 ms, Throughput: 0.3001776281801633 Mbytes/s
+SCP: Worker 2 ===> Size: 60 KB, RTT: 191.32560700000002 ms, Throughput: 0.30658402867877327 Mbytes/s
+SCP: Worker 2 ===> Size: 61 KB, RTT: 192.665221 ms, Throughput: 0.30952419823014504 Mbytes/s
+SCP: Worker 2 ===> Size: 62 KB, RTT: 190.896486 ms, Throughput: 0.3175164218739548 Mbytes/s
+SCP: Worker 2 ===> Size: 63 KB, RTT: 191.838426 ms, Throughput: 0.321051765577509 Mbytes/s
+SCP: Worker 2 ===> Size: 64 KB, RTT: 192.544874 ms, Throughput: 0.3249498963654193 Mbytes/s
+SCP: Worker 2 ===> Size: 65 KB, RTT: 187.273959 ms, Throughput: 0.33932631760453397 Mbytes/s
+SCP: Worker 2 ===> Size: 66 KB, RTT: 188.149857 ms, Throughput: 0.3429409757175136 Mbytes/s
+SCP: Worker 2 ===> Size: 67 KB, RTT: 187.940288 ms, Throughput: 0.34852568191641864 Mbytes/s
+SCP: Worker 2 ===> Size: 68 KB, RTT: 192.290685 ms, Throughput: 0.3457161561095766 Mbytes/s
+SCP: Worker 2 ===> Size: 69 KB, RTT: 193.386752 ms, Throughput: 0.3488098347347108 Mbytes/s
+SCP: Worker 2 ===> Size: 70 KB, RTT: 186.420015 ms, Throughput: 0.3671041444938561 Mbytes/s
+SCP: Worker 2 ===> Size: 71 KB, RTT: 192.544033 ms, Throughput: 0.36049286754475307 Mbytes/s
+SCP: Worker 2 ===> Size: 72 KB, RTT: 187.546777 ms, Throughput: 0.3753217818794799 Mbytes/s
+SCP: Worker 2 ===> Size: 73 KB, RTT: 191.855218 ms, Throughput: 0.3719797678957651 Mbytes/s
+SCP: Worker 2 ===> Size: 74 KB, RTT: 188.70572099999998 ms, Throughput: 0.3833756951014984 Mbytes/s
+SCP: Worker 2 ===> Size: 75 KB, RTT: 187.860243 ms, Throughput: 0.3903071068309042 Mbytes/s
+SCP: Worker 2 ===> Size: 76 KB, RTT: 192.542344 ms, Throughput: 0.38588307782906117 Mbytes/s
+SCP: Worker 2 ===> Size: 77 KB, RTT: 192.385481 ms, Throughput: 0.3912796036627532 Mbytes/s
+SCP: Worker 2 ===> Size: 78 KB, RTT: 194.646809 ms, Throughput: 0.39175147836255864 Mbytes/s
+SCP: Worker 2 ===> Size: 79 KB, RTT: 189.043712 ms, Throughput: 0.40854690389789816 Mbytes/s
+SCP: Worker 2 ===> Size: 80 KB, RTT: 195.182325 ms, Throughput: 0.40069281775626436 Mbytes/s
+SCP: Worker 2 ===> Size: 81 KB, RTT: 187.89565 ms, Throughput: 0.42145215424396604 Mbytes/s
+SCP: Worker 2 ===> Size: 82 KB, RTT: 197.837851 ms, Throughput: 0.40519149387001197 Mbytes/s
+SCP: Worker 2 ===> Size: 83 KB, RTT: 190.908138 ms, Throughput: 0.4250363349654344 Mbytes/s
+SCP: Worker 2 ===> Size: 84 KB, RTT: 191.989811 ms, Throughput: 0.4277311207910808 Mbytes/s
+SCP: Worker 2 ===> Size: 85 KB, RTT: 192.474112 ms, Throughput: 0.4317329181001408 Mbytes/s
+SCP: Worker 2 ===> Size: 86 KB, RTT: 190.761917 ms, Throughput: 0.44073703220487914 Mbytes/s
+SCP: Worker 2 ===> Size: 87 KB, RTT: 192.87081799999999 ms, Throughput: 0.4409814572457624 Mbytes/s
+SCP: Worker 2 ===> Size: 88 KB, RTT: 191.201006 ms, Throughput: 0.449949923943999 Mbytes/s
+SCP: Worker 2 ===> Size: 89 KB, RTT: 193.696189 ms, Throughput: 0.4491946088685229 Mbytes/s
+SCP: Worker 2 ===> Size: 90 KB, RTT: 195.41771599999998 ms, Throughput: 0.4502358550080989 Mbytes/s
+SCP: Worker 2 ===> Size: 91 KB, RTT: 191.495739 ms, Throughput: 0.46457221783073943 Mbytes/s
+SCP: Worker 2 ===> Size: 92 KB, RTT: 194.992798 ms, Throughput: 0.46124509785822204 Mbytes/s
+SCP: Worker 2 ===> Size: 93 KB, RTT: 196.418848 ms, Throughput: 0.46286989673042206 Mbytes/s
+SCP: Worker 2 ===> Size: 94 KB, RTT: 191.27342099999998 ms, Throughput: 0.48044616712880484 Mbytes/s
+SCP: Worker 2 ===> Size: 95 KB, RTT: 192.692364 ms, Throughput: 0.4819779074126952 Mbytes/s
+SCP: Worker 2 ===> Size: 96 KB, RTT: 196.561285 ms, Throughput: 0.47745458191008366 Mbytes/s
+SCP: Worker 2 ===> Size: 97 KB, RTT: 186.914401 ms, Throughput: 0.5073544534951796 Mbytes/s
+SCP: Worker 2 ===> Size: 98 KB, RTT: 193.681386 ms, Throughput: 0.49465662688813106 Mbytes/s
+SCP: Worker 2 ===> Size: 99 KB, RTT: 191.045611 ms, Throughput: 0.5066058461361284 Mbytes/s
+SCP: Worker 2 ===> Size: 100 KB, RTT: 191.563814 ms, Throughput: 0.5103373035818359 Mbytes/s
+SCP: Worker 2 ===> Size: 1024 KB, RTT: 195.50753400000002 ms, Throughput: 5.120327596101841 Mbytes/s
+SCP: Worker 2 ===> Size: 2048 KB, RTT: 199.87376700000002 ms, Throughput: 10.016716045988286 Mbytes/s
+SCP: Worker 2 ===> Size: 4096 KB, RTT: 206.98024 ms, Throughput: 19.344912585418065 Mbytes/s
+SCP: Worker 2 ===> Size: 8192 KB, RTT: 223.583644 ms, Throughput: 35.81403515686552 Mbytes/s
+SCP: Worker 2 ===> Size: 16384 KB, RTT: 241.359779 ms, Throughput: 66.34812682174073 Mbytes/s
+SCP: Worker 2 ===> Size: 32768 KB, RTT: 282.04768 ms, Throughput: 113.5395365067752 Mbytes/s
+SCP: Worker 2 ===> Size: 65536 KB, RTT: 367.41923399999996 ms, Throughput: 174.286383856654 Mbytes/s
+SCP: Worker 2 ===> Size: 131072 KB, RTT: 523.579197 ms, Throughput: 244.56807288347153 Mbytes/s
+SCP: Worker 2 ===> Size: 262144 KB, RTT: 874.891536 ms, Throughput: 292.67712481757667 Mbytes/s
+SCP: Worker 2 ===> Size: 524288 KB, RTT: 1551.110352 ms, Throughput: 330.1302910389572 Mbytes/s
+SCP: Worker 2 ===> Size: 1048576 KB, RTT: 2740.081326 ms, Throughput: 373.7398421397947 Mbytes/s
+SCP performance measurement completed for worker 2
+
+Worker 3 is ready for SCP performance measurement
+SCP: Worker 3 ===> Size: 1 KB, RTT: 208.183172 ms, Throughput: 0.0046926134169554615 Mbytes/s
+SCP: Worker 3 ===> Size: 2 KB, RTT: 190.12442299999998 ms, Throughput: 0.010277032272904264 Mbytes/s
+SCP: Worker 3 ===> Size: 3 KB, RTT: 190.28921100000002 ms, Throughput: 0.015402193349615028 Mbytes/s
+SCP: Worker 3 ===> Size: 4 KB, RTT: 183.75560399999998 ms, Throughput: 0.021266749692057465 Mbytes/s
+SCP: Worker 3 ===> Size: 5 KB, RTT: 190.040929 ms, Throughput: 0.02570387321918631 Mbytes/s
+SCP: Worker 3 ===> Size: 6 KB, RTT: 182.79814199999998 ms, Throughput: 0.03206728161854901 Mbytes/s
+SCP: Worker 3 ===> Size: 7 KB, RTT: 187.586207 ms, Throughput: 0.036456514785158475 Mbytes/s
+SCP: Worker 3 ===> Size: 8 KB, RTT: 191.453835 ms, Throughput: 0.040822568937901677 Mbytes/s
+SCP: Worker 3 ===> Size: 9 KB, RTT: 184.336575 ms, Throughput: 0.04769931514223882 Mbytes/s
+SCP: Worker 3 ===> Size: 10 KB, RTT: 193.049272 ms, Throughput: 0.050606325511244825 Mbytes/s
+SCP: Worker 3 ===> Size: 11 KB, RTT: 183.89324100000002 ms, Throughput: 0.058439770660925885 Mbytes/s
+SCP: Worker 3 ===> Size: 12 KB, RTT: 187.404805 ms, Throughput: 0.06255740233874654 Mbytes/s
+SCP: Worker 3 ===> Size: 13 KB, RTT: 184.194459 ms, Throughput: 0.06895219226863178 Mbytes/s
+SCP: Worker 3 ===> Size: 14 KB, RTT: 187.389883 ms, Throughput: 0.07298945018928714 Mbytes/s
+SCP: Worker 3 ===> Size: 15 KB, RTT: 188.561118 ms, Throughput: 0.07771703159262143 Mbytes/s
+SCP: Worker 3 ===> Size: 16 KB, RTT: 184.04565300000002 ms, Throughput: 0.08493288038478741 Mbytes/s
+SCP: Worker 3 ===> Size: 17 KB, RTT: 187.583599 ms, Throughput: 0.08853848164235371 Mbytes/s
+SCP: Worker 3 ===> Size: 18 KB, RTT: 192.526229 ms, Throughput: 0.09133895602414921 Mbytes/s
+SCP: Worker 3 ===> Size: 19 KB, RTT: 199.888709 ms, Throughput: 0.0928607939704078 Mbytes/s
+SCP: Worker 3 ===> Size: 20 KB, RTT: 184.774624 ms, Throughput: 0.10574708075793227 Mbytes/s
+SCP: Worker 3 ===> Size: 21 KB, RTT: 186.935574 ms, Throughput: 0.10975036380426881 Mbytes/s
+SCP: Worker 3 ===> Size: 22 KB, RTT: 184.10099699999998 ms, Throughput: 0.11674758892913306 Mbytes/s
+SCP: Worker 3 ===> Size: 23 KB, RTT: 184.227902 ms, Throughput: 0.12197018558373884 Mbytes/s
+SCP: Worker 3 ===> Size: 24 KB, RTT: 181.84168300000002 ms, Throughput: 0.1289440874174838 Mbytes/s
+SCP: Worker 3 ===> Size: 25 KB, RTT: 187.004798 ms, Throughput: 0.13060681018350043 Mbytes/s
+SCP: Worker 3 ===> Size: 26 KB, RTT: 183.56565999999998 ms, Throughput: 0.13837696998257212 Mbytes/s
+SCP: Worker 3 ===> Size: 27 KB, RTT: 182.598929 ms, Throughput: 0.1444602659705682 Mbytes/s
+SCP: Worker 3 ===> Size: 28 KB, RTT: 184.1036 ms, Throughput: 0.1485857387273478 Mbytes/s
+SCP: Worker 3 ===> Size: 29 KB, RTT: 184.625768 ms, Throughput: 0.153456944753411 Mbytes/s
+SCP: Worker 3 ===> Size: 30 KB, RTT: 184.307957 ms, Throughput: 0.15902241544957801 Mbytes/s
+SCP: Worker 3 ===> Size: 31 KB, RTT: 183.599064 ms, Throughput: 0.16495789528689742 Mbytes/s
+SCP: Worker 3 ===> Size: 32 KB, RTT: 183.43849600000001 ms, Throughput: 0.1704282294766972 Mbytes/s
+SCP: Worker 3 ===> Size: 33 KB, RTT: 185.203799 ms, Throughput: 0.1740781845668117 Mbytes/s
+SCP: Worker 3 ===> Size: 34 KB, RTT: 184.949235 ms, Throughput: 0.1796002454255187 Mbytes/s
+SCP: Worker 3 ===> Size: 35 KB, RTT: 182.35220999999999 ms, Throughput: 0.1875167781869536 Mbytes/s
+SCP: Worker 3 ===> Size: 36 KB, RTT: 183.471818 ms, Throughput: 0.19169692140510464 Mbytes/s
+SCP: Worker 3 ===> Size: 37 KB, RTT: 184.228963 ms, Throughput: 0.19621177675461757 Mbytes/s
+SCP: Worker 3 ===> Size: 38 KB, RTT: 193.681981 ms, Throughput: 0.1916755799550701 Mbytes/s
+SCP: Worker 3 ===> Size: 39 KB, RTT: 187.838268 ms, Throughput: 0.20284219578789495 Mbytes/s
+SCP: Worker 3 ===> Size: 40 KB, RTT: 182.431547 ms, Throughput: 0.21421165179445092 Mbytes/s
+SCP: Worker 3 ===> Size: 41 KB, RTT: 184.517722 ms, Throughput: 0.21708346384490013 Mbytes/s
+SCP: Worker 3 ===> Size: 42 KB, RTT: 184.91054100000002 ms, Throughput: 0.22190557179114215 Mbytes/s
+SCP: Worker 3 ===> Size: 43 KB, RTT: 188.016757 ms, Throughput: 0.2234341235134084 Mbytes/s
+SCP: Worker 3 ===> Size: 44 KB, RTT: 183.81527 ms, Throughput: 0.23385828035003847 Mbytes/s
+SCP: Worker 3 ===> Size: 45 KB, RTT: 187.854919 ms, Throughput: 0.23402793345431477 Mbytes/s
+SCP: Worker 3 ===> Size: 46 KB, RTT: 211.476041 ms, Throughput: 0.21249786074153632 Mbytes/s
+SCP: Worker 3 ===> Size: 47 KB, RTT: 210.95217599999998 ms, Throughput: 0.21765675122478295 Mbytes/s
+SCP: Worker 3 ===> Size: 48 KB, RTT: 196.927594 ms, Throughput: 0.2381245810912369 Mbytes/s
+SCP: Worker 3 ===> Size: 49 KB, RTT: 188.683469 ms, Throughput: 0.25371094486797297 Mbytes/s
+SCP: Worker 3 ===> Size: 50 KB, RTT: 182.428537 ms, Throughput: 0.2677689846163909 Mbytes/s
+SCP: Worker 3 ===> Size: 51 KB, RTT: 184.580362 ms, Throughput: 0.2699389731928566 Mbytes/s
+SCP: Worker 3 ===> Size: 52 KB, RTT: 183.557426 ms, Throughput: 0.27676635976478203 Mbytes/s
+SCP: Worker 3 ===> Size: 53 KB, RTT: 189.277552 ms, Throughput: 0.2735603676261279 Mbytes/s
+SCP: Worker 3 ===> Size: 54 KB, RTT: 192.442964 ms, Throughput: 0.27413547531839155 Mbytes/s
+SCP: Worker 3 ===> Size: 55 KB, RTT: 186.139924 ms, Throughput: 0.28867059701852704 Mbytes/s
+SCP: Worker 3 ===> Size: 56 KB, RTT: 190.515981 ms, Throughput: 0.28716525254812786 Mbytes/s
+SCP: Worker 3 ===> Size: 57 KB, RTT: 181.73821800000002 ms, Throughput: 0.3064166274783668 Mbytes/s
+SCP: Worker 3 ===> Size: 58 KB, RTT: 184.128084 ms, Throughput: 0.30774380046251254 Mbytes/s
+SCP: Worker 3 ===> Size: 59 KB, RTT: 187.801354 ms, Throughput: 0.30692417611979256 Mbytes/s
+SCP: Worker 3 ===> Size: 60 KB, RTT: 184.935021 ms, Throughput: 0.31696597965293033 Mbytes/s
+SCP: Worker 3 ===> Size: 61 KB, RTT: 183.047875 ms, Throughput: 0.3255723894113265 Mbytes/s
+SCP: Worker 3 ===> Size: 62 KB, RTT: 185.205485 ms, Throughput: 0.3270530045674026 Mbytes/s
+SCP: Worker 3 ===> Size: 63 KB, RTT: 183.122126 ms, Throughput: 0.33611049784448954 Mbytes/s
+SCP: Worker 3 ===> Size: 64 KB, RTT: 183.78550099999998 ms, Throughput: 0.34021261938748043 Mbytes/s
+SCP: Worker 3 ===> Size: 65 KB, RTT: 188.148125 ms, Throughput: 0.33751333822803803 Mbytes/s
+SCP: Worker 3 ===> Size: 66 KB, RTT: 183.8127 ms, Throughput: 0.35079232715427777 Mbytes/s
+SCP: Worker 3 ===> Size: 67 KB, RTT: 188.40753199999997 ms, Throughput: 0.34741916821432567 Mbytes/s
+SCP: Worker 3 ===> Size: 68 KB, RTT: 183.877608 ms, Throughput: 0.3612947637853542 Mbytes/s
+SCP: Worker 3 ===> Size: 69 KB, RTT: 188.77143099999998 ms, Throughput: 0.35709988899151035 Mbytes/s
+SCP: Worker 3 ===> Size: 70 KB, RTT: 185.361026 ms, Throughput: 0.3689434141195827 Mbytes/s
+SCP: Worker 3 ===> Size: 71 KB, RTT: 182.333468 ms, Throughput: 0.3804302953856039 Mbytes/s
+SCP: Worker 3 ===> Size: 72 KB, RTT: 181.76904499999998 ms, Throughput: 0.3869869123874454 Mbytes/s
+SCP: Worker 3 ===> Size: 73 KB, RTT: 181.260195 ms, Throughput: 0.39346367114402636 Mbytes/s
+SCP: Worker 3 ===> Size: 74 KB, RTT: 193.598012 ms, Throughput: 0.3734249306217979 Mbytes/s
+SCP: Worker 3 ===> Size: 75 KB, RTT: 190.237731 ms, Throughput: 0.3851590750709464 Mbytes/s
+SCP: Worker 3 ===> Size: 76 KB, RTT: 183.68635799999998 ms, Throughput: 0.4042206333720067 Mbytes/s
+SCP: Worker 3 ===> Size: 77 KB, RTT: 184.00455 ms, Throughput: 0.4088308293711242 Mbytes/s
+SCP: Worker 3 ===> Size: 78 KB, RTT: 184.545126 ms, Throughput: 0.41292670102097556 Mbytes/s
+SCP: Worker 3 ===> Size: 79 KB, RTT: 189.139838 ms, Throughput: 0.4080568066142444 Mbytes/s
+SCP: Worker 3 ===> Size: 80 KB, RTT: 190.071893 ms, Throughput: 0.41119494704280146 Mbytes/s
+SCP: Worker 3 ===> Size: 81 KB, RTT: 184.96130499999998 ms, Throughput: 0.4278432397757451 Mbytes/s
+SCP: Worker 3 ===> Size: 82 KB, RTT: 187.002725 ms, Throughput: 0.4283950882325967 Mbytes/s
+SCP: Worker 3 ===> Size: 83 KB, RTT: 184.059843 ms, Throughput: 0.44055533579791983 Mbytes/s
+SCP: Worker 3 ===> Size: 84 KB, RTT: 185.58704500000002 ms, Throughput: 0.44219268794780114 Mbytes/s
+SCP: Worker 3 ===> Size: 85 KB, RTT: 187.979647 ms, Throughput: 0.4417593329759606 Mbytes/s
+SCP: Worker 3 ===> Size: 86 KB, RTT: 183.48955899999999 ms, Throughput: 0.45789835006249974 Mbytes/s
+SCP: Worker 3 ===> Size: 87 KB, RTT: 190.325505 ms, Throughput: 0.44657839650069314 Mbytes/s
+SCP: Worker 3 ===> Size: 88 KB, RTT: 189.473633 ms, Throughput: 0.45374319697379856 Mbytes/s
+SCP: Worker 3 ===> Size: 89 KB, RTT: 188.26844 ms, Throughput: 0.4618381955716128 Mbytes/s
+SCP: Worker 3 ===> Size: 90 KB, RTT: 183.063677 ms, Throughput: 0.4803112243770689 Mbytes/s
+SCP: Worker 3 ===> Size: 91 KB, RTT: 188.198937 ms, Throughput: 0.4723910456594295 Mbytes/s
+SCP: Worker 3 ===> Size: 92 KB, RTT: 185.011131 ms, Throughput: 0.48581448208219397 Mbytes/s
+SCP: Worker 3 ===> Size: 93 KB, RTT: 188.728196 ms, Throughput: 0.48141885203233803 Mbytes/s
+SCP: Worker 3 ===> Size: 94 KB, RTT: 190.352726 ms, Throughput: 0.4824409634028638 Mbytes/s
+SCP: Worker 3 ===> Size: 95 KB, RTT: 183.283525 ms, Throughput: 0.506386787083752 Mbytes/s
+SCP: Worker 3 ===> Size: 96 KB, RTT: 185.405643 ms, Throughput: 0.5058577272633017 Mbytes/s
+SCP: Worker 3 ===> Size: 97 KB, RTT: 182.238422 ms, Throughput: 0.5200139828616319 Mbytes/s
+SCP: Worker 3 ===> Size: 98 KB, RTT: 184.513495 ms, Throughput: 0.5188943177511024 Mbytes/s
+SCP: Worker 3 ===> Size: 99 KB, RTT: 187.33182000000002 ms, Throughput: 0.5162997252633609 Mbytes/s
+SCP: Worker 3 ===> Size: 100 KB, RTT: 179.746859 ms, Throughput: 0.5435311809558863 Mbytes/s
+SCP: Worker 3 ===> Size: 1024 KB, RTT: 182.850879 ms, Throughput: 5.471236955032314 Mbytes/s
+SCP: Worker 3 ===> Size: 2048 KB, RTT: 191.214317 ms, Throughput: 10.463673466252924 Mbytes/s
+SCP: Worker 3 ===> Size: 4096 KB, RTT: 197.787827 ms, Throughput: 20.231552853669886 Mbytes/s
+SCP: Worker 3 ===> Size: 8192 KB, RTT: 203.124716 ms, Throughput: 39.39957762273803 Mbytes/s
+SCP: Worker 3 ===> Size: 16384 KB, RTT: 234.348502 ms, Throughput: 68.29678339907355 Mbytes/s
+SCP: Worker 3 ===> Size: 32768 KB, RTT: 272.503663 ms, Throughput: 117.46274207543209 Mbytes/s
+SCP: Worker 3 ===> Size: 65536 KB, RTT: 346.631694 ms, Throughput: 184.67495649462003 Mbytes/s
+SCP: Worker 3 ===> Size: 131072 KB, RTT: 521.1560790000001 ms, Throughput: 245.64402850641378 Mbytes/s
+SCP: Worker 3 ===> Size: 262144 KB, RTT: 884.090589 ms, Throughput: 289.5882607525323 Mbytes/s
+SCP: Worker 3 ===> Size: 524288 KB, RTT: 1688.170095 ms, Throughput: 303.30078195011265 Mbytes/s
+SCP: Worker 3 ===> Size: 1048576 KB, RTT: 3149.170207 ms, Throughput: 325.1729578052937 Mbytes/s
+SCP performance measurement completed for worker 3
+
+Worker 4 is ready for SCP performance measurement
+SCP: Worker 4 ===> Size: 1 KB, RTT: 254.723482 ms, Throughput: 0.003838289657853332 Mbytes/s
+SCP: Worker 4 ===> Size: 2 KB, RTT: 192.14874500000002 ms, Throughput: 0.010180387421670241 Mbytes/s
+SCP: Worker 4 ===> Size: 3 KB, RTT: 194.89791400000001 ms, Throughput: 0.015054850335870739 Mbytes/s
+SCP: Worker 4 ===> Size: 4 KB, RTT: 199.160324 ms, Throughput: 0.01964288888576558 Mbytes/s
+SCP: Worker 4 ===> Size: 5 KB, RTT: 187.893261 ms, Throughput: 0.026028305192365993 Mbytes/s
+SCP: Worker 4 ===> Size: 6 KB, RTT: 192.464451 ms, Throughput: 0.030490987125696346 Mbytes/s
+SCP: Worker 4 ===> Size: 7 KB, RTT: 196.256697 ms, Throughput: 0.034884406939859995 Mbytes/s
+SCP: Worker 4 ===> Size: 8 KB, RTT: 187.923682 ms, Throughput: 0.041638536115811205 Mbytes/s
+SCP: Worker 4 ===> Size: 9 KB, RTT: 192.073034 ms, Throughput: 0.045829829354321006 Mbytes/s
+SCP: Worker 4 ===> Size: 10 KB, RTT: 193.128526 ms, Throughput: 0.05064330329362082 Mbytes/s
+SCP: Worker 4 ===> Size: 11 KB, RTT: 187.13502400000002 ms, Throughput: 0.057494656534431705 Mbytes/s
+SCP: Worker 4 ===> Size: 12 KB, RTT: 192.19724699999998 ms, Throughput: 0.06106688622241312 Mbytes/s
+SCP: Worker 4 ===> Size: 13 KB, RTT: 188.508862 ms, Throughput: 0.06745224754787361 Mbytes/s
+SCP: Worker 4 ===> Size: 14 KB, RTT: 187.074237 ms, Throughput: 0.07319883235444526 Mbytes/s
+SCP: Worker 4 ===> Size: 15 KB, RTT: 188.139177 ms, Throughput: 0.0779826897014945 Mbytes/s
+SCP: Worker 4 ===> Size: 16 KB, RTT: 192.64920999999998 ms, Throughput: 0.08123119942880196 Mbytes/s
+SCP: Worker 4 ===> Size: 17 KB, RTT: 188.602033 ms, Throughput: 0.08816314162706566 Mbytes/s
+SCP: Worker 4 ===> Size: 18 KB, RTT: 198.599557 ms, Throughput: 0.0886429608559543 Mbytes/s
+SCP: Worker 4 ===> Size: 19 KB, RTT: 187.313027 ms, Throughput: 0.09921442932230543 Mbytes/s
+SCP: Worker 4 ===> Size: 20 KB, RTT: 196.863755 ms, Throughput: 0.09936192360838084 Mbytes/s
+SCP: Worker 4 ===> Size: 21 KB, RTT: 186.956559 ms, Throughput: 0.10986746994729174 Mbytes/s
+SCP: Worker 4 ===> Size: 22 KB, RTT: 193.819253 ms, Throughput: 0.1110175996098929 Mbytes/s
+SCP: Worker 4 ===> Size: 23 KB, RTT: 193.032939 ms, Throughput: 0.1165373653993835 Mbytes/s
+SCP: Worker 4 ===> Size: 24 KB, RTT: 190.258945 ms, Throughput: 0.1233799807136099 Mbytes/s
+SCP: Worker 4 ===> Size: 25 KB, RTT: 195.161408 ms, Throughput: 0.12528744411645965 Mbytes/s
+SCP: Worker 4 ===> Size: 26 KB, RTT: 195.724955 ms, Throughput: 0.1299232045349338 Mbytes/s
+SCP: Worker 4 ===> Size: 27 KB, RTT: 189.158157 ms, Throughput: 0.13961149648417895 Mbytes/s
+SCP: Worker 4 ===> Size: 28 KB, RTT: 190.919948 ms, Throughput: 0.1434441738410087 Mbytes/s
+SCP: Worker 4 ===> Size: 29 KB, RTT: 193.26591000000002 ms, Throughput: 0.14676101876125622 Mbytes/s
+SCP: Worker 4 ===> Size: 30 KB, RTT: 187.109746 ms, Throughput: 0.15682482613591814 Mbytes/s
+SCP: Worker 4 ===> Size: 31 KB, RTT: 191.964308 ms, Throughput: 0.15794784847466337 Mbytes/s
+SCP: Worker 4 ===> Size: 32 KB, RTT: 192.90322500000002 ms, Throughput: 0.1622481384505264 Mbytes/s
+SCP: Worker 4 ===> Size: 33 KB, RTT: 187.592049 ms, Throughput: 0.1720630856001312 Mbytes/s
+SCP: Worker 4 ===> Size: 34 KB, RTT: 191.264897 ms, Throughput: 0.17386758238641672 Mbytes/s
+SCP: Worker 4 ===> Size: 35 KB, RTT: 199.040453 ms, Throughput: 0.17197894336579977 Mbytes/s
+SCP: Worker 4 ===> Size: 36 KB, RTT: 192.459292 ms, Throughput: 0.18295083432163425 Mbytes/s
+SCP: Worker 4 ===> Size: 37 KB, RTT: 193.881424 ms, Throughput: 0.18665145383733497 Mbytes/s
+SCP: Worker 4 ===> Size: 38 KB, RTT: 187.516302 ms, Throughput: 0.19821341275976295 Mbytes/s
+SCP: Worker 4 ===> Size: 39 KB, RTT: 187.822635 ms, Throughput: 0.20309724229370124 Mbytes/s
+SCP: Worker 4 ===> Size: 40 KB, RTT: 191.25983399999998 ms, Throughput: 0.20455552016472317 Mbytes/s
+SCP: Worker 4 ===> Size: 41 KB, RTT: 207.72111800000002 ms, Throughput: 0.19302993607170318 Mbytes/s
+SCP: Worker 4 ===> Size: 42 KB, RTT: 192.84179300000002 ms, Throughput: 0.21301862428015705 Mbytes/s
+SCP: Worker 4 ===> Size: 43 KB, RTT: 187.97323899999998 ms, Throughput: 0.22374803404778537 Mbytes/s
+SCP: Worker 4 ===> Size: 44 KB, RTT: 189.585185 ms, Throughput: 0.2270017647589356 Mbytes/s
+SCP: Worker 4 ===> Size: 45 KB, RTT: 194.21517999999998 ms, Throughput: 0.22661781654283444 Mbytes/s
+SCP: Worker 4 ===> Size: 46 KB, RTT: 193.62543 ms, Throughput: 0.23236042982009356 Mbytes/s
+SCP: Worker 4 ===> Size: 47 KB, RTT: 189.284303 ms, Throughput: 0.24286520288501512 Mbytes/s
+SCP: Worker 4 ===> Size: 48 KB, RTT: 193.436691 ms, Throughput: 0.24269999574711942 Mbytes/s
+SCP: Worker 4 ===> Size: 49 KB, RTT: 186.760752 ms, Throughput: 0.2566266327711763 Mbytes/s
+SCP: Worker 4 ===> Size: 50 KB, RTT: 188.557048 ms, Throughput: 0.2593653186271782 Mbytes/s
+SCP: Worker 4 ===> Size: 51 KB, RTT: 191.459575 ms, Throughput: 0.2605357761309816 Mbytes/s
+SCP: Worker 4 ===> Size: 52 KB, RTT: 192.04634000000001 ms, Throughput: 0.26483143244969126 Mbytes/s
+SCP: Worker 4 ===> Size: 53 KB, RTT: 188.567987 ms, Throughput: 0.2749112638061507 Mbytes/s
+SCP: Worker 4 ===> Size: 54 KB, RTT: 193.501269 ms, Throughput: 0.27294623317311945 Mbytes/s
+SCP: Worker 4 ===> Size: 55 KB, RTT: 195.520308 ms, Throughput: 0.2751256523945945 Mbytes/s
+SCP: Worker 4 ===> Size: 56 KB, RTT: 185.518508 ms, Throughput: 0.2952546021668899 Mbytes/s
+SCP: Worker 4 ===> Size: 57 KB, RTT: 188.30408300000002 ms, Throughput: 0.296074298246884 Mbytes/s
+SCP: Worker 4 ===> Size: 58 KB, RTT: 193.510159 ms, Throughput: 0.29315098377103216 Mbytes/s
+SCP: Worker 4 ===> Size: 59 KB, RTT: 196.17315399999998 ms, Throughput: 0.29415112034188745 Mbytes/s
+SCP: Worker 4 ===> Size: 60 KB, RTT: 188.467833 ms, Throughput: 0.3113859457829658 Mbytes/s
+SCP: Worker 4 ===> Size: 61 KB, RTT: 190.650712 ms, Throughput: 0.312945383048314 Mbytes/s
+SCP: Worker 4 ===> Size: 62 KB, RTT: 187.651984 ms, Throughput: 0.3231666252790992 Mbytes/s
+SCP: Worker 4 ===> Size: 63 KB, RTT: 192.162764 ms, Throughput: 0.3206587725881567 Mbytes/s
+SCP: Worker 4 ===> Size: 64 KB, RTT: 193.43227 ms, Throughput: 0.32360740175767283 Mbytes/s
+SCP: Worker 4 ===> Size: 65 KB, RTT: 186.332535 ms, Throughput: 0.34120667092370305 Mbytes/s
+SCP: Worker 4 ===> Size: 66 KB, RTT: 193.127407 ms, Throughput: 0.3342477413752991 Mbytes/s
+SCP: Worker 4 ===> Size: 67 KB, RTT: 193.83218599999998 ms, Throughput: 0.33807645986755164 Mbytes/s
+SCP: Worker 4 ===> Size: 68 KB, RTT: 199.588351 ms, Throughput: 0.3332119164514432 Mbytes/s
+SCP: Worker 4 ===> Size: 69 KB, RTT: 264.42823 ms, Throughput: 0.25511112334577063 Mbytes/s
+SCP: Worker 4 ===> Size: 70 KB, RTT: 1017.2292000000001 ms, Throughput: 0.06722117325519888 Mbytes/s
+SCP: Worker 4 ===> Size: 71 KB, RTT: 195.804805 ms, Throughput: 0.3546453845758662 Mbytes/s
+SCP: Worker 4 ===> Size: 72 KB, RTT: 194.118077 ms, Throughput: 0.36277016077529817 Mbytes/s
+SCP: Worker 4 ===> Size: 73 KB, RTT: 196.55831700000002 ms, Throughput: 0.36323543966190214 Mbytes/s
+SCP: Worker 4 ===> Size: 74 KB, RTT: 189.163252 ms, Throughput: 0.3826285939303616 Mbytes/s
+SCP: Worker 4 ===> Size: 75 KB, RTT: 194.630187 ms, Throughput: 0.3768897738089787 Mbytes/s
+SCP: Worker 4 ===> Size: 76 KB, RTT: 189.190104 ms, Throughput: 0.39291404484637193 Mbytes/s
+SCP: Worker 4 ===> Size: 77 KB, RTT: 191.35268299999998 ms, Throughput: 0.3935780127629185 Mbytes/s
+SCP: Worker 4 ===> Size: 78 KB, RTT: 195.154532 ms, Throughput: 0.390910619345192 Mbytes/s
+SCP: Worker 4 ===> Size: 79 KB, RTT: 190.389832 ms, Throughput: 0.40584613496954586 Mbytes/s
+SCP: Worker 4 ===> Size: 80 KB, RTT: 190.821963 ms, Throughput: 0.41005127338857666 Mbytes/s
+SCP: Worker 4 ===> Size: 81 KB, RTT: 193.51294099999998 ms, Throughput: 0.40939461710641956 Mbytes/s
+SCP: Worker 4 ===> Size: 82 KB, RTT: 193.69498 ms, Throughput: 0.41405876486677307 Mbytes/s
+SCP: Worker 4 ===> Size: 83 KB, RTT: 185.182171 ms, Throughput: 0.4384055844351641 Mbytes/s
+SCP: Worker 4 ===> Size: 84 KB, RTT: 188.59515199999998 ms, Throughput: 0.4356455602432574 Mbytes/s
+SCP: Worker 4 ===> Size: 85 KB, RTT: 188.31956499999998 ms, Throughput: 0.44147794959238823 Mbytes/s
+SCP: Worker 4 ===> Size: 86 KB, RTT: 187.705458 ms, Throughput: 0.4481354786731093 Mbytes/s
+SCP: Worker 4 ===> Size: 87 KB, RTT: 190.46275 ms, Throughput: 0.44677309936704107 Mbytes/s
+SCP: Worker 4 ===> Size: 88 KB, RTT: 193.399435 ms, Throughput: 0.4450358381307959 Mbytes/s
+SCP: Worker 4 ===> Size: 89 KB, RTT: 188.441746 ms, Throughput: 0.4619531956400141 Mbytes/s
+SCP: Worker 4 ===> Size: 90 KB, RTT: 192.101785 ms, Throughput: 0.4582295959095408 Mbytes/s
+SCP: Worker 4 ===> Size: 91 KB, RTT: 190.995529 ms, Throughput: 0.46600879492929465 Mbytes/s
+SCP: Worker 4 ===> Size: 92 KB, RTT: 187.676867 ms, Throughput: 0.47947389307979943 Mbytes/s
+SCP: Worker 4 ===> Size: 93 KB, RTT: 191.295453 ms, Throughput: 0.475502892054974 Mbytes/s
+SCP: Worker 4 ===> Size: 94 KB, RTT: 190.05971599999998 ms, Throughput: 0.4837456023432465 Mbytes/s
+SCP: Worker 4 ===> Size: 95 KB, RTT: 190.339071 ms, Throughput: 0.488173178735558 Mbytes/s
+SCP: Worker 4 ===> Size: 96 KB, RTT: 189.533207 ms, Throughput: 0.49541261656504 Mbytes/s
+SCP: Worker 4 ===> Size: 97 KB, RTT: 186.999883 ms, Throughput: 0.5073653151156098 Mbytes/s
+SCP: Worker 4 ===> Size: 98 KB, RTT: 192.324969 ms, Throughput: 0.4983811992795215 Mbytes/s
+SCP: Worker 4 ===> Size: 99 KB, RTT: 189.849601 ms, Throughput: 0.5100414955022087 Mbytes/s
+SCP: Worker 4 ===> Size: 100 KB, RTT: 187.439671 ms, Throughput: 0.5218278342113141 Mbytes/s
+SCP: Worker 4 ===> Size: 1024 KB, RTT: 189.020342 ms, Throughput: 5.298761865338611 Mbytes/s
+SCP: Worker 4 ===> Size: 2048 KB, RTT: 200.51059500000002 ms, Throughput: 9.98933209257837 Mbytes/s
+SCP: Worker 4 ===> Size: 4096 KB, RTT: 205.202078 ms, Throughput: 19.521234977354315 Mbytes/s
+SCP: Worker 4 ===> Size: 8192 KB, RTT: 210.95887 ms, Throughput: 37.975549831490376 Mbytes/s
+SCP: Worker 4 ===> Size: 16384 KB, RTT: 234.346261 ms, Throughput: 68.3616797032105 Mbytes/s
+SCP: Worker 4 ===> Size: 32768 KB, RTT: 278.236263 ms, Throughput: 115.13307148762803 Mbytes/s
+SCP: Worker 4 ===> Size: 65536 KB, RTT: 378.962806 ms, Throughput: 169.0144726749641 Mbytes/s
+SCP: Worker 4 ===> Size: 131072 KB, RTT: 523.874972 ms, Throughput: 244.4717101281056 Mbytes/s
+SCP: Worker 4 ===> Size: 262144 KB, RTT: 875.705022 ms, Throughput: 292.4350659330782 Mbytes/s
+SCP: Worker 4 ===> Size: 524288 KB, RTT: 1545.095779 ms, Throughput: 331.43475379644434 Mbytes/s
+SCP: Worker 4 ===> Size: 1048576 KB, RTT: 2919.775455 ms, Throughput: 350.7475800696492 Mbytes/s
+SCP performance measurement completed for worker 4
+
+Writing metrics to file...
+NFS metrics written to file
+SCP metrics written to file
+109.447109 seconds (6.22 M allocations: 16.428 GiB, 0.13% gc time, 3.99% compilation time)

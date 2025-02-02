@@ -1,0 +1,31 @@
+Reading the Makefile...
+Parsing the Makefile...
+Parsed the file in 0.04558514s
+Generating dependencies graph...
+Graph generated in 3.591e-6s
+Getting worker hosts...
+Worker hosts: Any["gros-98.nancy.grid5000.fr"]
+Workers: [2]
+Number of processes: 2
+Number of worker processes: 1
+2
+Executing tasks...
+Worker 2 is occupied for compile.
+      From worker 2:	Executing command: gcc premier.c -o premier -lm ******* for task: compile
+      From worker 2:	Target completed: compile
+Worker 2 is free.
+Worker 2 is occupied for list1.txt.
+      From worker 2:	Executing command: ./premier 2 `echo 1*200000000/20-1 |bc` > list1.txt ******* for task: list1.txt
+Worker 2 is free.
+      From worker 2:	Target completed: list1.txt
+Worker 2 is occupied for list2.txt.
+      From worker 2:	Executing command: ./premier `echo 1*200000000/20 |bc` `echo 2*200000000/20-1 |bc` > list2.txt ******* for task: list2.txt
+Worker 2 is free.
+      From worker 2:	Target completed: list2.txt
+Worker 2 is occupied for list.txt.
+      From worker 2:	Executing command: cp list1.txt list.txt ******* for task: list.txt
+      From worker 2:	Executing command: cat list2.txt >> list.txt ******* for task: list.txt
+Worker 2 is free.
+      From worker 2:	Target completed: list.txt
+It took 12.55045689s to execute all tasks successfully!
+ 17.109330 seconds (5.62 M allocations: 380.500 MiB, 0.58% gc time, 24.94% compilation time)

@@ -1,0 +1,24 @@
+grenoble
+RTT: 0.120942 ms
+Throughput: 567.8136164579784 Mbytes/s
+lille
+RTT: 0.25629 ms
+Throughput: 564.8014677336892 Mbytes/s
+luxembourg
+RTT: 0.314442 ms
+Throughput: 419.45128643520127 Mbytes/s
+lyon
+RTT: 0.279628 ms
+Throughput: 502.98553918981696 Mbytes/s
+nancy
+RTT: 0.092536 ms
+Throughput: 1174.8794607519894 Mbytes/s
+nantes
+RTT: 0.26752600000000004 ms
+Throughput: 613.4813102655222 Mbytes/s
+rennes
+RTT: 0.27628499999999995 ms
+Throughput: 646.3127001441557 Mbytes/s
+toulouse
+RTT: 0.883932 ms
+Throughput: 706.3740222096064 Mbytes/s

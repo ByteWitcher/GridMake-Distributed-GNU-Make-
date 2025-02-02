@@ -1,0 +1,447 @@
+Worker: 2, Size: 1 KB, RTT: 287.741739 ms, Throughput: 0.003396335007915528 Mbytes/s
+Worker: 2, Size: 2 KB, RTT: 193.105433 ms, Throughput: 0.010125174870356161 Mbytes/s
+Worker: 2, Size: 3 KB, RTT: 202.808104 ms, Throughput: 0.014460410660040876 Mbytes/s
+Worker: 2, Size: 4 KB, RTT: 192.310777 ms, Throughput: 0.020334117517545137 Mbytes/s
+Worker: 2, Size: 5 KB, RTT: 195.826402 ms, Throughput: 0.024960845802239368 Mbytes/s
+Worker: 2, Size: 6 KB, RTT: 195.344519 ms, Throughput: 0.030026982736727586 Mbytes/s
+Worker: 2, Size: 7 KB, RTT: 189.68907 ms, Throughput: 0.03607706323265053 Mbytes/s
+Worker: 2, Size: 8 KB, RTT: 196.217626 ms, Throughput: 0.039857640802339084 Mbytes/s
+Worker: 2, Size: 9 KB, RTT: 191.108368 ms, Throughput: 0.04603993671311176 Mbytes/s
+Worker: 2, Size: 10 KB, RTT: 196.203982 ms, Throughput: 0.04982551929052267 Mbytes/s
+Worker: 2, Size: 11 KB, RTT: 188.26986200000002 ms, Throughput: 0.05712035677617781 Mbytes/s
+Worker: 2, Size: 12 KB, RTT: 191.40455500000002 ms, Throughput: 0.061291487145262856 Mbytes/s
+Worker: 2, Size: 13 KB, RTT: 192.504319 ms, Throughput: 0.0660193681133178 Mbytes/s
+Worker: 2, Size: 14 KB, RTT: 186.518788 ms, Throughput: 0.07338190481221485 Mbytes/s
+Worker: 2, Size: 15 KB, RTT: 192.41744 ms, Throughput: 0.07621062566441034 Mbytes/s
+Worker: 2, Size: 16 KB, RTT: 193.501212 ms, Throughput: 0.08083554432989692 Mbytes/s
+Worker: 2, Size: 17 KB, RTT: 191.68284899999998 ms, Throughput: 0.08670340692838852 Mbytes/s
+Worker: 2, Size: 18 KB, RTT: 195.223379 ms, Throughput: 0.09013690471895953 Mbytes/s
+Worker: 2, Size: 19 KB, RTT: 188.210396 ms, Throughput: 0.09869364172352564 Mbytes/s
+Worker: 2, Size: 20 KB, RTT: 192.47573100000002 ms, Throughput: 0.10158336063070565 Mbytes/s
+Worker: 2, Size: 21 KB, RTT: 187.49516699999998 ms, Throughput: 0.10949901888078177 Mbytes/s
+Worker: 2, Size: 22 KB, RTT: 207.71810299999999 ms, Throughput: 0.10353388113867336 Mbytes/s
+Worker: 2, Size: 23 KB, RTT: 209.48692899999998 ms, Throughput: 0.10732512424694034 Mbytes/s
+Worker: 2, Size: 24 KB, RTT: 191.295888 ms, Throughput: 0.12265268405310177 Mbytes/s
+Worker: 2, Size: 25 KB, RTT: 191.537439 ms, Throughput: 0.1276019135095078 Mbytes/s
+Worker: 2, Size: 26 KB, RTT: 191.437018 ms, Throughput: 0.13277567840374077 Mbytes/s
+Worker: 2, Size: 27 KB, RTT: 188.759668 ms, Throughput: 0.13984029976896895 Mbytes/s
+Worker: 2, Size: 28 KB, RTT: 195.829567 ms, Throughput: 0.13977847495780857 Mbytes/s
+Worker: 2, Size: 29 KB, RTT: 200.119448 ms, Throughput: 0.14166395272141805 Mbytes/s
+Worker: 2, Size: 30 KB, RTT: 195.62561 ms, Throughput: 0.14991895836864225 Mbytes/s
+Worker: 2, Size: 31 KB, RTT: 188.72074899999998 ms, Throughput: 0.16059052866738222 Mbytes/s
+Worker: 2, Size: 32 KB, RTT: 195.39636299999998 ms, Throughput: 0.1601013721927422 Mbytes/s
+Worker: 2, Size: 33 KB, RTT: 187.710033 ms, Throughput: 0.17187270561396187 Mbytes/s
+Worker: 2, Size: 34 KB, RTT: 188.473276 ms, Throughput: 0.17636307031657264 Mbytes/s
+Worker: 2, Size: 35 KB, RTT: 192.07918800000002 ms, Throughput: 0.17813828189257633 Mbytes/s
+Worker: 2, Size: 36 KB, RTT: 191.83883400000002 ms, Throughput: 0.18345776115994075 Mbytes/s
+Worker: 2, Size: 37 KB, RTT: 196.299972 ms, Throughput: 0.18426417730062233 Mbytes/s
+Worker: 2, Size: 38 KB, RTT: 192.733109 ms, Throughput: 0.1927503617584238 Mbytes/s
+Worker: 2, Size: 39 KB, RTT: 190.094975 ms, Throughput: 0.2005711199073746 Mbytes/s
+Worker: 2, Size: 40 KB, RTT: 192.55957500000002 ms, Throughput: 0.20307816327089218 Mbytes/s
+Worker: 2, Size: 41 KB, RTT: 192.492591 ms, Throughput: 0.2082276298105135 Mbytes/s
+Worker: 2, Size: 42 KB, RTT: 200.28277599999998 ms, Throughput: 0.20500099747472011 Mbytes/s
+Worker: 2, Size: 43 KB, RTT: 195.414968 ms, Throughput: 0.21511571449444464 Mbytes/s
+Worker: 2, Size: 44 KB, RTT: 188.67029499999998 ms, Throughput: 0.22799596514462686 Mbytes/s
+Worker: 2, Size: 45 KB, RTT: 186.70158800000002 ms, Throughput: 0.2356392100170827 Mbytes/s
+Worker: 2, Size: 46 KB, RTT: 188.80992 ms, Throughput: 0.23818295727853717 Mbytes/s
+Worker: 2, Size: 47 KB, RTT: 192.487216 ms, Throughput: 0.2387066385161457 Mbytes/s
+Worker: 2, Size: 48 KB, RTT: 187.66345 ms, Throughput: 0.25005878715380125 Mbytes/s
+Worker: 2, Size: 49 KB, RTT: 195.055692 ms, Throughput: 0.24558385364702595 Mbytes/s
+Worker: 2, Size: 50 KB, RTT: 192.42764200000002 ms, Throughput: 0.254021936060468 Mbytes/s
+Worker: 2, Size: 51 KB, RTT: 192.75437100000002 ms, Throughput: 0.25866270898726407 Mbytes/s
+Worker: 2, Size: 52 KB, RTT: 191.646601 ms, Throughput: 0.26526063741711325 Mbytes/s
+Worker: 2, Size: 53 KB, RTT: 190.848086 ms, Throughput: 0.2714942380885629 Mbytes/s
+Worker: 2, Size: 54 KB, RTT: 192.665211 ms, Throughput: 0.27400504217859717 Mbytes/s
+Worker: 2, Size: 55 KB, RTT: 191.44819299999997 ms, Throughput: 0.28085521487655585 Mbytes/s
+Worker: 2, Size: 56 KB, RTT: 195.431413 ms, Throughput: 0.2801270989984356 Mbytes/s
+Worker: 2, Size: 57 KB, RTT: 201.635698 ms, Throughput: 0.27634696305235723 Mbytes/s
+Worker: 2, Size: 58 KB, RTT: 191.658029 ms, Throughput: 0.2958499732090017 Mbytes/s
+Worker: 2, Size: 59 KB, RTT: 192.151173 ms, Throughput: 0.3001776281801633 Mbytes/s
+Worker: 2, Size: 60 KB, RTT: 191.32560700000002 ms, Throughput: 0.30658402867877327 Mbytes/s
+Worker: 2, Size: 61 KB, RTT: 192.665221 ms, Throughput: 0.30952419823014504 Mbytes/s
+Worker: 2, Size: 62 KB, RTT: 190.896486 ms, Throughput: 0.3175164218739548 Mbytes/s
+Worker: 2, Size: 63 KB, RTT: 191.838426 ms, Throughput: 0.321051765577509 Mbytes/s
+Worker: 2, Size: 64 KB, RTT: 192.544874 ms, Throughput: 0.3249498963654193 Mbytes/s
+Worker: 2, Size: 65 KB, RTT: 187.273959 ms, Throughput: 0.33932631760453397 Mbytes/s
+Worker: 2, Size: 66 KB, RTT: 188.149857 ms, Throughput: 0.3429409757175136 Mbytes/s
+Worker: 2, Size: 67 KB, RTT: 187.940288 ms, Throughput: 0.34852568191641864 Mbytes/s
+Worker: 2, Size: 68 KB, RTT: 192.290685 ms, Throughput: 0.3457161561095766 Mbytes/s
+Worker: 2, Size: 69 KB, RTT: 193.386752 ms, Throughput: 0.3488098347347108 Mbytes/s
+Worker: 2, Size: 70 KB, RTT: 186.420015 ms, Throughput: 0.3671041444938561 Mbytes/s
+Worker: 2, Size: 71 KB, RTT: 192.544033 ms, Throughput: 0.36049286754475307 Mbytes/s
+Worker: 2, Size: 72 KB, RTT: 187.546777 ms, Throughput: 0.3753217818794799 Mbytes/s
+Worker: 2, Size: 73 KB, RTT: 191.855218 ms, Throughput: 0.3719797678957651 Mbytes/s
+Worker: 2, Size: 74 KB, RTT: 188.70572099999998 ms, Throughput: 0.3833756951014984 Mbytes/s
+Worker: 2, Size: 75 KB, RTT: 187.860243 ms, Throughput: 0.3903071068309042 Mbytes/s
+Worker: 2, Size: 76 KB, RTT: 192.542344 ms, Throughput: 0.38588307782906117 Mbytes/s
+Worker: 2, Size: 77 KB, RTT: 192.385481 ms, Throughput: 0.3912796036627532 Mbytes/s
+Worker: 2, Size: 78 KB, RTT: 194.646809 ms, Throughput: 0.39175147836255864 Mbytes/s
+Worker: 2, Size: 79 KB, RTT: 189.043712 ms, Throughput: 0.40854690389789816 Mbytes/s
+Worker: 2, Size: 80 KB, RTT: 195.182325 ms, Throughput: 0.40069281775626436 Mbytes/s
+Worker: 2, Size: 81 KB, RTT: 187.89565 ms, Throughput: 0.42145215424396604 Mbytes/s
+Worker: 2, Size: 82 KB, RTT: 197.837851 ms, Throughput: 0.40519149387001197 Mbytes/s
+Worker: 2, Size: 83 KB, RTT: 190.908138 ms, Throughput: 0.4250363349654344 Mbytes/s
+Worker: 2, Size: 84 KB, RTT: 191.989811 ms, Throughput: 0.4277311207910808 Mbytes/s
+Worker: 2, Size: 85 KB, RTT: 192.474112 ms, Throughput: 0.4317329181001408 Mbytes/s
+Worker: 2, Size: 86 KB, RTT: 190.761917 ms, Throughput: 0.44073703220487914 Mbytes/s
+Worker: 2, Size: 87 KB, RTT: 192.87081799999999 ms, Throughput: 0.4409814572457624 Mbytes/s
+Worker: 2, Size: 88 KB, RTT: 191.201006 ms, Throughput: 0.449949923943999 Mbytes/s
+Worker: 2, Size: 89 KB, RTT: 193.696189 ms, Throughput: 0.4491946088685229 Mbytes/s
+Worker: 2, Size: 90 KB, RTT: 195.41771599999998 ms, Throughput: 0.4502358550080989 Mbytes/s
+Worker: 2, Size: 91 KB, RTT: 191.495739 ms, Throughput: 0.46457221783073943 Mbytes/s
+Worker: 2, Size: 92 KB, RTT: 194.992798 ms, Throughput: 0.46124509785822204 Mbytes/s
+Worker: 2, Size: 93 KB, RTT: 196.418848 ms, Throughput: 0.46286989673042206 Mbytes/s
+Worker: 2, Size: 94 KB, RTT: 191.27342099999998 ms, Throughput: 0.48044616712880484 Mbytes/s
+Worker: 2, Size: 95 KB, RTT: 192.692364 ms, Throughput: 0.4819779074126952 Mbytes/s
+Worker: 2, Size: 96 KB, RTT: 196.561285 ms, Throughput: 0.47745458191008366 Mbytes/s
+Worker: 2, Size: 97 KB, RTT: 186.914401 ms, Throughput: 0.5073544534951796 Mbytes/s
+Worker: 2, Size: 98 KB, RTT: 193.681386 ms, Throughput: 0.49465662688813106 Mbytes/s
+Worker: 2, Size: 99 KB, RTT: 191.045611 ms, Throughput: 0.5066058461361284 Mbytes/s
+Worker: 2, Size: 100 KB, RTT: 191.563814 ms, Throughput: 0.5103373035818359 Mbytes/s
+Worker: 2, Size: 1024 KB, RTT: 195.50753400000002 ms, Throughput: 5.120327596101841 Mbytes/s
+Worker: 2, Size: 2048 KB, RTT: 199.87376700000002 ms, Throughput: 10.016716045988286 Mbytes/s
+Worker: 2, Size: 4096 KB, RTT: 206.98024 ms, Throughput: 19.344912585418065 Mbytes/s
+Worker: 2, Size: 8192 KB, RTT: 223.583644 ms, Throughput: 35.81403515686552 Mbytes/s
+Worker: 2, Size: 16384 KB, RTT: 241.359779 ms, Throughput: 66.34812682174073 Mbytes/s
+Worker: 2, Size: 32768 KB, RTT: 282.04768 ms, Throughput: 113.5395365067752 Mbytes/s
+Worker: 2, Size: 65536 KB, RTT: 367.41923399999996 ms, Throughput: 174.286383856654 Mbytes/s
+Worker: 2, Size: 131072 KB, RTT: 523.579197 ms, Throughput: 244.56807288347153 Mbytes/s
+Worker: 2, Size: 262144 KB, RTT: 874.891536 ms, Throughput: 292.67712481757667 Mbytes/s
+Worker: 2, Size: 524288 KB, RTT: 1551.110352 ms, Throughput: 330.1302910389572 Mbytes/s
+Worker: 2, Size: 1048576 KB, RTT: 2740.081326 ms, Throughput: 373.7398421397947 Mbytes/s
+Worker: 3, Size: 1 KB, RTT: 208.183172 ms, Throughput: 0.0046926134169554615 Mbytes/s
+Worker: 3, Size: 2 KB, RTT: 190.12442299999998 ms, Throughput: 0.010277032272904264 Mbytes/s
+Worker: 3, Size: 3 KB, RTT: 190.28921100000002 ms, Throughput: 0.015402193349615028 Mbytes/s
+Worker: 3, Size: 4 KB, RTT: 183.75560399999998 ms, Throughput: 0.021266749692057465 Mbytes/s
+Worker: 3, Size: 5 KB, RTT: 190.040929 ms, Throughput: 0.02570387321918631 Mbytes/s
+Worker: 3, Size: 6 KB, RTT: 182.79814199999998 ms, Throughput: 0.03206728161854901 Mbytes/s
+Worker: 3, Size: 7 KB, RTT: 187.586207 ms, Throughput: 0.036456514785158475 Mbytes/s
+Worker: 3, Size: 8 KB, RTT: 191.453835 ms, Throughput: 0.040822568937901677 Mbytes/s
+Worker: 3, Size: 9 KB, RTT: 184.336575 ms, Throughput: 0.04769931514223882 Mbytes/s
+Worker: 3, Size: 10 KB, RTT: 193.049272 ms, Throughput: 0.050606325511244825 Mbytes/s
+Worker: 3, Size: 11 KB, RTT: 183.89324100000002 ms, Throughput: 0.058439770660925885 Mbytes/s
+Worker: 3, Size: 12 KB, RTT: 187.404805 ms, Throughput: 0.06255740233874654 Mbytes/s
+Worker: 3, Size: 13 KB, RTT: 184.194459 ms, Throughput: 0.06895219226863178 Mbytes/s
+Worker: 3, Size: 14 KB, RTT: 187.389883 ms, Throughput: 0.07298945018928714 Mbytes/s
+Worker: 3, Size: 15 KB, RTT: 188.561118 ms, Throughput: 0.07771703159262143 Mbytes/s
+Worker: 3, Size: 16 KB, RTT: 184.04565300000002 ms, Throughput: 0.08493288038478741 Mbytes/s
+Worker: 3, Size: 17 KB, RTT: 187.583599 ms, Throughput: 0.08853848164235371 Mbytes/s
+Worker: 3, Size: 18 KB, RTT: 192.526229 ms, Throughput: 0.09133895602414921 Mbytes/s
+Worker: 3, Size: 19 KB, RTT: 199.888709 ms, Throughput: 0.0928607939704078 Mbytes/s
+Worker: 3, Size: 20 KB, RTT: 184.774624 ms, Throughput: 0.10574708075793227 Mbytes/s
+Worker: 3, Size: 21 KB, RTT: 186.935574 ms, Throughput: 0.10975036380426881 Mbytes/s
+Worker: 3, Size: 22 KB, RTT: 184.10099699999998 ms, Throughput: 0.11674758892913306 Mbytes/s
+Worker: 3, Size: 23 KB, RTT: 184.227902 ms, Throughput: 0.12197018558373884 Mbytes/s
+Worker: 3, Size: 24 KB, RTT: 181.84168300000002 ms, Throughput: 0.1289440874174838 Mbytes/s
+Worker: 3, Size: 25 KB, RTT: 187.004798 ms, Throughput: 0.13060681018350043 Mbytes/s
+Worker: 3, Size: 26 KB, RTT: 183.56565999999998 ms, Throughput: 0.13837696998257212 Mbytes/s
+Worker: 3, Size: 27 KB, RTT: 182.598929 ms, Throughput: 0.1444602659705682 Mbytes/s
+Worker: 3, Size: 28 KB, RTT: 184.1036 ms, Throughput: 0.1485857387273478 Mbytes/s
+Worker: 3, Size: 29 KB, RTT: 184.625768 ms, Throughput: 0.153456944753411 Mbytes/s
+Worker: 3, Size: 30 KB, RTT: 184.307957 ms, Throughput: 0.15902241544957801 Mbytes/s
+Worker: 3, Size: 31 KB, RTT: 183.599064 ms, Throughput: 0.16495789528689742 Mbytes/s
+Worker: 3, Size: 32 KB, RTT: 183.43849600000001 ms, Throughput: 0.1704282294766972 Mbytes/s
+Worker: 3, Size: 33 KB, RTT: 185.203799 ms, Throughput: 0.1740781845668117 Mbytes/s
+Worker: 3, Size: 34 KB, RTT: 184.949235 ms, Throughput: 0.1796002454255187 Mbytes/s
+Worker: 3, Size: 35 KB, RTT: 182.35220999999999 ms, Throughput: 0.1875167781869536 Mbytes/s
+Worker: 3, Size: 36 KB, RTT: 183.471818 ms, Throughput: 0.19169692140510464 Mbytes/s
+Worker: 3, Size: 37 KB, RTT: 184.228963 ms, Throughput: 0.19621177675461757 Mbytes/s
+Worker: 3, Size: 38 KB, RTT: 193.681981 ms, Throughput: 0.1916755799550701 Mbytes/s
+Worker: 3, Size: 39 KB, RTT: 187.838268 ms, Throughput: 0.20284219578789495 Mbytes/s
+Worker: 3, Size: 40 KB, RTT: 182.431547 ms, Throughput: 0.21421165179445092 Mbytes/s
+Worker: 3, Size: 41 KB, RTT: 184.517722 ms, Throughput: 0.21708346384490013 Mbytes/s
+Worker: 3, Size: 42 KB, RTT: 184.91054100000002 ms, Throughput: 0.22190557179114215 Mbytes/s
+Worker: 3, Size: 43 KB, RTT: 188.016757 ms, Throughput: 0.2234341235134084 Mbytes/s
+Worker: 3, Size: 44 KB, RTT: 183.81527 ms, Throughput: 0.23385828035003847 Mbytes/s
+Worker: 3, Size: 45 KB, RTT: 187.854919 ms, Throughput: 0.23402793345431477 Mbytes/s
+Worker: 3, Size: 46 KB, RTT: 211.476041 ms, Throughput: 0.21249786074153632 Mbytes/s
+Worker: 3, Size: 47 KB, RTT: 210.95217599999998 ms, Throughput: 0.21765675122478295 Mbytes/s
+Worker: 3, Size: 48 KB, RTT: 196.927594 ms, Throughput: 0.2381245810912369 Mbytes/s
+Worker: 3, Size: 49 KB, RTT: 188.683469 ms, Throughput: 0.25371094486797297 Mbytes/s
+Worker: 3, Size: 50 KB, RTT: 182.428537 ms, Throughput: 0.2677689846163909 Mbytes/s
+Worker: 3, Size: 51 KB, RTT: 184.580362 ms, Throughput: 0.2699389731928566 Mbytes/s
+Worker: 3, Size: 52 KB, RTT: 183.557426 ms, Throughput: 0.27676635976478203 Mbytes/s
+Worker: 3, Size: 53 KB, RTT: 189.277552 ms, Throughput: 0.2735603676261279 Mbytes/s
+Worker: 3, Size: 54 KB, RTT: 192.442964 ms, Throughput: 0.27413547531839155 Mbytes/s
+Worker: 3, Size: 55 KB, RTT: 186.139924 ms, Throughput: 0.28867059701852704 Mbytes/s
+Worker: 3, Size: 56 KB, RTT: 190.515981 ms, Throughput: 0.28716525254812786 Mbytes/s
+Worker: 3, Size: 57 KB, RTT: 181.73821800000002 ms, Throughput: 0.3064166274783668 Mbytes/s
+Worker: 3, Size: 58 KB, RTT: 184.128084 ms, Throughput: 0.30774380046251254 Mbytes/s
+Worker: 3, Size: 59 KB, RTT: 187.801354 ms, Throughput: 0.30692417611979256 Mbytes/s
+Worker: 3, Size: 60 KB, RTT: 184.935021 ms, Throughput: 0.31696597965293033 Mbytes/s
+Worker: 3, Size: 61 KB, RTT: 183.047875 ms, Throughput: 0.3255723894113265 Mbytes/s
+Worker: 3, Size: 62 KB, RTT: 185.205485 ms, Throughput: 0.3270530045674026 Mbytes/s
+Worker: 3, Size: 63 KB, RTT: 183.122126 ms, Throughput: 0.33611049784448954 Mbytes/s
+Worker: 3, Size: 64 KB, RTT: 183.78550099999998 ms, Throughput: 0.34021261938748043 Mbytes/s
+Worker: 3, Size: 65 KB, RTT: 188.148125 ms, Throughput: 0.33751333822803803 Mbytes/s
+Worker: 3, Size: 66 KB, RTT: 183.8127 ms, Throughput: 0.35079232715427777 Mbytes/s
+Worker: 3, Size: 67 KB, RTT: 188.40753199999997 ms, Throughput: 0.34741916821432567 Mbytes/s
+Worker: 3, Size: 68 KB, RTT: 183.877608 ms, Throughput: 0.3612947637853542 Mbytes/s
+Worker: 3, Size: 69 KB, RTT: 188.77143099999998 ms, Throughput: 0.35709988899151035 Mbytes/s
+Worker: 3, Size: 70 KB, RTT: 185.361026 ms, Throughput: 0.3689434141195827 Mbytes/s
+Worker: 3, Size: 71 KB, RTT: 182.333468 ms, Throughput: 0.3804302953856039 Mbytes/s
+Worker: 3, Size: 72 KB, RTT: 181.76904499999998 ms, Throughput: 0.3869869123874454 Mbytes/s
+Worker: 3, Size: 73 KB, RTT: 181.260195 ms, Throughput: 0.39346367114402636 Mbytes/s
+Worker: 3, Size: 74 KB, RTT: 193.598012 ms, Throughput: 0.3734249306217979 Mbytes/s
+Worker: 3, Size: 75 KB, RTT: 190.237731 ms, Throughput: 0.3851590750709464 Mbytes/s
+Worker: 3, Size: 76 KB, RTT: 183.68635799999998 ms, Throughput: 0.4042206333720067 Mbytes/s
+Worker: 3, Size: 77 KB, RTT: 184.00455 ms, Throughput: 0.4088308293711242 Mbytes/s
+Worker: 3, Size: 78 KB, RTT: 184.545126 ms, Throughput: 0.41292670102097556 Mbytes/s
+Worker: 3, Size: 79 KB, RTT: 189.139838 ms, Throughput: 0.4080568066142444 Mbytes/s
+Worker: 3, Size: 80 KB, RTT: 190.071893 ms, Throughput: 0.41119494704280146 Mbytes/s
+Worker: 3, Size: 81 KB, RTT: 184.96130499999998 ms, Throughput: 0.4278432397757451 Mbytes/s
+Worker: 3, Size: 82 KB, RTT: 187.002725 ms, Throughput: 0.4283950882325967 Mbytes/s
+Worker: 3, Size: 83 KB, RTT: 184.059843 ms, Throughput: 0.44055533579791983 Mbytes/s
+Worker: 3, Size: 84 KB, RTT: 185.58704500000002 ms, Throughput: 0.44219268794780114 Mbytes/s
+Worker: 3, Size: 85 KB, RTT: 187.979647 ms, Throughput: 0.4417593329759606 Mbytes/s
+Worker: 3, Size: 86 KB, RTT: 183.48955899999999 ms, Throughput: 0.45789835006249974 Mbytes/s
+Worker: 3, Size: 87 KB, RTT: 190.325505 ms, Throughput: 0.44657839650069314 Mbytes/s
+Worker: 3, Size: 88 KB, RTT: 189.473633 ms, Throughput: 0.45374319697379856 Mbytes/s
+Worker: 3, Size: 89 KB, RTT: 188.26844 ms, Throughput: 0.4618381955716128 Mbytes/s
+Worker: 3, Size: 90 KB, RTT: 183.063677 ms, Throughput: 0.4803112243770689 Mbytes/s
+Worker: 3, Size: 91 KB, RTT: 188.198937 ms, Throughput: 0.4723910456594295 Mbytes/s
+Worker: 3, Size: 92 KB, RTT: 185.011131 ms, Throughput: 0.48581448208219397 Mbytes/s
+Worker: 3, Size: 93 KB, RTT: 188.728196 ms, Throughput: 0.48141885203233803 Mbytes/s
+Worker: 3, Size: 94 KB, RTT: 190.352726 ms, Throughput: 0.4824409634028638 Mbytes/s
+Worker: 3, Size: 95 KB, RTT: 183.283525 ms, Throughput: 0.506386787083752 Mbytes/s
+Worker: 3, Size: 96 KB, RTT: 185.405643 ms, Throughput: 0.5058577272633017 Mbytes/s
+Worker: 3, Size: 97 KB, RTT: 182.238422 ms, Throughput: 0.5200139828616319 Mbytes/s
+Worker: 3, Size: 98 KB, RTT: 184.513495 ms, Throughput: 0.5188943177511024 Mbytes/s
+Worker: 3, Size: 99 KB, RTT: 187.33182000000002 ms, Throughput: 0.5162997252633609 Mbytes/s
+Worker: 3, Size: 100 KB, RTT: 179.746859 ms, Throughput: 0.5435311809558863 Mbytes/s
+Worker: 3, Size: 1024 KB, RTT: 182.850879 ms, Throughput: 5.471236955032314 Mbytes/s
+Worker: 3, Size: 2048 KB, RTT: 191.214317 ms, Throughput: 10.463673466252924 Mbytes/s
+Worker: 3, Size: 4096 KB, RTT: 197.787827 ms, Throughput: 20.231552853669886 Mbytes/s
+Worker: 3, Size: 8192 KB, RTT: 203.124716 ms, Throughput: 39.39957762273803 Mbytes/s
+Worker: 3, Size: 16384 KB, RTT: 234.348502 ms, Throughput: 68.29678339907355 Mbytes/s
+Worker: 3, Size: 32768 KB, RTT: 272.503663 ms, Throughput: 117.46274207543209 Mbytes/s
+Worker: 3, Size: 65536 KB, RTT: 346.631694 ms, Throughput: 184.67495649462003 Mbytes/s
+Worker: 3, Size: 131072 KB, RTT: 521.1560790000001 ms, Throughput: 245.64402850641378 Mbytes/s
+Worker: 3, Size: 262144 KB, RTT: 884.090589 ms, Throughput: 289.5882607525323 Mbytes/s
+Worker: 3, Size: 524288 KB, RTT: 1688.170095 ms, Throughput: 303.30078195011265 Mbytes/s
+Worker: 3, Size: 1048576 KB, RTT: 3149.170207 ms, Throughput: 325.1729578052937 Mbytes/s
+Worker: 4, Size: 1 KB, RTT: 254.723482 ms, Throughput: 0.003838289657853332 Mbytes/s
+Worker: 4, Size: 2 KB, RTT: 192.14874500000002 ms, Throughput: 0.010180387421670241 Mbytes/s
+Worker: 4, Size: 3 KB, RTT: 194.89791400000001 ms, Throughput: 0.015054850335870739 Mbytes/s
+Worker: 4, Size: 4 KB, RTT: 199.160324 ms, Throughput: 0.01964288888576558 Mbytes/s
+Worker: 4, Size: 5 KB, RTT: 187.893261 ms, Throughput: 0.026028305192365993 Mbytes/s
+Worker: 4, Size: 6 KB, RTT: 192.464451 ms, Throughput: 0.030490987125696346 Mbytes/s
+Worker: 4, Size: 7 KB, RTT: 196.256697 ms, Throughput: 0.034884406939859995 Mbytes/s
+Worker: 4, Size: 8 KB, RTT: 187.923682 ms, Throughput: 0.041638536115811205 Mbytes/s
+Worker: 4, Size: 9 KB, RTT: 192.073034 ms, Throughput: 0.045829829354321006 Mbytes/s
+Worker: 4, Size: 10 KB, RTT: 193.128526 ms, Throughput: 0.05064330329362082 Mbytes/s
+Worker: 4, Size: 11 KB, RTT: 187.13502400000002 ms, Throughput: 0.057494656534431705 Mbytes/s
+Worker: 4, Size: 12 KB, RTT: 192.19724699999998 ms, Throughput: 0.06106688622241312 Mbytes/s
+Worker: 4, Size: 13 KB, RTT: 188.508862 ms, Throughput: 0.06745224754787361 Mbytes/s
+Worker: 4, Size: 14 KB, RTT: 187.074237 ms, Throughput: 0.07319883235444526 Mbytes/s
+Worker: 4, Size: 15 KB, RTT: 188.139177 ms, Throughput: 0.0779826897014945 Mbytes/s
+Worker: 4, Size: 16 KB, RTT: 192.64920999999998 ms, Throughput: 0.08123119942880196 Mbytes/s
+Worker: 4, Size: 17 KB, RTT: 188.602033 ms, Throughput: 0.08816314162706566 Mbytes/s
+Worker: 4, Size: 18 KB, RTT: 198.599557 ms, Throughput: 0.0886429608559543 Mbytes/s
+Worker: 4, Size: 19 KB, RTT: 187.313027 ms, Throughput: 0.09921442932230543 Mbytes/s
+Worker: 4, Size: 20 KB, RTT: 196.863755 ms, Throughput: 0.09936192360838084 Mbytes/s
+Worker: 4, Size: 21 KB, RTT: 186.956559 ms, Throughput: 0.10986746994729174 Mbytes/s
+Worker: 4, Size: 22 KB, RTT: 193.819253 ms, Throughput: 0.1110175996098929 Mbytes/s
+Worker: 4, Size: 23 KB, RTT: 193.032939 ms, Throughput: 0.1165373653993835 Mbytes/s
+Worker: 4, Size: 24 KB, RTT: 190.258945 ms, Throughput: 0.1233799807136099 Mbytes/s
+Worker: 4, Size: 25 KB, RTT: 195.161408 ms, Throughput: 0.12528744411645965 Mbytes/s
+Worker: 4, Size: 26 KB, RTT: 195.724955 ms, Throughput: 0.1299232045349338 Mbytes/s
+Worker: 4, Size: 27 KB, RTT: 189.158157 ms, Throughput: 0.13961149648417895 Mbytes/s
+Worker: 4, Size: 28 KB, RTT: 190.919948 ms, Throughput: 0.1434441738410087 Mbytes/s
+Worker: 4, Size: 29 KB, RTT: 193.26591000000002 ms, Throughput: 0.14676101876125622 Mbytes/s
+Worker: 4, Size: 30 KB, RTT: 187.109746 ms, Throughput: 0.15682482613591814 Mbytes/s
+Worker: 4, Size: 31 KB, RTT: 191.964308 ms, Throughput: 0.15794784847466337 Mbytes/s
+Worker: 4, Size: 32 KB, RTT: 192.90322500000002 ms, Throughput: 0.1622481384505264 Mbytes/s
+Worker: 4, Size: 33 KB, RTT: 187.592049 ms, Throughput: 0.1720630856001312 Mbytes/s
+Worker: 4, Size: 34 KB, RTT: 191.264897 ms, Throughput: 0.17386758238641672 Mbytes/s
+Worker: 4, Size: 35 KB, RTT: 199.040453 ms, Throughput: 0.17197894336579977 Mbytes/s
+Worker: 4, Size: 36 KB, RTT: 192.459292 ms, Throughput: 0.18295083432163425 Mbytes/s
+Worker: 4, Size: 37 KB, RTT: 193.881424 ms, Throughput: 0.18665145383733497 Mbytes/s
+Worker: 4, Size: 38 KB, RTT: 187.516302 ms, Throughput: 0.19821341275976295 Mbytes/s
+Worker: 4, Size: 39 KB, RTT: 187.822635 ms, Throughput: 0.20309724229370124 Mbytes/s
+Worker: 4, Size: 40 KB, RTT: 191.25983399999998 ms, Throughput: 0.20455552016472317 Mbytes/s
+Worker: 4, Size: 41 KB, RTT: 207.72111800000002 ms, Throughput: 0.19302993607170318 Mbytes/s
+Worker: 4, Size: 42 KB, RTT: 192.84179300000002 ms, Throughput: 0.21301862428015705 Mbytes/s
+Worker: 4, Size: 43 KB, RTT: 187.97323899999998 ms, Throughput: 0.22374803404778537 Mbytes/s
+Worker: 4, Size: 44 KB, RTT: 189.585185 ms, Throughput: 0.2270017647589356 Mbytes/s
+Worker: 4, Size: 45 KB, RTT: 194.21517999999998 ms, Throughput: 0.22661781654283444 Mbytes/s
+Worker: 4, Size: 46 KB, RTT: 193.62543 ms, Throughput: 0.23236042982009356 Mbytes/s
+Worker: 4, Size: 47 KB, RTT: 189.284303 ms, Throughput: 0.24286520288501512 Mbytes/s
+Worker: 4, Size: 48 KB, RTT: 193.436691 ms, Throughput: 0.24269999574711942 Mbytes/s
+Worker: 4, Size: 49 KB, RTT: 186.760752 ms, Throughput: 0.2566266327711763 Mbytes/s
+Worker: 4, Size: 50 KB, RTT: 188.557048 ms, Throughput: 0.2593653186271782 Mbytes/s
+Worker: 4, Size: 51 KB, RTT: 191.459575 ms, Throughput: 0.2605357761309816 Mbytes/s
+Worker: 4, Size: 52 KB, RTT: 192.04634000000001 ms, Throughput: 0.26483143244969126 Mbytes/s
+Worker: 4, Size: 53 KB, RTT: 188.567987 ms, Throughput: 0.2749112638061507 Mbytes/s
+Worker: 4, Size: 54 KB, RTT: 193.501269 ms, Throughput: 0.27294623317311945 Mbytes/s
+Worker: 4, Size: 55 KB, RTT: 195.520308 ms, Throughput: 0.2751256523945945 Mbytes/s
+Worker: 4, Size: 56 KB, RTT: 185.518508 ms, Throughput: 0.2952546021668899 Mbytes/s
+Worker: 4, Size: 57 KB, RTT: 188.30408300000002 ms, Throughput: 0.296074298246884 Mbytes/s
+Worker: 4, Size: 58 KB, RTT: 193.510159 ms, Throughput: 0.29315098377103216 Mbytes/s
+Worker: 4, Size: 59 KB, RTT: 196.17315399999998 ms, Throughput: 0.29415112034188745 Mbytes/s
+Worker: 4, Size: 60 KB, RTT: 188.467833 ms, Throughput: 0.3113859457829658 Mbytes/s
+Worker: 4, Size: 61 KB, RTT: 190.650712 ms, Throughput: 0.312945383048314 Mbytes/s
+Worker: 4, Size: 62 KB, RTT: 187.651984 ms, Throughput: 0.3231666252790992 Mbytes/s
+Worker: 4, Size: 63 KB, RTT: 192.162764 ms, Throughput: 0.3206587725881567 Mbytes/s
+Worker: 4, Size: 64 KB, RTT: 193.43227 ms, Throughput: 0.32360740175767283 Mbytes/s
+Worker: 4, Size: 65 KB, RTT: 186.332535 ms, Throughput: 0.34120667092370305 Mbytes/s
+Worker: 4, Size: 66 KB, RTT: 193.127407 ms, Throughput: 0.3342477413752991 Mbytes/s
+Worker: 4, Size: 67 KB, RTT: 193.83218599999998 ms, Throughput: 0.33807645986755164 Mbytes/s
+Worker: 4, Size: 68 KB, RTT: 199.588351 ms, Throughput: 0.3332119164514432 Mbytes/s
+Worker: 4, Size: 69 KB, RTT: 264.42823 ms, Throughput: 0.25511112334577063 Mbytes/s
+Worker: 4, Size: 70 KB, RTT: 1017.2292000000001 ms, Throughput: 0.06722117325519888 Mbytes/s
+Worker: 4, Size: 71 KB, RTT: 195.804805 ms, Throughput: 0.3546453845758662 Mbytes/s
+Worker: 4, Size: 72 KB, RTT: 194.118077 ms, Throughput: 0.36277016077529817 Mbytes/s
+Worker: 4, Size: 73 KB, RTT: 196.55831700000002 ms, Throughput: 0.36323543966190214 Mbytes/s
+Worker: 4, Size: 74 KB, RTT: 189.163252 ms, Throughput: 0.3826285939303616 Mbytes/s
+Worker: 4, Size: 75 KB, RTT: 194.630187 ms, Throughput: 0.3768897738089787 Mbytes/s
+Worker: 4, Size: 76 KB, RTT: 189.190104 ms, Throughput: 0.39291404484637193 Mbytes/s
+Worker: 4, Size: 77 KB, RTT: 191.35268299999998 ms, Throughput: 0.3935780127629185 Mbytes/s
+Worker: 4, Size: 78 KB, RTT: 195.154532 ms, Throughput: 0.390910619345192 Mbytes/s
+Worker: 4, Size: 79 KB, RTT: 190.389832 ms, Throughput: 0.40584613496954586 Mbytes/s
+Worker: 4, Size: 80 KB, RTT: 190.821963 ms, Throughput: 0.41005127338857666 Mbytes/s
+Worker: 4, Size: 81 KB, RTT: 193.51294099999998 ms, Throughput: 0.40939461710641956 Mbytes/s
+Worker: 4, Size: 82 KB, RTT: 193.69498 ms, Throughput: 0.41405876486677307 Mbytes/s
+Worker: 4, Size: 83 KB, RTT: 185.182171 ms, Throughput: 0.4384055844351641 Mbytes/s
+Worker: 4, Size: 84 KB, RTT: 188.59515199999998 ms, Throughput: 0.4356455602432574 Mbytes/s
+Worker: 4, Size: 85 KB, RTT: 188.31956499999998 ms, Throughput: 0.44147794959238823 Mbytes/s
+Worker: 4, Size: 86 KB, RTT: 187.705458 ms, Throughput: 0.4481354786731093 Mbytes/s
+Worker: 4, Size: 87 KB, RTT: 190.46275 ms, Throughput: 0.44677309936704107 Mbytes/s
+Worker: 4, Size: 88 KB, RTT: 193.399435 ms, Throughput: 0.4450358381307959 Mbytes/s
+Worker: 4, Size: 89 KB, RTT: 188.441746 ms, Throughput: 0.4619531956400141 Mbytes/s
+Worker: 4, Size: 90 KB, RTT: 192.101785 ms, Throughput: 0.4582295959095408 Mbytes/s
+Worker: 4, Size: 91 KB, RTT: 190.995529 ms, Throughput: 0.46600879492929465 Mbytes/s
+Worker: 4, Size: 92 KB, RTT: 187.676867 ms, Throughput: 0.47947389307979943 Mbytes/s
+Worker: 4, Size: 93 KB, RTT: 191.295453 ms, Throughput: 0.475502892054974 Mbytes/s
+Worker: 4, Size: 94 KB, RTT: 190.05971599999998 ms, Throughput: 0.4837456023432465 Mbytes/s
+Worker: 4, Size: 95 KB, RTT: 190.339071 ms, Throughput: 0.488173178735558 Mbytes/s
+Worker: 4, Size: 96 KB, RTT: 189.533207 ms, Throughput: 0.49541261656504 Mbytes/s
+Worker: 4, Size: 97 KB, RTT: 186.999883 ms, Throughput: 0.5073653151156098 Mbytes/s
+Worker: 4, Size: 98 KB, RTT: 192.324969 ms, Throughput: 0.4983811992795215 Mbytes/s
+Worker: 4, Size: 99 KB, RTT: 189.849601 ms, Throughput: 0.5100414955022087 Mbytes/s
+Worker: 4, Size: 100 KB, RTT: 187.439671 ms, Throughput: 0.5218278342113141 Mbytes/s
+Worker: 4, Size: 1024 KB, RTT: 189.020342 ms, Throughput: 5.298761865338611 Mbytes/s
+Worker: 4, Size: 2048 KB, RTT: 200.51059500000002 ms, Throughput: 9.98933209257837 Mbytes/s
+Worker: 4, Size: 4096 KB, RTT: 205.202078 ms, Throughput: 19.521234977354315 Mbytes/s
+Worker: 4, Size: 8192 KB, RTT: 210.95887 ms, Throughput: 37.975549831490376 Mbytes/s
+Worker: 4, Size: 16384 KB, RTT: 234.346261 ms, Throughput: 68.3616797032105 Mbytes/s
+Worker: 4, Size: 32768 KB, RTT: 278.236263 ms, Throughput: 115.13307148762803 Mbytes/s
+Worker: 4, Size: 65536 KB, RTT: 378.962806 ms, Throughput: 169.0144726749641 Mbytes/s
+Worker: 4, Size: 131072 KB, RTT: 523.874972 ms, Throughput: 244.4717101281056 Mbytes/s
+Worker: 4, Size: 262144 KB, RTT: 875.705022 ms, Throughput: 292.4350659330782 Mbytes/s
+Worker: 4, Size: 524288 KB, RTT: 1545.095779 ms, Throughput: 331.43475379644434 Mbytes/s
+Worker: 4, Size: 1048576 KB, RTT: 2919.775455 ms, Throughput: 350.7475800696492 Mbytes/s
+
+Average latency: 0.19379766666666665 ms
+Average metrics by size:
+Size: 1 KB, RTT: 250.216131 ms, Throughput: 0.003975746027574774 Mbytes/s
+Size: 2 KB, RTT: 191.792867 ms, Throughput: 0.010194198188310221 Mbytes/s
+Size: 3 KB, RTT: 195.99840966666667 ms, Throughput: 0.014972484781842215 Mbytes/s
+Size: 4 KB, RTT: 191.74223500000002 ms, Throughput: 0.020414585365122726 Mbytes/s
+Size: 5 KB, RTT: 191.2535306666667 ms, Throughput: 0.025564341404597225 Mbytes/s
+Size: 6 KB, RTT: 190.20237066666664 ms, Throughput: 0.030861750493657646 Mbytes/s
+Size: 7 KB, RTT: 191.17732466666666 ms, Throughput: 0.03580599498588966 Mbytes/s
+Size: 8 KB, RTT: 191.86504766666667 ms, Throughput: 0.04077291528535065 Mbytes/s
+Size: 9 KB, RTT: 189.17265899999998 ms, Throughput: 0.04652302706989053 Mbytes/s
+Size: 10 KB, RTT: 194.12725999999998 ms, Throughput: 0.05035838269846277 Mbytes/s
+Size: 11 KB, RTT: 186.43270900000002 ms, Throughput: 0.0576849279905118 Mbytes/s
+Size: 12 KB, RTT: 190.3355356666667 ms, Throughput: 0.06163859190214085 Mbytes/s
+Size: 13 KB, RTT: 188.40254666666667 ms, Throughput: 0.06747460264327439 Mbytes/s
+Size: 14 KB, RTT: 186.9943026666667 ms, Throughput: 0.07319006245198241 Mbytes/s
+Size: 15 KB, RTT: 189.70591166666668 ms, Throughput: 0.07730344898617543 Mbytes/s
+Size: 16 KB, RTT: 190.06535833333336 ms, Throughput: 0.08233320804782877 Mbytes/s
+Size: 17 KB, RTT: 189.28949366666666 ms, Throughput: 0.08780167673260264 Mbytes/s
+Size: 18 KB, RTT: 195.44972166666665 ms, Throughput: 0.09003960719968768 Mbytes/s
+Size: 19 KB, RTT: 191.804044 ms, Throughput: 0.09692295500541297 Mbytes/s
+Size: 20 KB, RTT: 191.37136999999998 ms, Throughput: 0.1022307883323396 Mbytes/s
+Size: 21 KB, RTT: 187.1291 ms, Throughput: 0.1097056175441141 Mbytes/s
+Size: 22 KB, RTT: 195.2127843333333 ms, Throughput: 0.11043302322589976 Mbytes/s
+Size: 23 KB, RTT: 195.58258999999998 ms, Throughput: 0.1152775584100209 Mbytes/s
+Size: 24 KB, RTT: 187.79883866666668 ms, Throughput: 0.12499225072806515 Mbytes/s
+Size: 25 KB, RTT: 191.23454833333335 ms, Throughput: 0.1278320559364893 Mbytes/s
+Size: 26 KB, RTT: 190.2425443333333 ms, Throughput: 0.1336919509737489 Mbytes/s
+Size: 27 KB, RTT: 186.838918 ms, Throughput: 0.1413040207412387 Mbytes/s
+Size: 28 KB, RTT: 190.28437166666666 ms, Throughput: 0.14393612917538834 Mbytes/s
+Size: 29 KB, RTT: 192.67037533333337 ms, Throughput: 0.1472939720786951 Mbytes/s
+Size: 30 KB, RTT: 189.01443766666668 ms, Throughput: 0.1552553999847128 Mbytes/s
+Size: 31 KB, RTT: 188.09470699999997 ms, Throughput: 0.161165424142981 Mbytes/s
+Size: 32 KB, RTT: 190.57936133333337 ms, Throughput: 0.16425924670665526 Mbytes/s
+Size: 33 KB, RTT: 186.83529366666667 ms, Throughput: 0.1726713252603016 Mbytes/s
+Size: 34 KB, RTT: 188.229136 ms, Throughput: 0.17661029937616934 Mbytes/s
+Size: 35 KB, RTT: 191.15728366666667 ms, Throughput: 0.1792113344817766 Mbytes/s
+Size: 36 KB, RTT: 189.256648 ms, Throughput: 0.18603517229555988 Mbytes/s
+Size: 37 KB, RTT: 191.47011966666665 ms, Throughput: 0.18904246929752497 Mbytes/s
+Size: 38 KB, RTT: 191.310464 ms, Throughput: 0.1942131181577523 Mbytes/s
+Size: 39 KB, RTT: 188.58529266666665 ms, Throughput: 0.2021701859963236 Mbytes/s
+Size: 40 KB, RTT: 188.75031866666666 ms, Throughput: 0.20728177841002213 Mbytes/s
+Size: 41 KB, RTT: 194.91047700000001 ms, Throughput: 0.2061136765757056 Mbytes/s
+Size: 42 KB, RTT: 192.67837 ms, Throughput: 0.2133083978486731 Mbytes/s
+Size: 43 KB, RTT: 190.46832133333336 ms, Throughput: 0.2207659573518795 Mbytes/s
+Size: 44 KB, RTT: 187.35691666666665 ms, Throughput: 0.22961867008453365 Mbytes/s
+Size: 45 KB, RTT: 189.5905623333333 ms, Throughput: 0.23209498667141062 Mbytes/s
+Size: 46 KB, RTT: 197.9704636666667 ms, Throughput: 0.22768041594672236 Mbytes/s
+Size: 47 KB, RTT: 197.574565 ms, Throughput: 0.23307619754198128 Mbytes/s
+Size: 48 KB, RTT: 192.67591166666668 ms, Throughput: 0.24362778799738585 Mbytes/s
+Size: 49 KB, RTT: 190.16663766666667 ms, Throughput: 0.2519738104287251 Mbytes/s
+Size: 50 KB, RTT: 187.804409 ms, Throughput: 0.2603854131013457 Mbytes/s
+Size: 51 KB, RTT: 189.59810266666668 ms, Throughput: 0.26304581943703415 Mbytes/s
+Size: 52 KB, RTT: 189.08345566666665 ms, Throughput: 0.26895280987719555 Mbytes/s
+Size: 53 KB, RTT: 189.56454166666666 ms, Throughput: 0.2733219565069472 Mbytes/s
+Size: 54 KB, RTT: 192.86981466666666 ms, Throughput: 0.2736955835567027 Mbytes/s
+Size: 55 KB, RTT: 191.03614166666668 ms, Throughput: 0.28155048809655914 Mbytes/s
+Size: 56 KB, RTT: 190.48863400000002 ms, Throughput: 0.2875156512378178 Mbytes/s
+Size: 57 KB, RTT: 190.559333 ms, Throughput: 0.29294596292586933 Mbytes/s
+Size: 58 KB, RTT: 189.76542400000002 ms, Throughput: 0.2989149191475155 Mbytes/s
+Size: 59 KB, RTT: 192.04189366666665 ms, Throughput: 0.30041764154728107 Mbytes/s
+Size: 60 KB, RTT: 188.24282033333336 ms, Throughput: 0.3116453180382231 Mbytes/s
+Size: 61 KB, RTT: 188.78793600000003 ms, Throughput: 0.31601399022992854 Mbytes/s
+Size: 62 KB, RTT: 187.91798500000002 ms, Throughput: 0.3225786839068188 Mbytes/s
+Size: 63 KB, RTT: 189.04110533333335 ms, Throughput: 0.3259403453367184 Mbytes/s
+Size: 64 KB, RTT: 189.92088166666667 ms, Throughput: 0.32958997250352423 Mbytes/s
+Size: 65 KB, RTT: 187.25153966666667 ms, Throughput: 0.339348775585425 Mbytes/s
+Size: 66 KB, RTT: 188.36332133333335 ms, Throughput: 0.3426603480823635 Mbytes/s
+Size: 67 KB, RTT: 190.06000199999997 ms, Throughput: 0.344673769999432 Mbytes/s
+Size: 68 KB, RTT: 191.91888133333336 ms, Throughput: 0.3467409454487913 Mbytes/s
+Size: 69 KB, RTT: 215.52880433333334 ms, Throughput: 0.32034028235733053 Mbytes/s
+Size: 70 KB, RTT: 463.00341366666675 ms, Throughput: 0.2677562439562125 Mbytes/s
+Size: 71 KB, RTT: 190.22743533333335 ms, Throughput: 0.3651895158354077 Mbytes/s
+Size: 72 KB, RTT: 187.81129966666666 ms, Throughput: 0.3750262850140745 Mbytes/s
+Size: 73 KB, RTT: 189.89124333333334 ms, Throughput: 0.3762262929005646 Mbytes/s
+Size: 74 KB, RTT: 190.48899500000002 ms, Throughput: 0.3798097398845526 Mbytes/s
+Size: 75 KB, RTT: 190.909387 ms, Throughput: 0.3841186519036097 Mbytes/s
+Size: 76 KB, RTT: 188.47293533333334 ms, Throughput: 0.39433925201581327 Mbytes/s
+Size: 77 KB, RTT: 189.24757133333333 ms, Throughput: 0.3978961485989319 Mbytes/s
+Size: 78 KB, RTT: 191.4488223333333 ms, Throughput: 0.39852959957624207 Mbytes/s
+Size: 79 KB, RTT: 189.52446066666667 ms, Throughput: 0.40748328182722954 Mbytes/s
+Size: 80 KB, RTT: 192.02539366666667 ms, Throughput: 0.40731301272921416 Mbytes/s
+Size: 81 KB, RTT: 188.7899653333333 ms, Throughput: 0.41956333704204357 Mbytes/s
+Size: 82 KB, RTT: 192.84518533333335 ms, Throughput: 0.4158817823231273 Mbytes/s
+Size: 83 KB, RTT: 186.71671733333335 ms, Throughput: 0.4346657517328394 Mbytes/s
+Size: 84 KB, RTT: 188.72400266666668 ms, Throughput: 0.4351897896607131 Mbytes/s
+Size: 85 KB, RTT: 189.591108 ms, Throughput: 0.43832340022282984 Mbytes/s
+Size: 86 KB, RTT: 187.31897800000002 ms, Throughput: 0.4489236203134961 Mbytes/s
+Size: 87 KB, RTT: 191.219691 ms, Throughput: 0.44477765103783223 Mbytes/s
+Size: 88 KB, RTT: 191.35802466666667 ms, Throughput: 0.44957631968286454 Mbytes/s
+Size: 89 KB, RTT: 190.13545833333333 ms, Throughput: 0.4576620000267166 Mbytes/s
+Size: 90 KB, RTT: 190.1943926666667 ms, Throughput: 0.4629255584315695 Mbytes/s
+Size: 91 KB, RTT: 190.23006833333332 ms, Throughput: 0.46765735280648785 Mbytes/s
+Size: 92 KB, RTT: 189.226932 ms, Throughput: 0.4755111576734052 Mbytes/s
+Size: 93 KB, RTT: 192.147499 ms, Throughput: 0.473263880272578 Mbytes/s
+Size: 94 KB, RTT: 190.56195433333332 ms, Throughput: 0.48221091095830504 Mbytes/s
+Size: 95 KB, RTT: 188.77165333333332 ms, Throughput: 0.49217929107733505 Mbytes/s
+Size: 96 KB, RTT: 190.500045 ms, Throughput: 0.49290830857947504 Mbytes/s
+Size: 97 KB, RTT: 185.38423533333335 ms, Throughput: 0.5115779171574738 Mbytes/s
+Size: 98 KB, RTT: 190.17328333333333 ms, Throughput: 0.5039773813062517 Mbytes/s
+Size: 99 KB, RTT: 189.40901066666666 ms, Throughput: 0.5109823556338994 Mbytes/s
+Size: 100 KB, RTT: 186.2501146666667 ms, Throughput: 0.5252321062496788 Mbytes/s
+Size: 1024 KB, RTT: 189.1262516666667 ms, Throughput: 5.296775472157589 Mbytes/s
+Size: 2048 KB, RTT: 197.19955966666666 ms, Throughput: 10.156573868273194 Mbytes/s
+Size: 4096 KB, RTT: 203.32338166666668 ms, Throughput: 19.699233472147423 Mbytes/s
+Size: 8192 KB, RTT: 212.55574333333334 ms, Throughput: 37.729720870364645 Mbytes/s
+Size: 16384 KB, RTT: 236.68484733333332 ms, Throughput: 67.66886330800826 Mbytes/s
+Size: 32768 KB, RTT: 277.5958686666667 ms, Throughput: 115.37845002327845 Mbytes/s
+Size: 65536 KB, RTT: 364.3379113333333 ms, Throughput: 175.99193767541271 Mbytes/s
+Size: 131072 KB, RTT: 522.8700826666667 ms, Throughput: 244.89460383933033 Mbytes/s
+Size: 262144 KB, RTT: 878.229049 ms, Throughput: 291.5668171677291 Mbytes/s
+Size: 524288 KB, RTT: 1594.7920753333335 ms, Throughput: 321.62194226183806 Mbytes/s
+Size: 1048576 KB, RTT: 2936.342329333334 ms, Throughput: 349.8867933382459 Mbytes/s

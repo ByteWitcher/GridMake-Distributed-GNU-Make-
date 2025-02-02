@@ -1,0 +1,75 @@
+# To display animation while processing
+function loading_animation() {
+    local message="$1"
+    local frames=('—' '\' '|' '/')
+    local delay=0.25
+
+    tput civis  # Hide cursor
+    trap 'tput cnorm' EXIT  # Restore cursor on exit
+
+    echo -n "$message "
+    while true; do
+        for frame in "${frames[@]}"; do
+            printf "%s\b" "$frame"
+            sleep $delay
+        done
+    done
+}
+
+# Interactive prompts for user input
+read -p "Enter the Grid'5000 site (e.g., lyon): " SITE
+read -p "Enter the number of hosts: " NUM_HOSTS
+read -p "Enter the walltime (e.g., 0:10 for 10 minutes): " WALLTIME
+read -p "Enter the sleep interval (in seconds): " SLEEP_INTERVAL
+
+SITE="$SITE.g5k"
+
+# Confirm inputs
+echo "Configuration:"
+echo "Site: $SITE"
+echo "Number of Hosts: $NUM_HOSTS"
+echo "Walltime: $WALLTIME"
+echo "Sleep Interval: $SLEEP_INTERVAL seconds"
+
+SCRIPT_PATH="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+CALLER_PATH=$(pwd)
+
+cp -r $CALLER_PATH/* $SCRIPT_PATH/../../makefiles/tmp/
+
+ssh $SITE 'mkdir src'
+echo "Transferring files to $SITE..."
+scp -r $SCRIPT_PATH/../../src/Graph $SITE:~/src/
+scp -r $SCRIPT_PATH/../../src/Launcher $SITE:~/src/
+scp -r $SCRIPT_PATH/../../src/Nodes $SITE:~/src/
+scp -r $SCRIPT_PATH/../../src/Parser $SITE:~/src/
+scp -r $SCRIPT_PATH/../../src/Tasks $SITE:~/src/
+scp $SCRIPT_PATH/../../src/main.jl $SITE:~/src/
+scp $SCRIPT_PATH/../../src/Scripts/juliaInstaller.sh $SITE:~/
+scp $SCRIPT_PATH/runGridmake.sh $SITE:~/
+scp -r $SCRIPT_PATH/../../makefiles/tmp/* $SITE:~/
+
+rm -rf $SCRIPT_PATH/../../makefiles/tmp/*
+
+# Submit the job using oarsub on the remote machine and capture the JOB ID
+JOB_ID=$(ssh $SITE "oarsub -p "cpuarch='x86_64'" -l host=$NUM_HOSTS,walltime=$WALLTIME 'source ~/runGridmake.sh'" | grep "OAR_JOB_ID" | cut -d= -f2)
+
+loading_animation "Processing, please wait" &
+loading_pid=$!
+
+# Wait for the job to complete
+while true; do
+    JOB_STATUS=$(ssh $SITE "oarstat -s -j $JOB_ID")
+    if [[ "$JOB_STATUS" =~ ": Terminated" ]]; then
+        kill $loading_pid
+        wait $loading_pid 2>/dev/null
+        break
+    fi
+    sleep $SLEEP_INTERVAL
+
+done
+
+ssh $SITE "rm -rf src julia* runGridmake.sh Makefile OAR*"
+scp $SITE:~/* $CALLER_PATH/
+ssh $SITE "rm -rf *"
+
+echo -e "\nDone!"

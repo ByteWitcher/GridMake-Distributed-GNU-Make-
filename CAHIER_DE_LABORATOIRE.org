@@ -1,0 +1,200 @@
+* 1. Processus du déploiement dans G5K
+
+Pour déployer notre application sur Grid5000, nous avons conçu des scripts automatisés qui simplifient chaque étape, depuis la réservation des nœuds jusqu’à leur configuration.
+En premier lieu, la commande 'oarsub' est utilisée pour réserver les nœuds nécessaires en spécifiant le nombre de nœuds et la durée de la réservation, tout en lançant directement un script d’installation de Julia sur chaque nœud.
+Cela garantit un environnement d’exécution uniforme sur tout le cluster.
+
+* 2. Ping Pong 
+[Commit : 19e22092be60842cc716ba1887b7c886e14b89d5 | Date : November 5, 2024 at 8:47:51 PM GMT+1]
+*** 2.1 Ping Pong Normal :
+
+Le test Ping Pong Normal vise à mesurer les performances de communication entre le nœud maître et les nœuds travailleurs sans interférence d’opérations supplémentaires. Les données transmises sont générées dynamiquement en mémoire, avec des tailles allant de 1 KB à 100 KB. Les principales métriques collectées incluent la latence (temps d’aller-retour) et le débit (volume de données transféré par seconde). Ce test permet d'évaluer uniquement les performances réseau, fournissant une base pour analyser les capacités de communication entre les nœuds.
+
+*** 2.2 Ping Pong I/O :
+
+Ce test ajoute une couche de complexité en intégrant des opérations d’entrée/sortie (E/S). Les données ne sont pas générées en mémoire, mais lues depuis des fichiers locaux sur chaque nœud travailleur avant d’être transmises. Cela permet de mesurer l’impact combiné des performances réseau et des opérations d’E/S sur disque. Ce scénario reflète des cas d’utilisation réels, où les systèmes distribués manipulent fréquemment des fichiers, et fournit une évaluation plus réaliste des performances globales.
+
+* 3. Expériences :
+
+*** 3.1 Calcul de la latence :
+
+La latence représente le temps nécessaire pour qu’un bit envoyé par un nœud source atteigne un nœud récepteur. Elle joue un rôle crucial dans l’évaluation des performances d’un système distribué, car elle influence directement les délais de réponse. Pour évaluer cette métrique, nous avons préalablement établi des connexions TCP avec chaque nœud, afin d’éliminer les délais liés à l’initialisation des connexions. La latence a été calculée en mesurant le temps écoulé entre l’envoi d’une requête et la réception d’une réponse. Ces mesures ont été réalisées sur un cluster situé sur le site de Grenoble de Grid5000.
+
+*** 3.2 Calcul du débit :
+[Commit : 678bcdead205bf74a772805dfe285f2026b2a907 | Date : November 18, 2024 at 6:06:20 PM GMT+1]
+
+En complément de la latence, nous avons évalué le débit, qui reflète la capacité du réseau à transférer des données. Pour ce faire, des fichiers de tailles croissantes ont été générés et transférés entre les nœuds. À chaque transfert, nous avons mesuré le temps écoulé, soustrait la latence moyenne préalablement calculée, et calculé le débit en divisant la taille des données transférées par le temps effectif de transfert. 
+
+*** 3.3 Calcul des performances avec NFS et comparaison avec SCP :
+
+Dans cette section, nous avons également comparé les performances du transfert de fichiers entre deux systèmes via NFS (Network File System) et SCP (Secure Copy Protocol), afin d’évaluer leur efficacité respective dans un environnement distribué.
+
+*** 3.3 Comparaison des sites Grid5000 :
+
+Nous avons évalué les performances réseau entre différents sites de Grid5000 en mesurant la latence et le débit via le test Ping Pong (sans I/O). Ces métriques permettent de déterminer la rapidité des échanges et la capacité de transfert des données.
+
+
+* 4. Courbes de performances
+
+*** 4.1 Courbes de la latence :
+
+Ces courbes comparent les latences mesurées pour les deux tests de Ping Pong : le Normal et celui avec IO.
+
+   #+CAPTION: Courbe de variation de la latence pour pingpong normal
+   [[file:src/Scripts/Results/PingpongComparisonPlots/pingpong-comparison-rtt-100KB.png]]
+
+Ce graphique montre que la latence pour le test Normal reste faible et stable quelle que soit la taille des données, indiquant une communication fluide entre les nœuds sans surcharge notable. En revanche, la courbe correspondant au test IO met en évidence une augmentation plus importante de la latence. Cette augmentation reflète l'impact des opérations d'entrée/sortie sur les performances, entraînant des variations plus marquées et des pics de latence.
+
+*** 4.2 Courbes de débit :
+[Commit : 4d6f5d967b795a4fd4a3c1b85872cd45cfe4ce00 | Date : November 11, 2024 at 7:10:28 PM GMT+1]
+
+Lors des tests effectués, des paquets de différentes tailles ont été envoyés entre deux nœuds du cluster pour mesurer le débit. On a observé que, lors de l'envoi de messages de quelques kilobits, il était difficile de discerner une valeur stable pour le débit. Cependant, à partir de tailles de messages plus importantes, le débit se stabilise autour de 600 MB/s, indiquant que le réseau atteint un équilibre où la transmission de messages de grande taille devient plus efficace, rendant le débit relativement constant.
+
+   #+CAPTION: Courbe de variation du débit pour pingpong normal
+   [[file:src/Scripts/Results/PingpongComparisonPlots/pingpong-comparison-throughput-100KB.png]]
+
+   #+CAPTION: Courbe de variation du débit pour pingpong normal
+   [[file:src/Scripts/Results/PingpongComparisonPlots/pingpong-comparison-throughput-1048576KB.png]]
+
+Pour le test Normal, le débit augmente régulièrement avec la taille des données, atteignant des valeurs plus élevées pour les grandes tailles, grâce à une utilisation optimale des ressources réseau. Cependant, quelques variations peuvent être observées pour certaines tailles, probablement dues à des fluctuations dans la latence initiale ou le traitement.
+Le test IO suit également une tendance à l'augmentation du débit avec la taille des données, mais avec des valeurs globalement inférieures à celles du test Normal. Cette différence s'explique par la surcharge introduite par les opérations d'entrée/sortie, qui limitent l'efficacité de la transmission des données.
+
+
+*** 4.3 Courbes de comparaison entre NFS et SCP :
+[Commit : 550e4a9de4a07f3fbba3b3e48a1255bc8b42bcc3 | Date : November 18, 2024 at 10:58:23 PM GMT+1]
+   #+CAPTION: Courbe de latence
+   [[file:src/Scripts/Results/NfsScpComparisonPlots/nfs-scp-comparison-rtt-100KB.png]]
+
+La courbe montre que NFS présente une latence plus stable par rapport à SCP. Cela s'explique par le fait que NFS établit une connexion continue et permet un accès direct aux fichiers distants, ce qui réduit les fluctuations de latence. En revanche, SCP présente une latence plus élevée, particulièrement lors du transfert de paquets plus volumineux. Cette différence peut être attribuée au processus de chiffrement impliqué dans SCP, qui introduit une surcharge supplémentaire, ainsi qu'au fait que chaque transfert nécessite une nouvelle négociation de connexion. Ainsi, bien que SCP soit sécurisé, il est moins performant et plus sensible aux variations de latence que NFS.
+
+   #+CAPTION: Courbe de débit
+   [[file:src/Scripts/Results/NfsScpComparisonPlots/nfs-scp-comparison-throughput-100KB.png]]
+
+La courbe montre que SCP maintient un débit stable à 0 pendant toute la période d'observation, ce qui reflète une limitation significative en termes de performance. Cela est dû à la surcharge liée au chiffrement des données, qui ralentit le transfert, en particulier avec de petites tailles de paquets. En revanche, NFS affiche une progression continue du débit à mesure que la taille des paquets augmente, ce qui indique une amélioration de la performance au fur et à mesure que les données sont transférées. Cette évolution est typique de NFS, qui gère plus efficacement les transferts de données volumineuses en maintenant une connexion continue sans la surcharge de chiffrement présente dans SCP.
+
+**** Résultats :
+1. Latence :
+- NFS a montré une latence légèrement plus faible, car les fichiers sont transférés de manière asynchrone.
+- SCP, avec son chiffrement intégré, a enregistré une latence plus élevée, particulièrement notable pour les petites tailles de fichiers.
+2. Débit : 
+- NFS a obtenu de meilleures performances pour les fichiers de grande taille (>10 MB), grâce à un transfert continu sans surcharge liée au chiffrement.
+- SCP a montré des performances acceptables pour les petites tailles de fichiers, mais son débit est resté limité pour les fichiers plus volumineux, en raison de la surcharge cryptographique.
+**** Conclusion :
+NFS se révèle être une solution plus performante pour les systèmes nécessitant des transferts fréquents et volumineux dans un environnement distribué
+
+*** 4.4 Courbes de comparaison entre les sites :
+[Commit : 7611a66ebb95b2a86799be5b0fbbd78c73f30d99 | Date : Decmber 08, 2024 at 11:15:31 PM GMT+1]
+   #+CAPTION: Comparaison des sites
+   [[file:src/Scripts/Results/SitesComparisonPlot/sites-comparison.png]]
+
+Le site de Nancy s'est avéré être le plus performant en termes de latence et de débit. Cela s’explique probablement par une meilleure infrastructure réseau ou des équipements plus récents. Le graphique ci-dessous montre clairement la supériorité du site de Nancy par rapport aux autres sites testés.
+
+* 5. Performances de make distribué :
+[Commit : 7611a66ebb95b2a86799be5b0fbbd78c73f30d99 | Date : Decmber 08, 2024 at 11:15:31 PM GMT+1]
+
+*** 5.1 Description de l'expérience : 
+
+Nous avons mesuré les performances de notre système make distribué en testant le makefile "premier" (22 tâches) sur un nombre de machines variant de 1 à 20. Les métriques étudiées incluent :
+
+- Temps d'exécution : Le temps total pour terminer les 22 tâches.
+- Accélération : Définie comme le rapport entre le temps séquentiel (1 machine) et le temps parallèle (m machines).
+- Efficacité : Calculée comme l'accélération divisée par le nombre de machines (m).
+Ces mesures permettent d’évaluer les gains apportés par l'ajout de machines ainsi que les limites du parallélisme dans ce système distribué.
+
+*** 5.2 Résultats obtenus : 
+**** 5.2.1 Temps d'exécution en fonction de m : 
+
+   #+CAPTION: Temps d'exécution en fonction du nombre de machines
+   [[file:src/Scripts/Results/MakePerformancePlots/execution.png]]
+
+L'analyse des temps d'exécution montre une diminution significative du temps d'exécution lorsque le nombre de machines m augmente, particulièrement jusqu'à m = 10. Par exemple, entre 1 machine (262.39s) et 10 machines (31.60s), le temps d'exécution est réduit d'environ 88%, démontrant une bonne scalabilité initiale.
+
+Cependant, au-delà de m = 10, les gains deviennent plus limités. Par exemple, entre 10 machines (31.60s) et 12 machines (33.60s), on observe même une légère dégradation due probablement à la surcharge de coordination. Cette observation s'accentue à partir de m = 18 (26.58s) où le temps d'exécution ne progresse plus significativement malgré l'ajout de machines.
+
+Cela met en lumière les limites pratiques du parallélisme lorsque le coût de la synchronisation devient prépondérant par rapport au travail effectif.
+
+**** 5.2.2 Accélération en fonction de m :
+
+   #+CAPTION: Accélération en fonction du nombre de machines
+   [[file:src/Scripts/Results/MakePerformancePlots/acceleration.png]]
+
+L'accélération augmente fortement jusqu'à m = 10 avec une accélération atteignant 8.30. Cela représente une accélération quasi-linéaire par rapport au nombre de machines, ce qui montre que le système est capable d'exploiter efficacement le parallélisme à ce stade.
+
+Cependant, au-delà de m = 10, l'accélération se stabilise et présente des variations. Par exemple :
+
+À m = 12, l'accélération chute légèrement à 7.80, indiquant une baisse de rendement malgré l'augmentation des ressources.
+À m = 19, un pic d'accélération de 13.08 est observé, probablement lié à une meilleure distribution des tâches ou à des conditions spécifiques (exemple : coûts réduits de communication).
+Ces variations montrent que le parallélisme est exploité de manière optimale jusqu'à un certain seuil (proche de 10 machines), puis les gains sont irréguliers.
+
+**** 5.2.3 Efficacité en fonction de m :
+
+   #+CAPTION: Efficacité en fonction du nombre de machines
+   [[file:src/Scripts/Results/MakePerformancePlots/efficiency.png]]
+
+L'efficacité suit une tendance décroissante avec l'augmentation du nombre de machines. Voici quelques observations :
+
+Pour m = 2 à m = 6, l'efficacité reste élevée, variant entre 0.94 et 0.88. Cela témoigne d'une utilisation très efficace des machines.
+À partir de m = 10, l'efficacité baisse de manière plus marquée (0.83) et atteint un minimum à m = 12 (0.65), signe de la surcharge de coordination.
+Enfin, l'efficacité fluctue légèrement entre m = 14 et m = 20, se stabilisant autour de 0.62 - 0.68. Cela confirme que les tâches disponibles (22 au total) deviennent insuffisantes pour saturer les machines additionnelles.
+
+Ces résultats illustrent une loi classique du parallélisme où l'efficacité diminue lorsque le nombre de ressources dépasse les besoins effectifs en travail.
+
+*** 5.3 Conclusion :
+
+Les courbes obtenues montrent que notre système make distribué exploite efficacement le parallélisme jusqu’à un certain point. Cependant, au-delà de m = 10 à 12 machines, les gains deviennent peu significatifs en raison du nombre limité de tâches (22). Ces résultats mettent en lumière l'importance de dimensionner correctement les ressources en fonction de la charge de travail.
+
+* 6. Modèle Théorique et Comparaison avec la Réalité :
+[Commit : 928d8c729b4b8cddb51d223f3ba023bc3e706963  | Date : Decmber 12, 2024 at 12:36:50 PM GMT+1]
+
+*** 6.1  Description du Modèle Théorique :
+Le modèle théorique repose sur la formule de majoration du temps d'exécution final d'un Makefile pour un nombre de machines m donné :
+
+   T_execution <= ( Σ T_tâches ) / m + T_max
+
+Cette formule garantit que le temps total est borné et permet de comparer les performances théoriques et réelles.
+
+*** 6.2 Courbes théoriques : 
+
+***** 6.2.1 Temps d'exécution théorique en fonction de ~m~ :
+
+   #+CAPTION: Efficacité en fonction du nombre de machines
+   [[file:src/Scripts/Results/MakePerformanceTheoreticalPlots/execution.png]]
+
+Le temps d'exécution diminue de façon non linéaire. L'impact d'une nouvelle machine devient marginal lorsque ~m~ augmente.
+
+***** 6.2.2 Accélération en fonction de ~m~ :
+
+   #+CAPTION: Accélération théorique en fonction du nombre de machines
+   [[file:src/Scripts/Results/MakePerformanceTheoreticalPlots/acceleration.png]]
+
+La courbe montre une augmentation rapide de l'accélération avec l'ajout de machines, reflétant une bonne parallélisation initiale. Cependant, à mesure que le nombre de machines augmente, l'accélération atteint un plateau. Ce comportement est dû à la présence du terme constant représentant le temps de la tâche la plus longue, qui limite les gains de performance au-delà d'un certain point.
+
+***** 6.2.3 Efficacité en fonction de ~m~ :
+
+   #+CAPTION: Efficacité théorique en fonction du nombre de machines
+   [[file:src/Scripts/Results/MakePerformanceTheoreticalPlots/efficiency.png]]
+
+La courbe montre une efficacité élevée avec un petit nombre de machines, indiquant une utilisation optimale des ressources. Cependant, l'efficacité diminue progressivement à mesure que le nombre de machines augmente. Cette diminution est due à la part fixe du temps d'exécution, représentée par le temps de la tâche la plus longue, qui devient de plus en plus significative par rapport aux gains de parallélisation.
+
+*** 6.3 Comparaison avec la réalité :
+
+***** 6.3.1 Temps d'exécution (Théorique vs Réel) :
+
+   #+CAPTION: Temps d'exécution (Théorique vs Réel)
+   [[file:src/Scripts/Results/MakePerformanceComparisonPlots/execution.png]]
+
+La courbe réelle montre une baisse plus marquée du temps d'exécution que la courbe théorique, en particulier entre 1 et 10 machines. Cela indique un gain de performance significatif pour l'exécution réelle jusqu'à 10 machines. L'efficacité parallèle réelle est supérieure, probablement grâce à une meilleure répartition des tâches et une communication optimisée entre les machines. À partir de 11 machines, le temps d'exécution réel commence à se stabiliser, tandis que le modèle théorique continue à montrer des gains plus modestes. Ceci est dû à des facteurs pratiques comme la surcharge de communication et la dégradation des performances liées à la synchronisation.
+
+***** 6.3.2 Accélération (Théorique vs réel) :
+
+   #+CAPTION: Accélération (Théorique vs Réel)
+   [[file:src/Scripts/Results/MakePerformanceComparisonPlots/acceleration.png]]
+
+La courbe montre que l'accélération réelle est proche de l'accélération théorique pour un petit nombre de machines, mais devient supérieure à mesure que le nombre de machines augmente. Cette différence s'explique par une meilleure répartition des tâches et une utilisation plus efficace des ressources dans le système réel par rapport au modèle théorique.
+
+***** 6.3.2 Efficacité (Théorique vs réel) :
+
+   #+CAPTION: Efficacité (Théorique vs Réel)
+   [[file:src/Scripts/Results/MakePerformanceComparisonPlots/efficiency.png]]
+
+La courbe montre que l'efficacité réelle est initialement proche de l'efficacité théorique, mais diminue plus rapidement avec l'augmentation du nombre de machines. Cette diminution plus rapide de l'efficacité réelle est due aux coûts de coordination et aux déséquilibres de charge, qui ne sont pas pris en compte dans le modèle théorique et qui réduisent l'utilisation optimale des ressources.

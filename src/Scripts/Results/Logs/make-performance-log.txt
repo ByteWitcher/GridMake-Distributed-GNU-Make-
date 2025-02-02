@@ -1,0 +1,2285 @@
+Getting worker hosts...
+Worker hosts: Any["gros-107.nancy.grid5000.fr", "gros-111.nancy.grid5000.fr", "gros-24.nancy.grid5000.fr", "gros-26.nancy.grid5000.fr", "gros-42.nancy.grid5000.fr", "gros-44.nancy.grid5000.fr", "gros-69.nancy.grid5000.fr", "gros-7.nancy.grid5000.fr", "gros-71.nancy.grid5000.fr", "gros-77.nancy.grid5000.fr", "gros-78.nancy.grid5000.fr", "gros-79.nancy.grid5000.fr", "gros-80.nancy.grid5000.fr", "gros-81.nancy.grid5000.fr", "gros-84.nancy.grid5000.fr", "gros-85.nancy.grid5000.fr", "gros-86.nancy.grid5000.fr", "gros-87.nancy.grid5000.fr", "gros-88.nancy.grid5000.fr", "gros-99.nancy.grid5000.fr"]
+Measuring parallel time (1 machines)...
+Worker 2 is occupied for compile.
+      From worker 2:	Executing command: gcc premier.c -o premier -lm ******* for task: compile
+      From worker 2:	Target completed: compile
+Worker 2 is free.
+Worker 2 is occupied for list5.txt.
+      From worker 2:	Executing command: ./premier `echo 4*200000000/20 |bc` `echo 5*200000000/20-1 |bc` > list5.txt ******* for task: list5.txt
+      From worker 2:	Target completed: list5.txt
+Worker 2 is free.
+Worker 2 is occupied for list18.txt.
+      From worker 2:	Executing command: ./premier `echo 17*200000000/20 |bc` `echo 18*200000000/20-1 |bc` > list18.txt ******* for task: list18.txt
+      From worker 2:	Target completed: list18.txt
+Worker 2 is free.
+Worker 2 is occupied for list10.txt.
+      From worker 2:	Executing command: ./premier `echo 9*200000000/20 |bc` `echo 10*200000000/20-1 |bc` > list10.txt ******* for task: list10.txt
+Worker 2 is free.
+      From worker 2:	Target completed: list10.txt
+Worker 2 is occupied for list16.txt.
+      From worker 2:	Executing command: ./premier `echo 15*200000000/20 |bc` `echo 16*200000000/20-1 |bc` > list16.txt ******* for task: list16.txt
+Worker 2 is free.
+      From worker 2:	Target completed: list16.txt
+Worker 2 is occupied for list7.txt.
+      From worker 2:	Executing command: ./premier `echo 6*200000000/20 |bc` `echo 7*200000000/20-1 |bc` > list7.txt ******* for task: list7.txt
+Worker 2 is free.
+      From worker 2:	Target completed: list7.txt
+Worker 2 is occupied for list12.txt.
+      From worker 2:	Executing command: ./premier `echo 11*200000000/20 |bc` `echo 12*200000000/20-1 |bc` > list12.txt ******* for task: list12.txt
+Worker 2 is free.
+      From worker 2:	Target completed: list12.txt
+Worker 2 is occupied for list9.txt.
+      From worker 2:	Executing command: ./premier `echo 8*200000000/20 |bc` `echo 9*200000000/20-1 |bc` > list9.txt ******* for task: list9.txt
+Worker 2 is free.
+      From worker 2:	Target completed: list9.txt
+Worker 2 is occupied for list15.txt.
+      From worker 2:	Executing command: ./premier `echo 14*200000000/20 |bc` `echo 15*200000000/20-1 |bc` > list15.txt ******* for task: list15.txt
+Worker 2 is free.
+      From worker 2:	Target completed: list15.txt
+Worker 2 is occupied for list6.txt.
+      From worker 2:	Executing command: ./premier `echo 5*200000000/20 |bc` `echo 6*200000000/20-1 |bc` > list6.txt ******* for task: list6.txt
+Worker 2 is free.
+      From worker 2:	Target completed: list6.txt
+Worker 2 is occupied for list1.txt.
+      From worker 2:	Executing command: ./premier 2 `echo 1*200000000/20-1 |bc` > list1.txt ******* for task: list1.txt
+Worker 2 is free.
+      From worker 2:	Target completed: list1.txt
+Worker 2 is occupied for list2.txt.
+      From worker 2:	Executing command: ./premier `echo 1*200000000/20 |bc` `echo 2*200000000/20-1 |bc` > list2.txt ******* for task: list2.txt
+Worker 2 is free.
+      From worker 2:	Target completed: list2.txt
+Worker 2 is occupied for list8.txt.
+      From worker 2:	Executing command: ./premier `echo 7*200000000/20 |bc` `echo 8*200000000/20-1 |bc` > list8.txt ******* for task: list8.txt
+Worker 2 is free.
+      From worker 2:	Target completed: list8.txt
+Worker 2 is occupied for list14.txt.
+      From worker 2:	Executing command: ./premier `echo 13*200000000/20 |bc` `echo 14*200000000/20-1 |bc` > list14.txt ******* for task: list14.txt
+Worker 2 is free.
+      From worker 2:	Target completed: list14.txt
+Worker 2 is occupied for list17.txt.
+      From worker 2:	Executing command: ./premier `echo 16*200000000/20 |bc` `echo 17*200000000/20-1 |bc` > list17.txt ******* for task: list17.txt
+Worker 2 is free.
+      From worker 2:	Target completed: list17.txt
+Worker 2 is occupied for list13.txt.
+      From worker 2:	Executing command: ./premier `echo 12*200000000/20 |bc` `echo 13*200000000/20-1 |bc` > list13.txt ******* for task: list13.txt
+Worker 2 is free.
+      From worker 2:	Target completed: list13.txt
+Worker 2 is occupied for list20.txt.
+      From worker 2:	Executing command: ./premier `echo 19*200000000/20 |bc` `echo 20*200000000/20-1 |bc` > list20.txt ******* for task: list20.txt
+      From worker 2:	Target completed: list20.txt
+Worker 2 is free.
+Worker 2 is occupied for list19.txt.
+      From worker 2:	Executing command: ./premier `echo 18*200000000/20 |bc` `echo 19*200000000/20-1 |bc` > list19.txt ******* for task: list19.txt
+Worker 2 is free.
+      From worker 2:	Target completed: list19.txt
+Worker 2 is occupied for list11.txt.
+      From worker 2:	Executing command: ./premier `echo 10*200000000/20 |bc` `echo 11*200000000/20-1 |bc` > list11.txt ******* for task: list11.txt
+Worker 2 is free.
+      From worker 2:	Target completed: list11.txt
+Worker 2 is occupied for list3.txt.
+      From worker 2:	Executing command: ./premier `echo 2*200000000/20 |bc` `echo 3*200000000/20-1 |bc` > list3.txt ******* for task: list3.txt
+Worker 2 is free.
+      From worker 2:	Target completed: list3.txt
+Worker 2 is occupied for list4.txt.
+      From worker 2:	Executing command: ./premier `echo 3*200000000/20 |bc` `echo 4*200000000/20-1 |bc` > list4.txt ******* for task: list4.txt
+Worker 2 is free.
+      From worker 2:	Target completed: list4.txt
+Worker 2 is occupied for list.txt.
+      From worker 2:	Executing command: cp list1.txt list.txt ******* for task: list.txt
+      From worker 2:	Executing command: cat list2.txt >> list.txt ******* for task: list.txt
+      From worker 2:	Executing command: cat list3.txt >> list.txt ******* for task: list.txt
+      From worker 2:	Executing command: cat list4.txt >> list.txt ******* for task: list.txt
+      From worker 2:	Executing command: cat list5.txt >> list.txt ******* for task: list.txt
+      From worker 2:	Executing command: cat list6.txt >> list.txt ******* for task: list.txt
+      From worker 2:	Executing command: cat list7.txt >> list.txt ******* for task: list.txt
+      From worker 2:	Executing command: cat list8.txt >> list.txt ******* for task: list.txt
+      From worker 2:	Executing command: cat list9.txt >> list.txt ******* for task: list.txt
+      From worker 2:	Executing command: cat list10.txt >> list.txt ******* for task: list.txt
+      From worker 2:	Executing command: cat list11.txt >> list.txt ******* for task: list.txt
+      From worker 2:	Executing command: cat list12.txt >> list.txt ******* for task: list.txt
+      From worker 2:	Executing command: cat list13.txt >> list.txt ******* for task: list.txt
+      From worker 2:	Executing command: cat list14.txt >> list.txt ******* for task: list.txt
+      From worker 2:	Executing command: cat list15.txt >> list.txt ******* for task: list.txt
+      From worker 2:	Executing command: cat list16.txt >> list.txt ******* for task: list.txt
+      From worker 2:	Executing command: cat list17.txt >> list.txt ******* for task: list.txt
+      From worker 2:	Executing command: cat list18.txt >> list.txt ******* for task: list.txt
+      From worker 2:	Executing command: cat list19.txt >> list.txt ******* for task: list.txt
+      From worker 2:	Executing command: cat list20.txt >> list.txt ******* for task: list.txt
+Worker 2 is free.
+      From worker 2:	Target completed: list.txt
+Parallel task execution time with 1 machines: 262.389242425 seconds
+Cleaning up generated files...
+Cleanup complete for 1 machines.
+Execution time with 1 machine : 262.389242425
+Acceleration with 1 machine: 1
+Efficiency with 1 machine: 1
+Measuring parallel time (2 machines)...
+Worker 3 is occupied for compile.
+      From worker 3:	Executing command: gcc premier.c -o premier -lm ******* for task: compile
+      From worker 3:	Target completed: compile
+Worker 3 is free.
+Worker 3 is occupied for list15.txt.
+Worker 2 is occupied for list10.txt.
+      From worker 3:	Executing command: ./premier `echo 14*200000000/20 |bc` `echo 15*200000000/20-1 |bc` > list15.txt ******* for task: list15.txt
+      From worker 2:	Executing command: ./premier `echo 9*200000000/20 |bc` `echo 10*200000000/20-1 |bc` > list10.txt ******* for task: list10.txt
+Worker 2 is free.
+      From worker 2:	Target completed: list10.txt
+Worker 2 is occupied for list14.txt.
+      From worker 2:	Executing command: ./premier `echo 13*200000000/20 |bc` `echo 14*200000000/20-1 |bc` > list14.txt ******* for task: list14.txt
+      From worker 3:	Target completed: list15.txt
+Worker 3 is free.
+Worker 3 is occupied for list5.txt.
+      From worker 3:	Executing command: ./premier `echo 4*200000000/20 |bc` `echo 5*200000000/20-1 |bc` > list5.txt ******* for task: list5.txt
+Worker 3 is free.
+      From worker 3:	Target completed: list5.txt
+Worker 3 is occupied for list8.txt.
+      From worker 3:	Executing command: ./premier `echo 7*200000000/20 |bc` `echo 8*200000000/20-1 |bc` > list8.txt ******* for task: list8.txt
+Worker 2 is free.
+      From worker 2:	Target completed: list14.txt
+Worker 2 is occupied for list20.txt.
+      From worker 2:	Executing command: ./premier `echo 19*200000000/20 |bc` `echo 20*200000000/20-1 |bc` > list20.txt ******* for task: list20.txt
+Worker 3 is free.
+      From worker 3:	Target completed: list8.txt
+Worker 3 is occupied for list2.txt.
+      From worker 3:	Executing command: ./premier `echo 1*200000000/20 |bc` `echo 2*200000000/20-1 |bc` > list2.txt ******* for task: list2.txt
+Worker 3 is free.
+      From worker 3:	Target completed: list2.txt
+Worker 3 is occupied for list11.txt.
+      From worker 3:	Executing command: ./premier `echo 10*200000000/20 |bc` `echo 11*200000000/20-1 |bc` > list11.txt ******* for task: list11.txt
+Worker 2 is free.
+      From worker 2:	Target completed: list20.txt
+Worker 2 is occupied for list3.txt.
+      From worker 2:	Executing command: ./premier `echo 2*200000000/20 |bc` `echo 3*200000000/20-1 |bc` > list3.txt ******* for task: list3.txt
+Worker 2 is free.
+      From worker 2:	Target completed: list3.txt
+Worker 2 is occupied for list4.txt.
+      From worker 2:	Executing command: ./premier `echo 3*200000000/20 |bc` `echo 4*200000000/20-1 |bc` > list4.txt ******* for task: list4.txt
+Worker 3 is free.
+      From worker 3:	Target completed: list11.txt
+Worker 3 is occupied for list18.txt.
+      From worker 3:	Executing command: ./premier `echo 17*200000000/20 |bc` `echo 18*200000000/20-1 |bc` > list18.txt ******* for task: list18.txt
+Worker 2 is free.
+      From worker 2:	Target completed: list4.txt
+Worker 2 is occupied for list6.txt.
+      From worker 2:	Executing command: ./premier `echo 5*200000000/20 |bc` `echo 6*200000000/20-1 |bc` > list6.txt ******* for task: list6.txt
+Worker 2 is free.
+      From worker 2:	Target completed: list6.txt
+Worker 2 is occupied for list1.txt.
+      From worker 2:	Executing command: ./premier 2 `echo 1*200000000/20-1 |bc` > list1.txt ******* for task: list1.txt
+Worker 3 is free.
+      From worker 3:	Target completed: list18.txt
+Worker 3 is occupied for list16.txt.
+      From worker 3:	Executing command: ./premier `echo 15*200000000/20 |bc` `echo 16*200000000/20-1 |bc` > list16.txt ******* for task: list16.txt
+Worker 2 is free.
+      From worker 2:	Target completed: list1.txt
+Worker 2 is occupied for list12.txt.
+      From worker 2:	Executing command: ./premier `echo 11*200000000/20 |bc` `echo 12*200000000/20-1 |bc` > list12.txt ******* for task: list12.txt
+Worker 3 is free.
+      From worker 3:	Target completed: list16.txt
+Worker 3 is occupied for list7.txt.
+      From worker 3:	Executing command: ./premier `echo 6*200000000/20 |bc` `echo 7*200000000/20-1 |bc` > list7.txt ******* for task: list7.txt
+Worker 2 is free.
+      From worker 2:	Target completed: list12.txt
+Worker 2 is occupied for list17.txt.
+      From worker 2:	Executing command: ./premier `echo 16*200000000/20 |bc` `echo 17*200000000/20-1 |bc` > list17.txt ******* for task: list17.txt
+Worker 3 is free.
+      From worker 3:	Target completed: list7.txt
+Worker 3 is occupied for list13.txt.
+      From worker 3:	Executing command: ./premier `echo 12*200000000/20 |bc` `echo 13*200000000/20-1 |bc` > list13.txt ******* for task: list13.txt
+      From worker 2:	Target completed: list17.txt
+Worker 2 is free.
+Worker 2 is occupied for list9.txt.
+      From worker 2:	Executing command: ./premier `echo 8*200000000/20 |bc` `echo 9*200000000/20-1 |bc` > list9.txt ******* for task: list9.txt
+      From worker 3:	Target completed: list13.txt
+Worker 3 is free.
+Worker 3 is occupied for list19.txt.
+      From worker 3:	Executing command: ./premier `echo 18*200000000/20 |bc` `echo 19*200000000/20-1 |bc` > list19.txt ******* for task: list19.txt
+Worker 2 is free.
+      From worker 2:	Target completed: list9.txt
+Worker 3 is free.
+      From worker 3:	Target completed: list19.txt
+Worker 3 is occupied for list.txt.
+      From worker 3:	Executing command: cp list1.txt list.txt ******* for task: list.txt
+      From worker 3:	Executing command: cat list2.txt >> list.txt ******* for task: list.txt
+      From worker 3:	Executing command: cat list3.txt >> list.txt ******* for task: list.txt
+      From worker 3:	Executing command: cat list4.txt >> list.txt ******* for task: list.txt
+      From worker 3:	Executing command: cat list5.txt >> list.txt ******* for task: list.txt
+      From worker 3:	Executing command: cat list6.txt >> list.txt ******* for task: list.txt
+      From worker 3:	Executing command: cat list7.txt >> list.txt ******* for task: list.txt
+      From worker 3:	Executing command: cat list8.txt >> list.txt ******* for task: list.txt
+      From worker 3:	Executing command: cat list9.txt >> list.txt ******* for task: list.txt
+      From worker 3:	Executing command: cat list10.txt >> list.txt ******* for task: list.txt
+      From worker 3:	Executing command: cat list11.txt >> list.txt ******* for task: list.txt
+      From worker 3:	Executing command: cat list12.txt >> list.txt ******* for task: list.txt
+      From worker 3:	Executing command: cat list13.txt >> list.txt ******* for task: list.txt
+      From worker 3:	Executing command: cat list14.txt >> list.txt ******* for task: list.txt
+      From worker 3:	Executing command: cat list15.txt >> list.txt ******* for task: list.txt
+      From worker 3:	Executing command: cat list16.txt >> list.txt ******* for task: list.txt
+      From worker 3:	Executing command: cat list17.txt >> list.txt ******* for task: list.txt
+      From worker 3:	Executing command: cat list18.txt >> list.txt ******* for task: list.txt
+      From worker 3:	Executing command: cat list19.txt >> list.txt ******* for task: list.txt
+      From worker 3:	Executing command: cat list20.txt >> list.txt ******* for task: list.txt
+Worker 3 is free.
+      From worker 3:	Target completed: list.txt
+Parallel task execution time with 2 machines: 138.952007907 seconds
+Cleaning up generated files...
+Cleanup complete for 2 machines.
+Execution time with 2 machines : 138.952007907
+Acceleration with 2 machines: 1.8883443742721304
+Efficiency with 2 machines: 0.9441721871360652
+Measuring parallel time (3 machines)...
+Worker 4 is occupied for compile.
+      From worker 4:	Executing command: gcc premier.c -o premier -lm ******* for task: compile
+      From worker 4:	Target completed: compile
+Worker 4 is free.
+Worker 4 is occupied for list7.txt.
+Worker 3 is occupied for list3.txt.
+Worker 2 is occupied for list20.txt.
+      From worker 4:	Executing command: ./premier `echo 6*200000000/20 |bc` `echo 7*200000000/20-1 |bc` > list7.txt ******* for task: list7.txt
+      From worker 3:	Executing command: ./premier `echo 2*200000000/20 |bc` `echo 3*200000000/20-1 |bc` > list3.txt ******* for task: list3.txt
+      From worker 2:	Executing command: ./premier `echo 19*200000000/20 |bc` `echo 20*200000000/20-1 |bc` > list20.txt ******* for task: list20.txt
+Worker 3 is free.
+      From worker 3:	Target completed: list3.txt
+Worker 3 is occupied for list12.txt.
+      From worker 3:	Executing command: ./premier `echo 11*200000000/20 |bc` `echo 12*200000000/20-1 |bc` > list12.txt ******* for task: list12.txt
+Worker 4 is free.
+      From worker 4:	Target completed: list7.txt
+Worker 4 is occupied for list19.txt.
+      From worker 4:	Executing command: ./premier `echo 18*200000000/20 |bc` `echo 19*200000000/20-1 |bc` > list19.txt ******* for task: list19.txt
+Worker 2 is free.
+      From worker 2:	Target completed: list20.txt
+Worker 2 is occupied for list8.txt.
+      From worker 2:	Executing command: ./premier `echo 7*200000000/20 |bc` `echo 8*200000000/20-1 |bc` > list8.txt ******* for task: list8.txt
+Worker 3 is free.
+      From worker 3:	Target completed: list12.txt
+Worker 3 is occupied for list16.txt.
+      From worker 3:	Executing command: ./premier `echo 15*200000000/20 |bc` `echo 16*200000000/20-1 |bc` > list16.txt ******* for task: list16.txt
+Worker 4 is free.
+      From worker 4:	Target completed: list19.txt
+Worker 4 is occupied for list5.txt.
+      From worker 4:	Executing command: ./premier `echo 4*200000000/20 |bc` `echo 5*200000000/20-1 |bc` > list5.txt ******* for task: list5.txt
+Worker 2 is free.
+      From worker 2:	Target completed: list8.txt
+Worker 2 is occupied for list9.txt.
+      From worker 2:	Executing command: ./premier `echo 8*200000000/20 |bc` `echo 9*200000000/20-1 |bc` > list9.txt ******* for task: list9.txt
+      From worker 3:	Target completed: list16.txt
+Worker 3 is free.
+Worker 3 is occupied for list18.txt.
+      From worker 3:	Executing command: ./premier `echo 17*200000000/20 |bc` `echo 18*200000000/20-1 |bc` > list18.txt ******* for task: list18.txt
+Worker 4 is free.
+      From worker 4:	Target completed: list5.txt
+Worker 4 is occupied for list17.txt.
+      From worker 4:	Executing command: ./premier `echo 16*200000000/20 |bc` `echo 17*200000000/20-1 |bc` > list17.txt ******* for task: list17.txt
+Worker 2 is free.
+      From worker 2:	Target completed: list9.txt
+Worker 2 is occupied for list2.txt.
+      From worker 2:	Executing command: ./premier `echo 1*200000000/20 |bc` `echo 2*200000000/20-1 |bc` > list2.txt ******* for task: list2.txt
+      From worker 2:	Target completed: list2.txt
+Worker 2 is free.
+Worker 2 is occupied for list13.txt.
+      From worker 2:	Executing command: ./premier `echo 12*200000000/20 |bc` `echo 13*200000000/20-1 |bc` > list13.txt ******* for task: list13.txt
+Worker 3 is free.
+      From worker 3:	Target completed: list18.txt
+Worker 3 is occupied for list11.txt.
+      From worker 3:	Executing command: ./premier `echo 10*200000000/20 |bc` `echo 11*200000000/20-1 |bc` > list11.txt ******* for task: list11.txt
+Worker 4 is free.
+      From worker 4:	Target completed: list17.txt
+Worker 4 is occupied for list15.txt.
+      From worker 4:	Executing command: ./premier `echo 14*200000000/20 |bc` `echo 15*200000000/20-1 |bc` > list15.txt ******* for task: list15.txt
+Worker 2 is free.
+      From worker 2:	Target completed: list13.txt
+Worker 2 is occupied for list6.txt.
+      From worker 2:	Executing command: ./premier `echo 5*200000000/20 |bc` `echo 6*200000000/20-1 |bc` > list6.txt ******* for task: list6.txt
+Worker 3 is free.
+      From worker 3:	Target completed: list11.txt
+Worker 3 is occupied for list1.txt.
+      From worker 3:	Executing command: ./premier 2 `echo 1*200000000/20-1 |bc` > list1.txt ******* for task: list1.txt
+Worker 4 is free.
+      From worker 4:	Target completed: list15.txt
+Worker 4 is occupied for list14.txt.
+      From worker 4:	Executing command: ./premier `echo 13*200000000/20 |bc` `echo 14*200000000/20-1 |bc` > list14.txt ******* for task: list14.txt
+Worker 3 is free.
+      From worker 3:	Target completed: list1.txt
+Worker 3 is occupied for list10.txt.
+      From worker 3:	Executing command: ./premier `echo 9*200000000/20 |bc` `echo 10*200000000/20-1 |bc` > list10.txt ******* for task: list10.txt
+Worker 2 is free.
+      From worker 2:	Target completed: list6.txt
+Worker 2 is occupied for list4.txt.
+      From worker 2:	Executing command: ./premier `echo 3*200000000/20 |bc` `echo 4*200000000/20-1 |bc` > list4.txt ******* for task: list4.txt
+Worker 2 is free.
+      From worker 2:	Target completed: list4.txt
+Worker 3 is free.
+      From worker 3:	Target completed: list10.txt
+Worker 4 is free.
+      From worker 4:	Target completed: list14.txt
+Worker 4 is occupied for list.txt.
+      From worker 4:	Executing command: cp list1.txt list.txt ******* for task: list.txt
+      From worker 4:	Executing command: cat list2.txt >> list.txt ******* for task: list.txt
+      From worker 4:	Executing command: cat list3.txt >> list.txt ******* for task: list.txt
+      From worker 4:	Executing command: cat list4.txt >> list.txt ******* for task: list.txt
+      From worker 4:	Executing command: cat list5.txt >> list.txt ******* for task: list.txt
+      From worker 4:	Executing command: cat list6.txt >> list.txt ******* for task: list.txt
+      From worker 4:	Executing command: cat list7.txt >> list.txt ******* for task: list.txt
+      From worker 4:	Executing command: cat list8.txt >> list.txt ******* for task: list.txt
+      From worker 4:	Executing command: cat list9.txt >> list.txt ******* for task: list.txt
+      From worker 4:	Executing command: cat list10.txt >> list.txt ******* for task: list.txt
+      From worker 4:	Executing command: cat list11.txt >> list.txt ******* for task: list.txt
+      From worker 4:	Executing command: cat list12.txt >> list.txt ******* for task: list.txt
+      From worker 4:	Executing command: cat list13.txt >> list.txt ******* for task: list.txt
+      From worker 4:	Executing command: cat list14.txt >> list.txt ******* for task: list.txt
+      From worker 4:	Executing command: cat list15.txt >> list.txt ******* for task: list.txt
+      From worker 4:	Executing command: cat list16.txt >> list.txt ******* for task: list.txt
+      From worker 4:	Executing command: cat list17.txt >> list.txt ******* for task: list.txt
+      From worker 4:	Executing command: cat list18.txt >> list.txt ******* for task: list.txt
+      From worker 4:	Executing command: cat list19.txt >> list.txt ******* for task: list.txt
+      From worker 4:	Executing command: cat list20.txt >> list.txt ******* for task: list.txt
+Worker 4 is free.
+      From worker 4:	Target completed: list.txt
+Parallel task execution time with 3 machines: 89.790162258 seconds
+Cleaning up generated files...
+Cleanup complete for 3 machines.
+Execution time with 3 machines : 89.790162258
+Acceleration with 3 machines: 2.92224934031258
+Efficiency with 3 machines: 0.9740831134375267
+Measuring parallel time (4 machines)...
+Worker 5 is occupied for compile.
+      From worker 5:	Executing command: gcc premier.c -o premier -lm ******* for task: compile
+      From worker 5:	Target completed: compile
+Worker 5 is free.
+Worker 5 is occupied for list12.txt.
+Worker 4 is occupied for list1.txt.
+Worker 3 is occupied for list15.txt.
+Worker 2 is occupied for list17.txt.
+      From worker 4:	Executing command: ./premier 2 `echo 1*200000000/20-1 |bc` > list1.txt ******* for task: list1.txt
+      From worker 5:	Executing command: ./premier `echo 11*200000000/20 |bc` `echo 12*200000000/20-1 |bc` > list12.txt ******* for task: list12.txt
+      From worker 3:	Executing command: ./premier `echo 14*200000000/20 |bc` `echo 15*200000000/20-1 |bc` > list15.txt ******* for task: list15.txt
+      From worker 2:	Executing command: ./premier `echo 16*200000000/20 |bc` `echo 17*200000000/20-1 |bc` > list17.txt ******* for task: list17.txt
+Worker 4 is free.
+      From worker 4:	Target completed: list1.txt
+Worker 4 is occupied for list2.txt.
+      From worker 4:	Executing command: ./premier `echo 1*200000000/20 |bc` `echo 2*200000000/20-1 |bc` > list2.txt ******* for task: list2.txt
+Worker 4 is free.
+      From worker 4:	Target completed: list2.txt
+Worker 4 is occupied for list6.txt.
+      From worker 4:	Executing command: ./premier `echo 5*200000000/20 |bc` `echo 6*200000000/20-1 |bc` > list6.txt ******* for task: list6.txt
+Worker 5 is free.
+      From worker 5:	Target completed: list12.txt
+Worker 5 is occupied for list4.txt.
+      From worker 5:	Executing command: ./premier `echo 3*200000000/20 |bc` `echo 4*200000000/20-1 |bc` > list4.txt ******* for task: list4.txt
+Worker 3 is free.
+      From worker 3:	Target completed: list15.txt
+Worker 3 is occupied for list10.txt.
+      From worker 3:	Executing command: ./premier `echo 9*200000000/20 |bc` `echo 10*200000000/20-1 |bc` > list10.txt ******* for task: list10.txt
+Worker 2 is free.
+      From worker 2:	Target completed: list17.txt
+Worker 2 is occupied for list11.txt.
+      From worker 2:	Executing command: ./premier `echo 10*200000000/20 |bc` `echo 11*200000000/20-1 |bc` > list11.txt ******* for task: list11.txt
+Worker 4 is free.
+      From worker 4:	Target completed: list6.txt
+Worker 4 is occupied for list16.txt.
+      From worker 4:	Executing command: ./premier `echo 15*200000000/20 |bc` `echo 16*200000000/20-1 |bc` > list16.txt ******* for task: list16.txt
+Worker 5 is free.
+      From worker 5:	Target completed: list4.txt
+Worker 5 is occupied for list19.txt.
+      From worker 5:	Executing command: ./premier `echo 18*200000000/20 |bc` `echo 19*200000000/20-1 |bc` > list19.txt ******* for task: list19.txt
+Worker 3 is free.
+      From worker 3:	Target completed: list10.txt
+Worker 3 is occupied for list8.txt.
+      From worker 3:	Executing command: ./premier `echo 7*200000000/20 |bc` `echo 8*200000000/20-1 |bc` > list8.txt ******* for task: list8.txt
+Worker 2 is free.
+      From worker 2:	Target completed: list11.txt
+Worker 2 is occupied for list13.txt.
+      From worker 2:	Executing command: ./premier `echo 12*200000000/20 |bc` `echo 13*200000000/20-1 |bc` > list13.txt ******* for task: list13.txt
+Worker 4 is free.
+      From worker 4:	Target completed: list16.txt
+Worker 4 is occupied for list3.txt.
+      From worker 4:	Executing command: ./premier `echo 2*200000000/20 |bc` `echo 3*200000000/20-1 |bc` > list3.txt ******* for task: list3.txt
+Worker 5 is free.
+      From worker 5:	Target completed: list19.txt
+      From worker 3:	Target completed: list8.txt
+Worker 3 is free.
+Worker 3 is occupied for list7.txt.
+Worker 5 is occupied for list9.txt.
+      From worker 5:	Executing command: ./premier `echo 8*200000000/20 |bc` `echo 9*200000000/20-1 |bc` > list9.txt ******* for task: list9.txt
+      From worker 3:	Executing command: ./premier `echo 6*200000000/20 |bc` `echo 7*200000000/20-1 |bc` > list7.txt ******* for task: list7.txt
+Worker 4 is free.
+      From worker 4:	Target completed: list3.txt
+Worker 4 is occupied for list18.txt.
+      From worker 4:	Executing command: ./premier `echo 17*200000000/20 |bc` `echo 18*200000000/20-1 |bc` > list18.txt ******* for task: list18.txt
+Worker 2 is free.
+      From worker 2:	Target completed: list13.txt
+Worker 2 is occupied for list20.txt.
+      From worker 2:	Executing command: ./premier `echo 19*200000000/20 |bc` `echo 20*200000000/20-1 |bc` > list20.txt ******* for task: list20.txt
+      From worker 3:	Target completed: list7.txt
+Worker 3 is free.
+Worker 3 is occupied for list5.txt.
+      From worker 3:	Executing command: ./premier `echo 4*200000000/20 |bc` `echo 5*200000000/20-1 |bc` > list5.txt ******* for task: list5.txt
+Worker 5 is free.
+      From worker 5:	Target completed: list9.txt
+Worker 5 is occupied for list14.txt.
+      From worker 5:	Executing command: ./premier `echo 13*200000000/20 |bc` `echo 14*200000000/20-1 |bc` > list14.txt ******* for task: list14.txt
+Worker 4 is free.
+      From worker 4:	Target completed: list18.txt
+      From worker 3:	Target completed: list5.txt
+Worker 3 is free.
+Worker 2 is free.
+      From worker 2:	Target completed: list20.txt
+Worker 5 is free.
+      From worker 5:	Target completed: list14.txt
+Worker 5 is occupied for list.txt.
+      From worker 5:	Executing command: cp list1.txt list.txt ******* for task: list.txt
+      From worker 5:	Executing command: cat list2.txt >> list.txt ******* for task: list.txt
+      From worker 5:	Executing command: cat list3.txt >> list.txt ******* for task: list.txt
+      From worker 5:	Executing command: cat list4.txt >> list.txt ******* for task: list.txt
+      From worker 5:	Executing command: cat list5.txt >> list.txt ******* for task: list.txt
+      From worker 5:	Executing command: cat list6.txt >> list.txt ******* for task: list.txt
+      From worker 5:	Executing command: cat list7.txt >> list.txt ******* for task: list.txt
+      From worker 5:	Executing command: cat list8.txt >> list.txt ******* for task: list.txt
+      From worker 5:	Executing command: cat list9.txt >> list.txt ******* for task: list.txt
+      From worker 5:	Executing command: cat list10.txt >> list.txt ******* for task: list.txt
+      From worker 5:	Executing command: cat list11.txt >> list.txt ******* for task: list.txt
+      From worker 5:	Executing command: cat list12.txt >> list.txt ******* for task: list.txt
+      From worker 5:	Executing command: cat list13.txt >> list.txt ******* for task: list.txt
+      From worker 5:	Executing command: cat list14.txt >> list.txt ******* for task: list.txt
+      From worker 5:	Executing command: cat list15.txt >> list.txt ******* for task: list.txt
+      From worker 5:	Executing command: cat list16.txt >> list.txt ******* for task: list.txt
+      From worker 5:	Executing command: cat list17.txt >> list.txt ******* for task: list.txt
+      From worker 5:	Executing command: cat list18.txt >> list.txt ******* for task: list.txt
+      From worker 5:	Executing command: cat list19.txt >> list.txt ******* for task: list.txt
+      From worker 5:	Executing command: cat list20.txt >> list.txt ******* for task: list.txt
+Worker 5 is free.
+      From worker 5:	Target completed: list.txt
+Parallel task execution time with 4 machines: 71.735317806 seconds
+Cleaning up generated files...
+Cleanup complete for 4 machines.
+Execution time with 4 machines : 71.735317806
+Acceleration with 4 machines: 3.65774140897517
+Efficiency with 4 machines: 0.9144353522437925
+Measuring parallel time (5 machines)...
+Worker 6 is occupied for compile.
+      From worker 6:	Executing command: gcc premier.c -o premier -lm ******* for task: compile
+      From worker 6:	Target completed: compile
+Worker 6 is free.
+Worker 6 is occupied for list18.txt.
+Worker 5 is occupied for list15.txt.
+Worker 4 is occupied for list12.txt.
+Worker 3 is occupied for list20.txt.
+Worker 2 is occupied for list17.txt.
+      From worker 6:	Executing command: ./premier `echo 17*200000000/20 |bc` `echo 18*200000000/20-1 |bc` > list18.txt ******* for task: list18.txt
+      From worker 3:	Executing command: ./premier `echo 19*200000000/20 |bc` `echo 20*200000000/20-1 |bc` > list20.txt ******* for task: list20.txt
+      From worker 4:	Executing command: ./premier `echo 11*200000000/20 |bc` `echo 12*200000000/20-1 |bc` > list12.txt ******* for task: list12.txt
+      From worker 5:	Executing command: ./premier `echo 14*200000000/20 |bc` `echo 15*200000000/20-1 |bc` > list15.txt ******* for task: list15.txt
+      From worker 2:	Executing command: ./premier `echo 16*200000000/20 |bc` `echo 17*200000000/20-1 |bc` > list17.txt ******* for task: list17.txt
+Worker 4 is free.
+      From worker 4:	Target completed: list12.txt
+Worker 4 is occupied for list1.txt.
+      From worker 4:	Executing command: ./premier 2 `echo 1*200000000/20-1 |bc` > list1.txt ******* for task: list1.txt
+Worker 5 is free.
+      From worker 5:	Target completed: list15.txt
+Worker 5 is occupied for list14.txt.
+      From worker 5:	Executing command: ./premier `echo 13*200000000/20 |bc` `echo 14*200000000/20-1 |bc` > list14.txt ******* for task: list14.txt
+Worker 2 is free.
+      From worker 2:	Target completed: list17.txt
+Worker 2 is occupied for list5.txt.
+      From worker 2:	Executing command: ./premier `echo 4*200000000/20 |bc` `echo 5*200000000/20-1 |bc` > list5.txt ******* for task: list5.txt
+Worker 6 is free.
+      From worker 6:	Target completed: list18.txt
+Worker 6 is occupied for list13.txt.
+      From worker 6:	Executing command: ./premier `echo 12*200000000/20 |bc` `echo 13*200000000/20-1 |bc` > list13.txt ******* for task: list13.txt
+Worker 3 is free.
+      From worker 3:	Target completed: list20.txt
+Worker 3 is occupied for list11.txt.
+      From worker 3:	Executing command: ./premier `echo 10*200000000/20 |bc` `echo 11*200000000/20-1 |bc` > list11.txt ******* for task: list11.txt
+Worker 4 is free.
+      From worker 4:	Target completed: list1.txt
+Worker 4 is occupied for list8.txt.
+      From worker 4:	Executing command: ./premier `echo 7*200000000/20 |bc` `echo 8*200000000/20-1 |bc` > list8.txt ******* for task: list8.txt
+Worker 2 is free.
+      From worker 2:	Target completed: list5.txt
+Worker 2 is occupied for list7.txt.
+      From worker 2:	Executing command: ./premier `echo 6*200000000/20 |bc` `echo 7*200000000/20-1 |bc` > list7.txt ******* for task: list7.txt
+Worker 4 is free.
+      From worker 4:	Target completed: list8.txt
+Worker 4 is occupied for list10.txt.
+      From worker 4:	Executing command: ./premier `echo 9*200000000/20 |bc` `echo 10*200000000/20-1 |bc` > list10.txt ******* for task: list10.txt
+Worker 5 is free.
+      From worker 5:	Target completed: list14.txt
+Worker 5 is occupied for list16.txt.
+      From worker 5:	Executing command: ./premier `echo 15*200000000/20 |bc` `echo 16*200000000/20-1 |bc` > list16.txt ******* for task: list16.txt
+      From worker 3:	Target completed: list11.txt
+Worker 3 is free.
+Worker 3 is occupied for list3.txt.
+      From worker 3:	Executing command: ./premier `echo 2*200000000/20 |bc` `echo 3*200000000/20-1 |bc` > list3.txt ******* for task: list3.txt
+Worker 6 is free.
+      From worker 6:	Target completed: list13.txt
+Worker 6 is occupied for list2.txt.
+      From worker 6:	Executing command: ./premier `echo 1*200000000/20 |bc` `echo 2*200000000/20-1 |bc` > list2.txt ******* for task: list2.txt
+Worker 2 is free.
+      From worker 2:	Target completed: list7.txt
+Worker 2 is occupied for list9.txt.
+      From worker 2:	Executing command: ./premier `echo 8*200000000/20 |bc` `echo 9*200000000/20-1 |bc` > list9.txt ******* for task: list9.txt
+Worker 6 is free.
+      From worker 6:	Target completed: list2.txt
+Worker 6 is occupied for list6.txt.
+      From worker 6:	Executing command: ./premier `echo 5*200000000/20 |bc` `echo 6*200000000/20-1 |bc` > list6.txt ******* for task: list6.txt
+Worker 3 is free.
+      From worker 3:	Target completed: list3.txt
+Worker 3 is occupied for list19.txt.
+      From worker 3:	Executing command: ./premier `echo 18*200000000/20 |bc` `echo 19*200000000/20-1 |bc` > list19.txt ******* for task: list19.txt
+Worker 4 is free.
+      From worker 4:	Target completed: list10.txt
+Worker 4 is occupied for list4.txt.
+      From worker 4:	Executing command: ./premier `echo 3*200000000/20 |bc` `echo 4*200000000/20-1 |bc` > list4.txt ******* for task: list4.txt
+Worker 5 is free.
+      From worker 5:	Target completed: list16.txt
+Worker 6 is free.
+      From worker 6:	Target completed: list6.txt
+Worker 2 is free.
+      From worker 2:	Target completed: list9.txt
+Worker 4 is free.
+      From worker 4:	Target completed: list4.txt
+Worker 3 is free.
+      From worker 3:	Target completed: list19.txt
+Worker 3 is occupied for list.txt.
+      From worker 3:	Executing command: cp list1.txt list.txt ******* for task: list.txt
+      From worker 3:	Executing command: cat list2.txt >> list.txt ******* for task: list.txt
+      From worker 3:	Executing command: cat list3.txt >> list.txt ******* for task: list.txt
+      From worker 3:	Executing command: cat list4.txt >> list.txt ******* for task: list.txt
+      From worker 3:	Executing command: cat list5.txt >> list.txt ******* for task: list.txt
+      From worker 3:	Executing command: cat list6.txt >> list.txt ******* for task: list.txt
+      From worker 3:	Executing command: cat list7.txt >> list.txt ******* for task: list.txt
+      From worker 3:	Executing command: cat list8.txt >> list.txt ******* for task: list.txt
+      From worker 3:	Executing command: cat list9.txt >> list.txt ******* for task: list.txt
+      From worker 3:	Executing command: cat list10.txt >> list.txt ******* for task: list.txt
+      From worker 3:	Executing command: cat list11.txt >> list.txt ******* for task: list.txt
+      From worker 3:	Executing command: cat list12.txt >> list.txt ******* for task: list.txt
+      From worker 3:	Executing command: cat list13.txt >> list.txt ******* for task: list.txt
+      From worker 3:	Executing command: cat list14.txt >> list.txt ******* for task: list.txt
+      From worker 3:	Executing command: cat list15.txt >> list.txt ******* for task: list.txt
+      From worker 3:	Executing command: cat list16.txt >> list.txt ******* for task: list.txt
+      From worker 3:	Executing command: cat list17.txt >> list.txt ******* for task: list.txt
+      From worker 3:	Executing command: cat list18.txt >> list.txt ******* for task: list.txt
+      From worker 3:	Executing command: cat list19.txt >> list.txt ******* for task: list.txt
+      From worker 3:	Executing command: cat list20.txt >> list.txt ******* for task: list.txt
+Worker 3 is free.
+      From worker 3:	Target completed: list.txt
+Parallel task execution time with 5 machines: 59.688962776 seconds
+Cleaning up generated files...
+Cleanup complete for 5 machines.
+Execution time with 5 machines : 59.688962776
+Acceleration with 5 machines: 4.395942402445342
+Efficiency with 5 machines: 0.8791884804890685
+Measuring parallel time (6 machines)...
+Worker 7 is occupied for compile.
+      From worker 7:	Executing command: gcc premier.c -o premier -lm ******* for task: compile
+      From worker 7:	Target completed: compile
+Worker 7 is free.
+Worker 7 is occupied for list1.txt.
+Worker 6 is occupied for list3.txt.
+Worker 5 is occupied for list15.txt.
+Worker 4 is occupied for list4.txt.
+Worker 3 is occupied for list12.txt.
+Worker 2 is occupied for list6.txt.
+      From worker 7:	Executing command: ./premier 2 `echo 1*200000000/20-1 |bc` > list1.txt ******* for task: list1.txt
+      From worker 4:	Executing command: ./premier `echo 3*200000000/20 |bc` `echo 4*200000000/20-1 |bc` > list4.txt ******* for task: list4.txt
+      From worker 2:	Executing command: ./premier `echo 5*200000000/20 |bc` `echo 6*200000000/20-1 |bc` > list6.txt ******* for task: list6.txt
+      From worker 6:	Executing command: ./premier `echo 2*200000000/20 |bc` `echo 3*200000000/20-1 |bc` > list3.txt ******* for task: list3.txt
+      From worker 3:	Executing command: ./premier `echo 11*200000000/20 |bc` `echo 12*200000000/20-1 |bc` > list12.txt ******* for task: list12.txt
+      From worker 5:	Executing command: ./premier `echo 14*200000000/20 |bc` `echo 15*200000000/20-1 |bc` > list15.txt ******* for task: list15.txt
+Worker 7 is free.
+      From worker 7:	Target completed: list1.txt
+Worker 7 is occupied for list13.txt.
+      From worker 7:	Executing command: ./premier `echo 12*200000000/20 |bc` `echo 13*200000000/20-1 |bc` > list13.txt ******* for task: list13.txt
+Worker 6 is free.
+      From worker 6:	Target completed: list3.txt
+Worker 6 is occupied for list14.txt.
+      From worker 6:	Executing command: ./premier `echo 13*200000000/20 |bc` `echo 14*200000000/20-1 |bc` > list14.txt ******* for task: list14.txt
+Worker 4 is free.
+      From worker 4:	Target completed: list4.txt
+Worker 4 is occupied for list19.txt.
+      From worker 4:	Executing command: ./premier `echo 18*200000000/20 |bc` `echo 19*200000000/20-1 |bc` > list19.txt ******* for task: list19.txt
+Worker 2 is free.
+      From worker 2:	Target completed: list6.txt
+Worker 2 is occupied for list20.txt.
+      From worker 2:	Executing command: ./premier `echo 19*200000000/20 |bc` `echo 20*200000000/20-1 |bc` > list20.txt ******* for task: list20.txt
+Worker 3 is free.
+      From worker 3:	Target completed: list12.txt
+Worker 3 is occupied for list16.txt.
+      From worker 3:	Executing command: ./premier `echo 15*200000000/20 |bc` `echo 16*200000000/20-1 |bc` > list16.txt ******* for task: list16.txt
+Worker 5 is free.
+      From worker 5:	Target completed: list15.txt
+Worker 5 is occupied for list8.txt.
+      From worker 5:	Executing command: ./premier `echo 7*200000000/20 |bc` `echo 8*200000000/20-1 |bc` > list8.txt ******* for task: list8.txt
+Worker 7 is free.
+      From worker 7:	Target completed: list13.txt
+Worker 7 is occupied for list17.txt.
+      From worker 7:	Executing command: ./premier `echo 16*200000000/20 |bc` `echo 17*200000000/20-1 |bc` > list17.txt ******* for task: list17.txt
+Worker 6 is free.
+      From worker 6:	Target completed: list14.txt
+Worker 6 is occupied for list5.txt.
+      From worker 6:	Executing command: ./premier `echo 4*200000000/20 |bc` `echo 5*200000000/20-1 |bc` > list5.txt ******* for task: list5.txt
+Worker 4 is free.
+      From worker 4:	Target completed: list19.txt
+Worker 4 is occupied for list18.txt.
+      From worker 4:	Executing command: ./premier `echo 17*200000000/20 |bc` `echo 18*200000000/20-1 |bc` > list18.txt ******* for task: list18.txt
+Worker 5 is free.
+      From worker 5:	Target completed: list8.txt
+Worker 5 is occupied for list11.txt.
+      From worker 5:	Executing command: ./premier `echo 10*200000000/20 |bc` `echo 11*200000000/20-1 |bc` > list11.txt ******* for task: list11.txt
+      From worker 2:	Target completed: list20.txt
+Worker 2 is free.
+Worker 2 is occupied for list10.txt.
+      From worker 2:	Executing command: ./premier `echo 9*200000000/20 |bc` `echo 10*200000000/20-1 |bc` > list10.txt ******* for task: list10.txt
+Worker 3 is free.
+      From worker 3:	Target completed: list16.txt
+Worker 3 is occupied for list2.txt.
+      From worker 3:	Executing command: ./premier `echo 1*200000000/20 |bc` `echo 2*200000000/20-1 |bc` > list2.txt ******* for task: list2.txt
+Worker 6 is free.
+      From worker 6:	Target completed: list5.txt
+Worker 6 is occupied for list9.txt.
+      From worker 6:	Executing command: ./premier `echo 8*200000000/20 |bc` `echo 9*200000000/20-1 |bc` > list9.txt ******* for task: list9.txt
+Worker 7 is free.
+      From worker 7:	Target completed: list17.txt
+Worker 7 is occupied for list7.txt.
+      From worker 7:	Executing command: ./premier `echo 6*200000000/20 |bc` `echo 7*200000000/20-1 |bc` > list7.txt ******* for task: list7.txt
+Worker 3 is free.
+      From worker 3:	Target completed: list2.txt
+Worker 2 is free.
+      From worker 2:	Target completed: list10.txt
+Worker 5 is free.
+      From worker 5:	Target completed: list11.txt
+Worker 4 is free.
+      From worker 4:	Target completed: list18.txt
+Worker 6 is free.
+      From worker 6:	Target completed: list9.txt
+Worker 7 is free.
+      From worker 7:	Target completed: list7.txt
+Worker 7 is occupied for list.txt.
+      From worker 7:	Executing command: cp list1.txt list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list2.txt >> list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list3.txt >> list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list4.txt >> list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list5.txt >> list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list6.txt >> list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list7.txt >> list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list8.txt >> list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list9.txt >> list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list10.txt >> list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list11.txt >> list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list12.txt >> list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list13.txt >> list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list14.txt >> list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list15.txt >> list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list16.txt >> list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list17.txt >> list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list18.txt >> list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list19.txt >> list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list20.txt >> list.txt ******* for task: list.txt
+Worker 7 is free.
+      From worker 7:	Target completed: list.txt
+Parallel task execution time with 6 machines: 49.158220867 seconds
+Cleaning up generated files...
+Cleanup complete for 6 machines.
+Execution time with 6 machines : 49.158220867
+Acceleration with 6 machines: 5.3376472499870795
+Efficiency with 6 machines: 0.8896078749978468
+Measuring parallel time (7 machines)...
+Worker 8 is occupied for compile.
+      From worker 8:	Executing command: gcc premier.c -o premier -lm ******* for task: compile
+      From worker 8:	Target completed: compile
+Worker 8 is free.
+Worker 8 is occupied for list11.txt.
+Worker 7 is occupied for list9.txt.
+Worker 6 is occupied for list19.txt.
+Worker 5 is occupied for list10.txt.
+Worker 4 is occupied for list14.txt.
+Worker 3 is occupied for list20.txt.
+Worker 2 is occupied for list16.txt.
+      From worker 8:	Executing command: ./premier `echo 10*200000000/20 |bc` `echo 11*200000000/20-1 |bc` > list11.txt ******* for task: list11.txt
+      From worker 7:	Executing command: ./premier `echo 8*200000000/20 |bc` `echo 9*200000000/20-1 |bc` > list9.txt ******* for task: list9.txt
+      From worker 6:	Executing command: ./premier `echo 18*200000000/20 |bc` `echo 19*200000000/20-1 |bc` > list19.txt ******* for task: list19.txt
+      From worker 4:	Executing command: ./premier `echo 13*200000000/20 |bc` `echo 14*200000000/20-1 |bc` > list14.txt ******* for task: list14.txt
+      From worker 3:	Executing command: ./premier `echo 19*200000000/20 |bc` `echo 20*200000000/20-1 |bc` > list20.txt ******* for task: list20.txt
+      From worker 5:	Executing command: ./premier `echo 9*200000000/20 |bc` `echo 10*200000000/20-1 |bc` > list10.txt ******* for task: list10.txt
+      From worker 2:	Executing command: ./premier `echo 15*200000000/20 |bc` `echo 16*200000000/20-1 |bc` > list16.txt ******* for task: list16.txt
+Worker 7 is free.
+      From worker 7:	Target completed: list9.txt
+Worker 7 is occupied for list1.txt.
+      From worker 7:	Executing command: ./premier 2 `echo 1*200000000/20-1 |bc` > list1.txt ******* for task: list1.txt
+Worker 5 is free.
+      From worker 5:	Target completed: list10.txt
+Worker 5 is occupied for list7.txt.
+      From worker 5:	Executing command: ./premier `echo 6*200000000/20 |bc` `echo 7*200000000/20-1 |bc` > list7.txt ******* for task: list7.txt
+Worker 8 is free.
+      From worker 8:	Target completed: list11.txt
+Worker 8 is occupied for list15.txt.
+      From worker 8:	Executing command: ./premier `echo 14*200000000/20 |bc` `echo 15*200000000/20-1 |bc` > list15.txt ******* for task: list15.txt
+Worker 4 is free.
+      From worker 4:	Target completed: list14.txt
+Worker 4 is occupied for list5.txt.
+      From worker 4:	Executing command: ./premier `echo 4*200000000/20 |bc` `echo 5*200000000/20-1 |bc` > list5.txt ******* for task: list5.txt
+Worker 2 is free.
+      From worker 2:	Target completed: list16.txt
+Worker 2 is occupied for list6.txt.
+      From worker 2:	Executing command: ./premier `echo 5*200000000/20 |bc` `echo 6*200000000/20-1 |bc` > list6.txt ******* for task: list6.txt
+Worker 7 is free.
+      From worker 7:	Target completed: list1.txt
+Worker 7 is occupied for list12.txt.
+      From worker 7:	Executing command: ./premier `echo 11*200000000/20 |bc` `echo 12*200000000/20-1 |bc` > list12.txt ******* for task: list12.txt
+Worker 6 is free.
+      From worker 6:	Target completed: list19.txt
+Worker 3 is free.
+      From worker 3:	Target completed: list20.txt
+Worker 3 is occupied for list3.txt.
+Worker 6 is occupied for list18.txt.
+      From worker 3:	Executing command: ./premier `echo 2*200000000/20 |bc` `echo 3*200000000/20-1 |bc` > list3.txt ******* for task: list3.txt
+      From worker 6:	Executing command: ./premier `echo 17*200000000/20 |bc` `echo 18*200000000/20-1 |bc` > list18.txt ******* for task: list18.txt
+Worker 5 is free.
+      From worker 5:	Target completed: list7.txt
+Worker 5 is occupied for list8.txt.
+      From worker 5:	Executing command: ./premier `echo 7*200000000/20 |bc` `echo 8*200000000/20-1 |bc` > list8.txt ******* for task: list8.txt
+Worker 4 is free.
+      From worker 4:	Target completed: list5.txt
+Worker 3 is free.
+      From worker 3:	Target completed: list3.txt
+Worker 3 is occupied for list13.txt.
+Worker 4 is occupied for list17.txt.
+      From worker 4:	Executing command: ./premier `echo 16*200000000/20 |bc` `echo 17*200000000/20-1 |bc` > list17.txt ******* for task: list17.txt
+      From worker 3:	Executing command: ./premier `echo 12*200000000/20 |bc` `echo 13*200000000/20-1 |bc` > list13.txt ******* for task: list13.txt
+Worker 2 is free.
+      From worker 2:	Target completed: list6.txt
+Worker 2 is occupied for list2.txt.
+      From worker 2:	Executing command: ./premier `echo 1*200000000/20 |bc` `echo 2*200000000/20-1 |bc` > list2.txt ******* for task: list2.txt
+Worker 8 is free.
+      From worker 8:	Target completed: list15.txt
+Worker 8 is occupied for list4.txt.
+      From worker 8:	Executing command: ./premier `echo 3*200000000/20 |bc` `echo 4*200000000/20-1 |bc` > list4.txt ******* for task: list4.txt
+Worker 7 is free.
+      From worker 7:	Target completed: list12.txt
+Worker 2 is free.
+      From worker 2:	Target completed: list2.txt
+Worker 6 is free.
+      From worker 6:	Target completed: list18.txt
+Worker 5 is free.
+      From worker 5:	Target completed: list8.txt
+Worker 8 is free.
+      From worker 8:	Target completed: list4.txt
+Worker 3 is free.
+      From worker 3:	Target completed: list13.txt
+Worker 4 is free.
+      From worker 4:	Target completed: list17.txt
+Worker 4 is occupied for list.txt.
+      From worker 4:	Executing command: cp list1.txt list.txt ******* for task: list.txt
+      From worker 4:	Executing command: cat list2.txt >> list.txt ******* for task: list.txt
+      From worker 4:	Executing command: cat list3.txt >> list.txt ******* for task: list.txt
+      From worker 4:	Executing command: cat list4.txt >> list.txt ******* for task: list.txt
+      From worker 4:	Executing command: cat list5.txt >> list.txt ******* for task: list.txt
+      From worker 4:	Executing command: cat list6.txt >> list.txt ******* for task: list.txt
+      From worker 4:	Executing command: cat list7.txt >> list.txt ******* for task: list.txt
+      From worker 4:	Executing command: cat list8.txt >> list.txt ******* for task: list.txt
+      From worker 4:	Executing command: cat list9.txt >> list.txt ******* for task: list.txt
+      From worker 4:	Executing command: cat list10.txt >> list.txt ******* for task: list.txt
+      From worker 4:	Executing command: cat list11.txt >> list.txt ******* for task: list.txt
+      From worker 4:	Executing command: cat list12.txt >> list.txt ******* for task: list.txt
+      From worker 4:	Executing command: cat list13.txt >> list.txt ******* for task: list.txt
+      From worker 4:	Executing command: cat list14.txt >> list.txt ******* for task: list.txt
+      From worker 4:	Executing command: cat list15.txt >> list.txt ******* for task: list.txt
+      From worker 4:	Executing command: cat list16.txt >> list.txt ******* for task: list.txt
+      From worker 4:	Executing command: cat list17.txt >> list.txt ******* for task: list.txt
+      From worker 4:	Executing command: cat list18.txt >> list.txt ******* for task: list.txt
+      From worker 4:	Executing command: cat list19.txt >> list.txt ******* for task: list.txt
+      From worker 4:	Executing command: cat list20.txt >> list.txt ******* for task: list.txt
+Worker 4 is free.
+      From worker 4:	Target completed: list.txt
+Parallel task execution time with 7 machines: 44.143535575 seconds
+Cleaning up generated files...
+Cleanup complete for 7 machines.
+Execution time with 7 machines : 44.143535575
+Acceleration with 7 machines: 5.944001517032996
+Efficiency with 7 machines: 0.8491430738618565
+Measuring parallel time (8 machines)...
+Worker 9 is occupied for compile.
+      From worker 9:	Executing command: gcc premier.c -o premier -lm ******* for task: compile
+      From worker 9:	Target completed: compile
+Worker 9 is free.
+Worker 9 is occupied for list18.txt.
+Worker 8 is occupied for list19.txt.
+Worker 7 is occupied for list9.txt.
+Worker 6 is occupied for list17.txt.
+Worker 5 is occupied for list12.txt.
+Worker 4 is occupied for list5.txt.
+Worker 3 is occupied for list2.txt.
+Worker 2 is occupied for list8.txt.
+      From worker 8:	Executing command: ./premier `echo 18*200000000/20 |bc` `echo 19*200000000/20-1 |bc` > list19.txt ******* for task: list19.txt
+      From worker 6:	Executing command: ./premier `echo 16*200000000/20 |bc` `echo 17*200000000/20-1 |bc` > list17.txt ******* for task: list17.txt
+      From worker 4:	Executing command: ./premier `echo 4*200000000/20 |bc` `echo 5*200000000/20-1 |bc` > list5.txt ******* for task: list5.txt
+      From worker 9:	Executing command: ./premier `echo 17*200000000/20 |bc` `echo 18*200000000/20-1 |bc` > list18.txt ******* for task: list18.txt
+      From worker 5:	Executing command: ./premier `echo 11*200000000/20 |bc` `echo 12*200000000/20-1 |bc` > list12.txt ******* for task: list12.txt
+      From worker 2:	Executing command: ./premier `echo 7*200000000/20 |bc` `echo 8*200000000/20-1 |bc` > list8.txt ******* for task: list8.txt
+      From worker 3:	Executing command: ./premier `echo 1*200000000/20 |bc` `echo 2*200000000/20-1 |bc` > list2.txt ******* for task: list2.txt
+      From worker 7:	Executing command: ./premier `echo 8*200000000/20 |bc` `echo 9*200000000/20-1 |bc` > list9.txt ******* for task: list9.txt
+      From worker 3:	Target completed: list2.txt
+Worker 3 is free.
+Worker 3 is occupied for list3.txt.
+      From worker 3:	Executing command: ./premier `echo 2*200000000/20 |bc` `echo 3*200000000/20-1 |bc` > list3.txt ******* for task: list3.txt
+Worker 4 is free.
+      From worker 4:	Target completed: list5.txt
+Worker 4 is occupied for list4.txt.
+      From worker 4:	Executing command: ./premier `echo 3*200000000/20 |bc` `echo 4*200000000/20-1 |bc` > list4.txt ******* for task: list4.txt
+Worker 2 is free.
+      From worker 2:	Target completed: list8.txt
+Worker 2 is occupied for list15.txt.
+      From worker 2:	Executing command: ./premier `echo 14*200000000/20 |bc` `echo 15*200000000/20-1 |bc` > list15.txt ******* for task: list15.txt
+Worker 7 is free.
+      From worker 7:	Target completed: list9.txt
+Worker 7 is occupied for list6.txt.
+      From worker 7:	Executing command: ./premier `echo 5*200000000/20 |bc` `echo 6*200000000/20-1 |bc` > list6.txt ******* for task: list6.txt
+Worker 3 is free.
+      From worker 3:	Target completed: list3.txt
+Worker 3 is occupied for list13.txt.
+      From worker 3:	Executing command: ./premier `echo 12*200000000/20 |bc` `echo 13*200000000/20-1 |bc` > list13.txt ******* for task: list13.txt
+Worker 5 is free.
+      From worker 5:	Target completed: list12.txt
+Worker 5 is occupied for list20.txt.
+      From worker 5:	Executing command: ./premier `echo 19*200000000/20 |bc` `echo 20*200000000/20-1 |bc` > list20.txt ******* for task: list20.txt
+Worker 6 is free.
+      From worker 6:	Target completed: list17.txt
+Worker 6 is occupied for list11.txt.
+      From worker 6:	Executing command: ./premier `echo 10*200000000/20 |bc` `echo 11*200000000/20-1 |bc` > list11.txt ******* for task: list11.txt
+Worker 9 is free.
+      From worker 9:	Target completed: list18.txt
+Worker 9 is occupied for list1.txt.
+      From worker 9:	Executing command: ./premier 2 `echo 1*200000000/20-1 |bc` > list1.txt ******* for task: list1.txt
+Worker 8 is free.
+      From worker 8:	Target completed: list19.txt
+Worker 8 is occupied for list7.txt.
+      From worker 8:	Executing command: ./premier `echo 6*200000000/20 |bc` `echo 7*200000000/20-1 |bc` > list7.txt ******* for task: list7.txt
+Worker 4 is free.
+      From worker 4:	Target completed: list4.txt
+Worker 4 is occupied for list14.txt.
+      From worker 4:	Executing command: ./premier `echo 13*200000000/20 |bc` `echo 14*200000000/20-1 |bc` > list14.txt ******* for task: list14.txt
+Worker 9 is free.
+      From worker 9:	Target completed: list1.txt
+Worker 9 is occupied for list10.txt.
+      From worker 9:	Executing command: ./premier `echo 9*200000000/20 |bc` `echo 10*200000000/20-1 |bc` > list10.txt ******* for task: list10.txt
+Worker 7 is free.
+      From worker 7:	Target completed: list6.txt
+Worker 7 is occupied for list16.txt.
+      From worker 7:	Executing command: ./premier `echo 15*200000000/20 |bc` `echo 16*200000000/20-1 |bc` > list16.txt ******* for task: list16.txt
+Worker 2 is free.
+      From worker 2:	Target completed: list15.txt
+      From worker 3:	Target completed: list13.txt
+Worker 3 is free.
+Worker 8 is free.
+      From worker 8:	Target completed: list7.txt
+Worker 6 is free.
+      From worker 6:	Target completed: list11.txt
+Worker 5 is free.
+      From worker 5:	Target completed: list20.txt
+Worker 4 is free.
+      From worker 4:	Target completed: list14.txt
+Worker 9 is free.
+      From worker 9:	Target completed: list10.txt
+Worker 7 is free.
+      From worker 7:	Target completed: list16.txt
+Worker 7 is occupied for list.txt.
+      From worker 7:	Executing command: cp list1.txt list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list2.txt >> list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list3.txt >> list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list4.txt >> list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list5.txt >> list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list6.txt >> list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list7.txt >> list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list8.txt >> list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list9.txt >> list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list10.txt >> list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list11.txt >> list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list12.txt >> list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list13.txt >> list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list14.txt >> list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list15.txt >> list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list16.txt >> list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list17.txt >> list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list18.txt >> list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list19.txt >> list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list20.txt >> list.txt ******* for task: list.txt
+Worker 7 is free.
+      From worker 7:	Target completed: list.txt
+Parallel task execution time with 8 machines: 41.626480305 seconds
+Cleaning up generated files...
+Cleanup complete for 8 machines.
+Execution time with 8 machines : 41.626480305
+Acceleration with 8 machines: 6.303421295830359
+Efficiency with 8 machines: 0.7879276619787948
+Measuring parallel time (9 machines)...
+Worker 10 is occupied for compile.
+      From worker 10:	Executing command: gcc premier.c -o premier -lm ******* for task: compile
+      From worker 10:	Target completed: compile
+Worker 10 is free.
+Worker 10 is occupied for list5.txt.
+Worker 9 is occupied for list7.txt.
+Worker 8 is occupied for list10.txt.
+Worker 7 is occupied for list12.txt.
+Worker 6 is occupied for list14.txt.
+Worker 5 is occupied for list4.txt.
+Worker 4 is occupied for list15.txt.
+Worker 3 is occupied for list17.txt.
+Worker 2 is occupied for list13.txt.
+      From worker 9:	Executing command: ./premier `echo 6*200000000/20 |bc` `echo 7*200000000/20-1 |bc` > list7.txt ******* for task: list7.txt
+      From worker 10:	Executing command: ./premier `echo 4*200000000/20 |bc` `echo 5*200000000/20-1 |bc` > list5.txt ******* for task: list5.txt
+      From worker 7:	Executing command: ./premier `echo 11*200000000/20 |bc` `echo 12*200000000/20-1 |bc` > list12.txt ******* for task: list12.txt
+      From worker 8:	Executing command: ./premier `echo 9*200000000/20 |bc` `echo 10*200000000/20-1 |bc` > list10.txt ******* for task: list10.txt
+      From worker 6:	Executing command: ./premier `echo 13*200000000/20 |bc` `echo 14*200000000/20-1 |bc` > list14.txt ******* for task: list14.txt
+      From worker 4:	Executing command: ./premier `echo 14*200000000/20 |bc` `echo 15*200000000/20-1 |bc` > list15.txt ******* for task: list15.txt
+      From worker 3:	Executing command: ./premier `echo 16*200000000/20 |bc` `echo 17*200000000/20-1 |bc` > list17.txt ******* for task: list17.txt
+      From worker 2:	Executing command: ./premier `echo 12*200000000/20 |bc` `echo 13*200000000/20-1 |bc` > list13.txt ******* for task: list13.txt
+      From worker 5:	Executing command: ./premier `echo 3*200000000/20 |bc` `echo 4*200000000/20-1 |bc` > list4.txt ******* for task: list4.txt
+Worker 5 is free.
+      From worker 5:	Target completed: list4.txt
+Worker 5 is occupied for list18.txt.
+      From worker 5:	Executing command: ./premier `echo 17*200000000/20 |bc` `echo 18*200000000/20-1 |bc` > list18.txt ******* for task: list18.txt
+Worker 10 is free.
+      From worker 10:	Target completed: list5.txt
+Worker 10 is occupied for list2.txt.
+      From worker 10:	Executing command: ./premier `echo 1*200000000/20 |bc` `echo 2*200000000/20-1 |bc` > list2.txt ******* for task: list2.txt
+Worker 9 is free.
+      From worker 9:	Target completed: list7.txt
+Worker 9 is occupied for list9.txt.
+      From worker 9:	Executing command: ./premier `echo 8*200000000/20 |bc` `echo 9*200000000/20-1 |bc` > list9.txt ******* for task: list9.txt
+Worker 8 is free.
+      From worker 8:	Target completed: list10.txt
+Worker 8 is occupied for list6.txt.
+      From worker 8:	Executing command: ./premier `echo 5*200000000/20 |bc` `echo 6*200000000/20-1 |bc` > list6.txt ******* for task: list6.txt
+Worker 7 is free.
+      From worker 7:	Target completed: list12.txt
+Worker 7 is occupied for list11.txt.
+      From worker 7:	Executing command: ./premier `echo 10*200000000/20 |bc` `echo 11*200000000/20-1 |bc` > list11.txt ******* for task: list11.txt
+Worker 2 is free.
+      From worker 2:	Target completed: list13.txt
+Worker 2 is occupied for list1.txt.
+      From worker 2:	Executing command: ./premier 2 `echo 1*200000000/20-1 |bc` > list1.txt ******* for task: list1.txt
+      From worker 6:	Target completed: list14.txt
+Worker 6 is free.
+Worker 6 is occupied for list19.txt.
+      From worker 6:	Executing command: ./premier `echo 18*200000000/20 |bc` `echo 19*200000000/20-1 |bc` > list19.txt ******* for task: list19.txt
+Worker 4 is free.
+      From worker 4:	Target completed: list15.txt
+Worker 10 is free.
+      From worker 10:	Target completed: list2.txt
+Worker 10 is occupied for list3.txt.
+Worker 4 is occupied for list8.txt.
+      From worker 4:	Executing command: ./premier `echo 7*200000000/20 |bc` `echo 8*200000000/20-1 |bc` > list8.txt ******* for task: list8.txt
+      From worker 10:	Executing command: ./premier `echo 2*200000000/20 |bc` `echo 3*200000000/20-1 |bc` > list3.txt ******* for task: list3.txt
+Worker 3 is free.
+      From worker 3:	Target completed: list17.txt
+Worker 3 is occupied for list16.txt.
+      From worker 3:	Executing command: ./premier `echo 15*200000000/20 |bc` `echo 16*200000000/20-1 |bc` > list16.txt ******* for task: list16.txt
+      From worker 2:	Target completed: list1.txt
+Worker 2 is free.
+Worker 2 is occupied for list20.txt.
+      From worker 2:	Executing command: ./premier `echo 19*200000000/20 |bc` `echo 20*200000000/20-1 |bc` > list20.txt ******* for task: list20.txt
+Worker 10 is free.
+      From worker 10:	Target completed: list3.txt
+Worker 8 is free.
+      From worker 8:	Target completed: list6.txt
+Worker 9 is free.
+      From worker 9:	Target completed: list9.txt
+Worker 5 is free.
+      From worker 5:	Target completed: list18.txt
+Worker 4 is free.
+      From worker 4:	Target completed: list8.txt
+Worker 7 is free.
+      From worker 7:	Target completed: list11.txt
+Worker 6 is free.
+      From worker 6:	Target completed: list19.txt
+Worker 3 is free.
+      From worker 3:	Target completed: list16.txt
+      From worker 2:	Target completed: list20.txt
+Worker 2 is free.
+Worker 2 is occupied for list.txt.
+      From worker 2:	Executing command: cp list1.txt list.txt ******* for task: list.txt
+      From worker 2:	Executing command: cat list2.txt >> list.txt ******* for task: list.txt
+      From worker 2:	Executing command: cat list3.txt >> list.txt ******* for task: list.txt
+      From worker 2:	Executing command: cat list4.txt >> list.txt ******* for task: list.txt
+      From worker 2:	Executing command: cat list5.txt >> list.txt ******* for task: list.txt
+      From worker 2:	Executing command: cat list6.txt >> list.txt ******* for task: list.txt
+      From worker 2:	Executing command: cat list7.txt >> list.txt ******* for task: list.txt
+      From worker 2:	Executing command: cat list8.txt >> list.txt ******* for task: list.txt
+      From worker 2:	Executing command: cat list9.txt >> list.txt ******* for task: list.txt
+      From worker 2:	Executing command: cat list10.txt >> list.txt ******* for task: list.txt
+      From worker 2:	Executing command: cat list11.txt >> list.txt ******* for task: list.txt
+      From worker 2:	Executing command: cat list12.txt >> list.txt ******* for task: list.txt
+      From worker 2:	Executing command: cat list13.txt >> list.txt ******* for task: list.txt
+      From worker 2:	Executing command: cat list14.txt >> list.txt ******* for task: list.txt
+      From worker 2:	Executing command: cat list15.txt >> list.txt ******* for task: list.txt
+      From worker 2:	Executing command: cat list16.txt >> list.txt ******* for task: list.txt
+      From worker 2:	Executing command: cat list17.txt >> list.txt ******* for task: list.txt
+      From worker 2:	Executing command: cat list18.txt >> list.txt ******* for task: list.txt
+      From worker 2:	Executing command: cat list19.txt >> list.txt ******* for task: list.txt
+      From worker 2:	Executing command: cat list20.txt >> list.txt ******* for task: list.txt
+Worker 2 is free.
+      From worker 2:	Target completed: list.txt
+Parallel task execution time with 9 machines: 39.121734354 seconds
+Cleaning up generated files...
+Cleanup complete for 9 machines.
+Execution time with 9 machines : 39.121734354
+Acceleration with 9 machines: 6.706994123796356
+Efficiency with 9 machines: 0.7452215693107063
+Measuring parallel time (10 machines)...
+Worker 11 is occupied for compile.
+      From worker 11:	Executing command: gcc premier.c -o premier -lm ******* for task: compile
+      From worker 11:	Target completed: compile
+Worker 11 is free.
+Worker 11 is occupied for list5.txt.
+Worker 10 is occupied for list1.txt.
+Worker 9 is occupied for list6.txt.
+Worker 8 is occupied for list17.txt.
+Worker 7 is occupied for list7.txt.
+Worker 6 is occupied for list11.txt.
+Worker 5 is occupied for list3.txt.
+Worker 4 is occupied for list2.txt.
+Worker 3 is occupied for list9.txt.
+Worker 2 is occupied for list4.txt.
+      From worker 11:	Executing command: ./premier `echo 4*200000000/20 |bc` `echo 5*200000000/20-1 |bc` > list5.txt ******* for task: list5.txt
+      From worker 6:	Executing command: ./premier `echo 10*200000000/20 |bc` `echo 11*200000000/20-1 |bc` > list11.txt ******* for task: list11.txt
+      From worker 10:	Executing command: ./premier 2 `echo 1*200000000/20-1 |bc` > list1.txt ******* for task: list1.txt
+      From worker 2:	Executing command: ./premier `echo 3*200000000/20 |bc` `echo 4*200000000/20-1 |bc` > list4.txt ******* for task: list4.txt
+      From worker 9:	Executing command: ./premier `echo 5*200000000/20 |bc` `echo 6*200000000/20-1 |bc` > list6.txt ******* for task: list6.txt
+      From worker 8:	Executing command: ./premier `echo 16*200000000/20 |bc` `echo 17*200000000/20-1 |bc` > list17.txt ******* for task: list17.txt
+      From worker 4:	Executing command: ./premier `echo 1*200000000/20 |bc` `echo 2*200000000/20-1 |bc` > list2.txt ******* for task: list2.txt
+      From worker 7:	Executing command: ./premier `echo 6*200000000/20 |bc` `echo 7*200000000/20-1 |bc` > list7.txt ******* for task: list7.txt
+      From worker 3:	Executing command: ./premier `echo 8*200000000/20 |bc` `echo 9*200000000/20-1 |bc` > list9.txt ******* for task: list9.txt
+      From worker 5:	Executing command: ./premier `echo 2*200000000/20 |bc` `echo 3*200000000/20-1 |bc` > list3.txt ******* for task: list3.txt
+Worker 10 is free.
+      From worker 10:	Target completed: list1.txt
+Worker 10 is occupied for list19.txt.
+      From worker 10:	Executing command: ./premier `echo 18*200000000/20 |bc` `echo 19*200000000/20-1 |bc` > list19.txt ******* for task: list19.txt
+Worker 4 is free.
+      From worker 4:	Target completed: list2.txt
+Worker 4 is occupied for list14.txt.
+      From worker 4:	Executing command: ./premier `echo 13*200000000/20 |bc` `echo 14*200000000/20-1 |bc` > list14.txt ******* for task: list14.txt
+Worker 5 is free.
+      From worker 5:	Target completed: list3.txt
+Worker 5 is occupied for list18.txt.
+      From worker 5:	Executing command: ./premier `echo 17*200000000/20 |bc` `echo 18*200000000/20-1 |bc` > list18.txt ******* for task: list18.txt
+Worker 2 is free.
+      From worker 2:	Target completed: list4.txt
+Worker 2 is occupied for list20.txt.
+      From worker 2:	Executing command: ./premier `echo 19*200000000/20 |bc` `echo 20*200000000/20-1 |bc` > list20.txt ******* for task: list20.txt
+Worker 11 is free.
+      From worker 11:	Target completed: list5.txt
+Worker 11 is occupied for list12.txt.
+      From worker 11:	Executing command: ./premier `echo 11*200000000/20 |bc` `echo 12*200000000/20-1 |bc` > list12.txt ******* for task: list12.txt
+      From worker 9:	Target completed: list6.txt
+Worker 9 is free.
+Worker 9 is occupied for list10.txt.
+      From worker 9:	Executing command: ./premier `echo 9*200000000/20 |bc` `echo 10*200000000/20-1 |bc` > list10.txt ******* for task: list10.txt
+Worker 7 is free.
+      From worker 7:	Target completed: list7.txt
+Worker 7 is occupied for list13.txt.
+      From worker 7:	Executing command: ./premier `echo 12*200000000/20 |bc` `echo 13*200000000/20-1 |bc` > list13.txt ******* for task: list13.txt
+Worker 3 is free.
+      From worker 3:	Target completed: list9.txt
+Worker 3 is occupied for list16.txt.
+      From worker 3:	Executing command: ./premier `echo 15*200000000/20 |bc` `echo 16*200000000/20-1 |bc` > list16.txt ******* for task: list16.txt
+Worker 6 is free.
+      From worker 6:	Target completed: list11.txt
+Worker 6 is occupied for list15.txt.
+      From worker 6:	Executing command: ./premier `echo 14*200000000/20 |bc` `echo 15*200000000/20-1 |bc` > list15.txt ******* for task: list15.txt
+Worker 8 is free.
+      From worker 8:	Target completed: list17.txt
+Worker 8 is occupied for list8.txt.
+      From worker 8:	Executing command: ./premier `echo 7*200000000/20 |bc` `echo 8*200000000/20-1 |bc` > list8.txt ******* for task: list8.txt
+Worker 10 is free.
+      From worker 10:	Target completed: list19.txt
+Worker 4 is free.
+      From worker 4:	Target completed: list14.txt
+      From worker 9:	Target completed: list10.txt
+Worker 9 is free.
+Worker 11 is free.
+      From worker 11:	Target completed: list12.txt
+Worker 5 is free.
+      From worker 5:	Target completed: list18.txt
+Worker 7 is free.
+      From worker 7:	Target completed: list13.txt
+Worker 2 is free.
+      From worker 2:	Target completed: list20.txt
+Worker 8 is free.
+      From worker 8:	Target completed: list8.txt
+Worker 3 is free.
+      From worker 3:	Target completed: list16.txt
+Worker 6 is free.
+      From worker 6:	Target completed: list15.txt
+Worker 6 is occupied for list.txt.
+      From worker 6:	Executing command: cp list1.txt list.txt ******* for task: list.txt
+      From worker 6:	Executing command: cat list2.txt >> list.txt ******* for task: list.txt
+      From worker 6:	Executing command: cat list3.txt >> list.txt ******* for task: list.txt
+      From worker 6:	Executing command: cat list4.txt >> list.txt ******* for task: list.txt
+      From worker 6:	Executing command: cat list5.txt >> list.txt ******* for task: list.txt
+      From worker 6:	Executing command: cat list6.txt >> list.txt ******* for task: list.txt
+      From worker 6:	Executing command: cat list7.txt >> list.txt ******* for task: list.txt
+      From worker 6:	Executing command: cat list8.txt >> list.txt ******* for task: list.txt
+      From worker 6:	Executing command: cat list9.txt >> list.txt ******* for task: list.txt
+      From worker 6:	Executing command: cat list10.txt >> list.txt ******* for task: list.txt
+      From worker 6:	Executing command: cat list11.txt >> list.txt ******* for task: list.txt
+      From worker 6:	Executing command: cat list12.txt >> list.txt ******* for task: list.txt
+      From worker 6:	Executing command: cat list13.txt >> list.txt ******* for task: list.txt
+      From worker 6:	Executing command: cat list14.txt >> list.txt ******* for task: list.txt
+      From worker 6:	Executing command: cat list15.txt >> list.txt ******* for task: list.txt
+      From worker 6:	Executing command: cat list16.txt >> list.txt ******* for task: list.txt
+      From worker 6:	Executing command: cat list17.txt >> list.txt ******* for task: list.txt
+      From worker 6:	Executing command: cat list18.txt >> list.txt ******* for task: list.txt
+      From worker 6:	Executing command: cat list19.txt >> list.txt ******* for task: list.txt
+      From worker 6:	Executing command: cat list20.txt >> list.txt ******* for task: list.txt
+Worker 6 is free.
+      From worker 6:	Target completed: list.txt
+Parallel task execution time with 10 machines: 31.6007191 seconds
+Cleaning up generated files...
+Cleanup complete for 10 machines.
+Execution time with 10 machines : 31.6007191
+Acceleration with 10 machines: 8.303268086864518
+Efficiency with 10 machines: 0.8303268086864518
+Measuring parallel time (11 machines)...
+Worker 12 is occupied for compile.
+      From worker 12:	Executing command: gcc premier.c -o premier -lm ******* for task: compile
+      From worker 12:	Target completed: compile
+Worker 12 is free.
+Worker 12 is occupied for list1.txt.
+Worker 11 is occupied for list3.txt.
+Worker 10 is occupied for list4.txt.
+Worker 9 is occupied for list6.txt.
+Worker 8 is occupied for list7.txt.
+Worker 7 is occupied for list12.txt.
+Worker 6 is occupied for list13.txt.
+Worker 5 is occupied for list2.txt.
+Worker 4 is occupied for list15.txt.
+Worker 3 is occupied for list10.txt.
+Worker 2 is occupied for list19.txt.
+      From worker 10:	Executing command: ./premier `echo 3*200000000/20 |bc` `echo 4*200000000/20-1 |bc` > list4.txt ******* for task: list4.txt
+      From worker 12:	Executing command: ./premier 2 `echo 1*200000000/20-1 |bc` > list1.txt ******* for task: list1.txt
+      From worker 9:	Executing command: ./premier `echo 5*200000000/20 |bc` `echo 6*200000000/20-1 |bc` > list6.txt ******* for task: list6.txt
+      From worker 6:	Executing command: ./premier `echo 12*200000000/20 |bc` `echo 13*200000000/20-1 |bc` > list13.txt ******* for task: list13.txt
+      From worker 4:	Executing command: ./premier `echo 14*200000000/20 |bc` `echo 15*200000000/20-1 |bc` > list15.txt ******* for task: list15.txt
+      From worker 8:	Executing command: ./premier `echo 6*200000000/20 |bc` `echo 7*200000000/20-1 |bc` > list7.txt ******* for task: list7.txt
+      From worker 3:	Executing command: ./premier `echo 9*200000000/20 |bc` `echo 10*200000000/20-1 |bc` > list10.txt ******* for task: list10.txt
+      From worker 2:	Executing command: ./premier `echo 18*200000000/20 |bc` `echo 19*200000000/20-1 |bc` > list19.txt ******* for task: list19.txt
+      From worker 7:	Executing command: ./premier `echo 11*200000000/20 |bc` `echo 12*200000000/20-1 |bc` > list12.txt ******* for task: list12.txt
+      From worker 5:	Executing command: ./premier `echo 1*200000000/20 |bc` `echo 2*200000000/20-1 |bc` > list2.txt ******* for task: list2.txt
+      From worker 11:	Executing command: ./premier `echo 2*200000000/20 |bc` `echo 3*200000000/20-1 |bc` > list3.txt ******* for task: list3.txt
+Worker 12 is free.
+      From worker 12:	Target completed: list1.txt
+Worker 12 is occupied for list14.txt.
+      From worker 12:	Executing command: ./premier `echo 13*200000000/20 |bc` `echo 14*200000000/20-1 |bc` > list14.txt ******* for task: list14.txt
+      From worker 5:	Target completed: list2.txt
+Worker 5 is free.
+Worker 5 is occupied for list9.txt.
+      From worker 5:	Executing command: ./premier `echo 8*200000000/20 |bc` `echo 9*200000000/20-1 |bc` > list9.txt ******* for task: list9.txt
+Worker 11 is free.
+      From worker 11:	Target completed: list3.txt
+Worker 11 is occupied for list17.txt.
+      From worker 11:	Executing command: ./premier `echo 16*200000000/20 |bc` `echo 17*200000000/20-1 |bc` > list17.txt ******* for task: list17.txt
+Worker 10 is free.
+      From worker 10:	Target completed: list4.txt
+Worker 10 is occupied for list11.txt.
+      From worker 10:	Executing command: ./premier `echo 10*200000000/20 |bc` `echo 11*200000000/20-1 |bc` > list11.txt ******* for task: list11.txt
+Worker 9 is free.
+      From worker 9:	Target completed: list6.txt
+Worker 9 is occupied for list18.txt.
+      From worker 9:	Executing command: ./premier `echo 17*200000000/20 |bc` `echo 18*200000000/20-1 |bc` > list18.txt ******* for task: list18.txt
+Worker 8 is free.
+      From worker 8:	Target completed: list7.txt
+Worker 8 is occupied for list20.txt.
+      From worker 8:	Executing command: ./premier `echo 19*200000000/20 |bc` `echo 20*200000000/20-1 |bc` > list20.txt ******* for task: list20.txt
+      From worker 3:	Target completed: list10.txt
+Worker 3 is free.
+Worker 3 is occupied for list8.txt.
+      From worker 3:	Executing command: ./premier `echo 7*200000000/20 |bc` `echo 8*200000000/20-1 |bc` > list8.txt ******* for task: list8.txt
+Worker 7 is free.
+      From worker 7:	Target completed: list12.txt
+Worker 7 is occupied for list16.txt.
+      From worker 7:	Executing command: ./premier `echo 15*200000000/20 |bc` `echo 16*200000000/20-1 |bc` > list16.txt ******* for task: list16.txt
+Worker 6 is free.
+      From worker 6:	Target completed: list13.txt
+Worker 6 is occupied for list5.txt.
+      From worker 6:	Executing command: ./premier `echo 4*200000000/20 |bc` `echo 5*200000000/20-1 |bc` > list5.txt ******* for task: list5.txt
+Worker 4 is free.
+      From worker 4:	Target completed: list15.txt
+Worker 2 is free.
+      From worker 2:	Target completed: list19.txt
+Worker 5 is free.
+      From worker 5:	Target completed: list9.txt
+Worker 12 is free.
+      From worker 12:	Target completed: list14.txt
+Worker 10 is free.
+      From worker 10:	Target completed: list11.txt
+Worker 11 is free.
+      From worker 11:	Target completed: list17.txt
+Worker 6 is free.
+      From worker 6:	Target completed: list5.txt
+Worker 3 is free.
+      From worker 3:	Target completed: list8.txt
+      From worker 9:	Target completed: list18.txt
+Worker 9 is free.
+Worker 8 is free.
+      From worker 8:	Target completed: list20.txt
+Worker 7 is free.
+      From worker 7:	Target completed: list16.txt
+Worker 7 is occupied for list.txt.
+      From worker 7:	Executing command: cp list1.txt list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list2.txt >> list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list3.txt >> list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list4.txt >> list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list5.txt >> list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list6.txt >> list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list7.txt >> list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list8.txt >> list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list9.txt >> list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list10.txt >> list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list11.txt >> list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list12.txt >> list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list13.txt >> list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list14.txt >> list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list15.txt >> list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list16.txt >> list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list17.txt >> list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list18.txt >> list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list19.txt >> list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list20.txt >> list.txt ******* for task: list.txt
+Worker 7 is free.
+      From worker 7:	Target completed: list.txt
+Parallel task execution time with 11 machines: 32.599304807 seconds
+Cleaning up generated files...
+Cleanup complete for 11 machines.
+Execution time with 11 machines : 32.599304807
+Acceleration with 11 machines: 8.048921410393314
+Efficiency with 11 machines: 0.731720128217574
+Measuring parallel time (12 machines)...
+Worker 13 is occupied for compile.
+      From worker 13:	Executing command: gcc premier.c -o premier -lm ******* for task: compile
+      From worker 13:	Target completed: compile
+Worker 13 is free.
+Worker 13 is occupied for list11.txt.
+Worker 12 is occupied for list3.txt.
+Worker 11 is occupied for list5.txt.
+Worker 10 is occupied for list13.txt.
+Worker 9 is occupied for list10.txt.
+Worker 8 is occupied for list4.txt.
+Worker 7 is occupied for list14.txt.
+Worker 6 is occupied for list9.txt.
+Worker 5 is occupied for list15.txt.
+Worker 4 is occupied for list17.txt.
+Worker 3 is occupied for list16.txt.
+Worker 2 is occupied for list7.txt.
+      From worker 13:	Executing command: ./premier `echo 10*200000000/20 |bc` `echo 11*200000000/20-1 |bc` > list11.txt ******* for task: list11.txt
+      From worker 3:	Executing command: ./premier `echo 15*200000000/20 |bc` `echo 16*200000000/20-1 |bc` > list16.txt ******* for task: list16.txt
+      From worker 4:	Executing command: ./premier `echo 16*200000000/20 |bc` `echo 17*200000000/20-1 |bc` > list17.txt ******* for task: list17.txt
+      From worker 12:	Executing command: ./premier `echo 2*200000000/20 |bc` `echo 3*200000000/20-1 |bc` > list3.txt ******* for task: list3.txt
+      From worker 5:	Executing command: ./premier `echo 14*200000000/20 |bc` `echo 15*200000000/20-1 |bc` > list15.txt ******* for task: list15.txt
+      From worker 9:	Executing command: ./premier `echo 9*200000000/20 |bc` `echo 10*200000000/20-1 |bc` > list10.txt ******* for task: list10.txt
+      From worker 11:	Executing command: ./premier `echo 4*200000000/20 |bc` `echo 5*200000000/20-1 |bc` > list5.txt ******* for task: list5.txt
+      From worker 8:	Executing command: ./premier `echo 3*200000000/20 |bc` `echo 4*200000000/20-1 |bc` > list4.txt ******* for task: list4.txt
+      From worker 6:	Executing command: ./premier `echo 8*200000000/20 |bc` `echo 9*200000000/20-1 |bc` > list9.txt ******* for task: list9.txt
+      From worker 7:	Executing command: ./premier `echo 13*200000000/20 |bc` `echo 14*200000000/20-1 |bc` > list14.txt ******* for task: list14.txt
+      From worker 10:	Executing command: ./premier `echo 12*200000000/20 |bc` `echo 13*200000000/20-1 |bc` > list13.txt ******* for task: list13.txt
+      From worker 2:	Executing command: ./premier `echo 6*200000000/20 |bc` `echo 7*200000000/20-1 |bc` > list7.txt ******* for task: list7.txt
+      From worker 12:	Target completed: list3.txt
+Worker 12 is free.
+Worker 12 is occupied for list1.txt.
+      From worker 12:	Executing command: ./premier 2 `echo 1*200000000/20-1 |bc` > list1.txt ******* for task: list1.txt
+Worker 8 is free.
+      From worker 8:	Target completed: list4.txt
+Worker 8 is occupied for list2.txt.
+      From worker 8:	Executing command: ./premier `echo 1*200000000/20 |bc` `echo 2*200000000/20-1 |bc` > list2.txt ******* for task: list2.txt
+Worker 11 is free.
+      From worker 11:	Target completed: list5.txt
+Worker 11 is occupied for list18.txt.
+      From worker 11:	Executing command: ./premier `echo 17*200000000/20 |bc` `echo 18*200000000/20-1 |bc` > list18.txt ******* for task: list18.txt
+Worker 12 is free.
+      From worker 12:	Target completed: list1.txt
+      From worker 2:	Target completed: list7.txt
+Worker 2 is free.
+Worker 2 is occupied for list12.txt.
+Worker 12 is occupied for list20.txt.
+      From worker 2:	Executing command: ./premier `echo 11*200000000/20 |bc` `echo 12*200000000/20-1 |bc` > list12.txt ******* for task: list12.txt
+      From worker 12:	Executing command: ./premier `echo 19*200000000/20 |bc` `echo 20*200000000/20-1 |bc` > list20.txt ******* for task: list20.txt
+Worker 6 is free.
+      From worker 6:	Target completed: list9.txt
+Worker 6 is occupied for list8.txt.
+      From worker 6:	Executing command: ./premier `echo 7*200000000/20 |bc` `echo 8*200000000/20-1 |bc` > list8.txt ******* for task: list8.txt
+Worker 9 is free.
+      From worker 9:	Target completed: list10.txt
+Worker 9 is occupied for list6.txt.
+      From worker 9:	Executing command: ./premier `echo 5*200000000/20 |bc` `echo 6*200000000/20-1 |bc` > list6.txt ******* for task: list6.txt
+Worker 13 is free.
+      From worker 13:	Target completed: list11.txt
+Worker 13 is occupied for list19.txt.
+      From worker 13:	Executing command: ./premier `echo 18*200000000/20 |bc` `echo 19*200000000/20-1 |bc` > list19.txt ******* for task: list19.txt
+Worker 10 is free.
+      From worker 10:	Target completed: list13.txt
+Worker 8 is free.
+      From worker 8:	Target completed: list2.txt
+Worker 7 is free.
+      From worker 7:	Target completed: list14.txt
+Worker 5 is free.
+      From worker 5:	Target completed: list15.txt
+Worker 3 is free.
+      From worker 3:	Target completed: list16.txt
+Worker 4 is free.
+      From worker 4:	Target completed: list17.txt
+Worker 9 is free.
+      From worker 9:	Target completed: list6.txt
+Worker 6 is free.
+      From worker 6:	Target completed: list8.txt
+Worker 2 is free.
+      From worker 2:	Target completed: list12.txt
+Worker 11 is free.
+      From worker 11:	Target completed: list18.txt
+Worker 12 is free.
+      From worker 12:	Target completed: list20.txt
+Worker 13 is free.
+      From worker 13:	Target completed: list19.txt
+Worker 13 is occupied for list.txt.
+      From worker 13:	Executing command: cp list1.txt list.txt ******* for task: list.txt
+      From worker 13:	Executing command: cat list2.txt >> list.txt ******* for task: list.txt
+      From worker 13:	Executing command: cat list3.txt >> list.txt ******* for task: list.txt
+      From worker 13:	Executing command: cat list4.txt >> list.txt ******* for task: list.txt
+      From worker 13:	Executing command: cat list5.txt >> list.txt ******* for task: list.txt
+      From worker 13:	Executing command: cat list6.txt >> list.txt ******* for task: list.txt
+      From worker 13:	Executing command: cat list7.txt >> list.txt ******* for task: list.txt
+      From worker 13:	Executing command: cat list8.txt >> list.txt ******* for task: list.txt
+      From worker 13:	Executing command: cat list9.txt >> list.txt ******* for task: list.txt
+      From worker 13:	Executing command: cat list10.txt >> list.txt ******* for task: list.txt
+      From worker 13:	Executing command: cat list11.txt >> list.txt ******* for task: list.txt
+      From worker 13:	Executing command: cat list12.txt >> list.txt ******* for task: list.txt
+      From worker 13:	Executing command: cat list13.txt >> list.txt ******* for task: list.txt
+      From worker 13:	Executing command: cat list14.txt >> list.txt ******* for task: list.txt
+      From worker 13:	Executing command: cat list15.txt >> list.txt ******* for task: list.txt
+      From worker 13:	Executing command: cat list16.txt >> list.txt ******* for task: list.txt
+      From worker 13:	Executing command: cat list17.txt >> list.txt ******* for task: list.txt
+      From worker 13:	Executing command: cat list18.txt >> list.txt ******* for task: list.txt
+      From worker 13:	Executing command: cat list19.txt >> list.txt ******* for task: list.txt
+      From worker 13:	Executing command: cat list20.txt >> list.txt ******* for task: list.txt
+Worker 13 is free.
+      From worker 13:	Target completed: list.txt
+Parallel task execution time with 12 machines: 33.602844291 seconds
+Cleaning up generated files...
+Cleanup complete for 12 machines.
+Execution time with 12 machines : 33.602844291
+Acceleration with 12 machines: 7.808542638614581
+Efficiency with 12 machines: 0.650711886551215
+Measuring parallel time (13 machines)...
+Worker 14 is occupied for compile.
+      From worker 14:	Executing command: gcc premier.c -o premier -lm ******* for task: compile
+      From worker 14:	Target completed: compile
+Worker 14 is free.
+Worker 14 is occupied for list11.txt.
+Worker 13 is occupied for list17.txt.
+Worker 12 is occupied for list16.txt.
+Worker 11 is occupied for list1.txt.
+Worker 10 is occupied for list2.txt.
+Worker 9 is occupied for list3.txt.
+Worker 8 is occupied for list12.txt.
+Worker 7 is occupied for list8.txt.
+Worker 6 is occupied for list15.txt.
+Worker 5 is occupied for list9.txt.
+Worker 4 is occupied for list6.txt.
+Worker 3 is occupied for list19.txt.
+Worker 2 is occupied for list13.txt.
+      From worker 14:	Executing command: ./premier `echo 10*200000000/20 |bc` `echo 11*200000000/20-1 |bc` > list11.txt ******* for task: list11.txt
+      From worker 9:	Executing command: ./premier `echo 2*200000000/20 |bc` `echo 3*200000000/20-1 |bc` > list3.txt ******* for task: list3.txt
+      From worker 13:	Executing command: ./premier `echo 16*200000000/20 |bc` `echo 17*200000000/20-1 |bc` > list17.txt ******* for task: list17.txt
+      From worker 12:	Executing command: ./premier `echo 15*200000000/20 |bc` `echo 16*200000000/20-1 |bc` > list16.txt ******* for task: list16.txt
+      From worker 11:	Executing command: ./premier 2 `echo 1*200000000/20-1 |bc` > list1.txt ******* for task: list1.txt
+      From worker 10:	Executing command: ./premier `echo 1*200000000/20 |bc` `echo 2*200000000/20-1 |bc` > list2.txt ******* for task: list2.txt
+      From worker 6:	Executing command: ./premier `echo 14*200000000/20 |bc` `echo 15*200000000/20-1 |bc` > list15.txt ******* for task: list15.txt
+      From worker 8:	Executing command: ./premier `echo 11*200000000/20 |bc` `echo 12*200000000/20-1 |bc` > list12.txt ******* for task: list12.txt
+      From worker 4:	Executing command: ./premier `echo 5*200000000/20 |bc` `echo 6*200000000/20-1 |bc` > list6.txt ******* for task: list6.txt
+      From worker 2:	Executing command: ./premier `echo 12*200000000/20 |bc` `echo 13*200000000/20-1 |bc` > list13.txt ******* for task: list13.txt
+      From worker 5:	Executing command: ./premier `echo 8*200000000/20 |bc` `echo 9*200000000/20-1 |bc` > list9.txt ******* for task: list9.txt
+      From worker 7:	Executing command: ./premier `echo 7*200000000/20 |bc` `echo 8*200000000/20-1 |bc` > list8.txt ******* for task: list8.txt
+      From worker 3:	Executing command: ./premier `echo 18*200000000/20 |bc` `echo 19*200000000/20-1 |bc` > list19.txt ******* for task: list19.txt
+Worker 11 is free.
+      From worker 11:	Target completed: list1.txt
+Worker 11 is occupied for list10.txt.
+      From worker 11:	Executing command: ./premier `echo 9*200000000/20 |bc` `echo 10*200000000/20-1 |bc` > list10.txt ******* for task: list10.txt
+Worker 10 is free.
+      From worker 10:	Target completed: list2.txt
+Worker 10 is occupied for list14.txt.
+      From worker 10:	Executing command: ./premier `echo 13*200000000/20 |bc` `echo 14*200000000/20-1 |bc` > list14.txt ******* for task: list14.txt
+      From worker 9:	Target completed: list3.txt
+Worker 9 is free.
+Worker 9 is occupied for list5.txt.
+      From worker 9:	Executing command: ./premier `echo 4*200000000/20 |bc` `echo 5*200000000/20-1 |bc` > list5.txt ******* for task: list5.txt
+Worker 4 is free.
+      From worker 4:	Target completed: list6.txt
+Worker 4 is occupied for list18.txt.
+      From worker 4:	Executing command: ./premier `echo 17*200000000/20 |bc` `echo 18*200000000/20-1 |bc` > list18.txt ******* for task: list18.txt
+Worker 7 is free.
+      From worker 7:	Target completed: list8.txt
+Worker 7 is occupied for list7.txt.
+      From worker 7:	Executing command: ./premier `echo 6*200000000/20 |bc` `echo 7*200000000/20-1 |bc` > list7.txt ******* for task: list7.txt
+Worker 5 is free.
+      From worker 5:	Target completed: list9.txt
+Worker 5 is occupied for list4.txt.
+      From worker 5:	Executing command: ./premier `echo 3*200000000/20 |bc` `echo 4*200000000/20-1 |bc` > list4.txt ******* for task: list4.txt
+      From worker 14:	Target completed: list11.txt
+Worker 14 is free.
+Worker 14 is occupied for list20.txt.
+      From worker 14:	Executing command: ./premier `echo 19*200000000/20 |bc` `echo 20*200000000/20-1 |bc` > list20.txt ******* for task: list20.txt
+Worker 8 is free.
+      From worker 8:	Target completed: list12.txt
+Worker 2 is free.
+      From worker 2:	Target completed: list13.txt
+Worker 6 is free.
+      From worker 6:	Target completed: list15.txt
+Worker 12 is free.
+      From worker 12:	Target completed: list16.txt
+Worker 13 is free.
+      From worker 13:	Target completed: list17.txt
+      From worker 9:	Target completed: list5.txt
+Worker 9 is free.
+Worker 11 is free.
+      From worker 11:	Target completed: list10.txt
+      From worker 3:	Target completed: list19.txt
+Worker 3 is free.
+Worker 5 is free.
+      From worker 5:	Target completed: list4.txt
+Worker 10 is free.
+      From worker 10:	Target completed: list14.txt
+Worker 7 is free.
+      From worker 7:	Target completed: list7.txt
+Worker 4 is free.
+      From worker 4:	Target completed: list18.txt
+      From worker 14:	Target completed: list20.txt
+Worker 14 is free.
+Worker 14 is occupied for list.txt.
+      From worker 14:	Executing command: cp list1.txt list.txt ******* for task: list.txt
+      From worker 14:	Executing command: cat list2.txt >> list.txt ******* for task: list.txt
+      From worker 14:	Executing command: cat list3.txt >> list.txt ******* for task: list.txt
+      From worker 14:	Executing command: cat list4.txt >> list.txt ******* for task: list.txt
+      From worker 14:	Executing command: cat list5.txt >> list.txt ******* for task: list.txt
+      From worker 14:	Executing command: cat list6.txt >> list.txt ******* for task: list.txt
+      From worker 14:	Executing command: cat list7.txt >> list.txt ******* for task: list.txt
+      From worker 14:	Executing command: cat list8.txt >> list.txt ******* for task: list.txt
+      From worker 14:	Executing command: cat list9.txt >> list.txt ******* for task: list.txt
+      From worker 14:	Executing command: cat list10.txt >> list.txt ******* for task: list.txt
+      From worker 14:	Executing command: cat list11.txt >> list.txt ******* for task: list.txt
+      From worker 14:	Executing command: cat list12.txt >> list.txt ******* for task: list.txt
+      From worker 14:	Executing command: cat list13.txt >> list.txt ******* for task: list.txt
+      From worker 14:	Executing command: cat list14.txt >> list.txt ******* for task: list.txt
+      From worker 14:	Executing command: cat list15.txt >> list.txt ******* for task: list.txt
+      From worker 14:	Executing command: cat list16.txt >> list.txt ******* for task: list.txt
+      From worker 14:	Executing command: cat list17.txt >> list.txt ******* for task: list.txt
+      From worker 14:	Executing command: cat list18.txt >> list.txt ******* for task: list.txt
+      From worker 14:	Executing command: cat list19.txt >> list.txt ******* for task: list.txt
+      From worker 14:	Executing command: cat list20.txt >> list.txt ******* for task: list.txt
+      From worker 14:	Target completed: list.txt
+Worker 14 is free.
+Parallel task execution time with 13 machines: 33.606020622 seconds
+Cleaning up generated files...
+Cleanup complete for 13 machines.
+Execution time with 13 machines : 33.606020622
+Acceleration with 13 machines: 7.807804600739556
+Efficiency with 13 machines: 0.6006003539030428
+Measuring parallel time (14 machines)...
+Worker 15 is occupied for compile.
+      From worker 15:	Executing command: gcc premier.c -o premier -lm ******* for task: compile
+      From worker 15:	Target completed: compile
+Worker 15 is free.
+Worker 15 is occupied for list12.txt.
+Worker 14 is occupied for list7.txt.
+Worker 13 is occupied for list1.txt.
+Worker 12 is occupied for list15.txt.
+Worker 11 is occupied for list11.txt.
+Worker 10 is occupied for list6.txt.
+Worker 9 is occupied for list20.txt.
+Worker 8 is occupied for list8.txt.
+Worker 7 is occupied for list17.txt.
+Worker 6 is occupied for list16.txt.
+Worker 5 is occupied for list9.txt.
+Worker 4 is occupied for list4.txt.
+Worker 3 is occupied for list19.txt.
+Worker 2 is occupied for list10.txt.
+      From worker 15:	Executing command: ./premier `echo 11*200000000/20 |bc` `echo 12*200000000/20-1 |bc` > list12.txt ******* for task: list12.txt
+      From worker 14:	Executing command: ./premier `echo 6*200000000/20 |bc` `echo 7*200000000/20-1 |bc` > list7.txt ******* for task: list7.txt
+      From worker 12:	Executing command: ./premier `echo 14*200000000/20 |bc` `echo 15*200000000/20-1 |bc` > list15.txt ******* for task: list15.txt
+      From worker 13:	Executing command: ./premier 2 `echo 1*200000000/20-1 |bc` > list1.txt ******* for task: list1.txt
+      From worker 11:	Executing command: ./premier `echo 10*200000000/20 |bc` `echo 11*200000000/20-1 |bc` > list11.txt ******* for task: list11.txt
+      From worker 9:	Executing command: ./premier `echo 19*200000000/20 |bc` `echo 20*200000000/20-1 |bc` > list20.txt ******* for task: list20.txt
+      From worker 10:	Executing command: ./premier `echo 5*200000000/20 |bc` `echo 6*200000000/20-1 |bc` > list6.txt ******* for task: list6.txt
+      From worker 8:	Executing command: ./premier `echo 7*200000000/20 |bc` `echo 8*200000000/20-1 |bc` > list8.txt ******* for task: list8.txt
+      From worker 5:	Executing command: ./premier `echo 8*200000000/20 |bc` `echo 9*200000000/20-1 |bc` > list9.txt ******* for task: list9.txt
+      From worker 6:	Executing command: ./premier `echo 15*200000000/20 |bc` `echo 16*200000000/20-1 |bc` > list16.txt ******* for task: list16.txt
+      From worker 7:	Executing command: ./premier `echo 16*200000000/20 |bc` `echo 17*200000000/20-1 |bc` > list17.txt ******* for task: list17.txt
+      From worker 4:	Executing command: ./premier `echo 3*200000000/20 |bc` `echo 4*200000000/20-1 |bc` > list4.txt ******* for task: list4.txt
+      From worker 3:	Executing command: ./premier `echo 18*200000000/20 |bc` `echo 19*200000000/20-1 |bc` > list19.txt ******* for task: list19.txt
+      From worker 2:	Executing command: ./premier `echo 9*200000000/20 |bc` `echo 10*200000000/20-1 |bc` > list10.txt ******* for task: list10.txt
+Worker 13 is free.
+      From worker 13:	Target completed: list1.txt
+Worker 13 is occupied for list2.txt.
+      From worker 13:	Executing command: ./premier `echo 1*200000000/20 |bc` `echo 2*200000000/20-1 |bc` > list2.txt ******* for task: list2.txt
+Worker 4 is free.
+      From worker 4:	Target completed: list4.txt
+Worker 4 is occupied for list14.txt.
+      From worker 4:	Executing command: ./premier `echo 13*200000000/20 |bc` `echo 14*200000000/20-1 |bc` > list14.txt ******* for task: list14.txt
+Worker 13 is free.
+      From worker 13:	Target completed: list2.txt
+Worker 13 is occupied for list5.txt.
+      From worker 13:	Executing command: ./premier `echo 4*200000000/20 |bc` `echo 5*200000000/20-1 |bc` > list5.txt ******* for task: list5.txt
+Worker 10 is free.
+      From worker 10:	Target completed: list6.txt
+Worker 10 is occupied for list18.txt.
+      From worker 10:	Executing command: ./premier `echo 17*200000000/20 |bc` `echo 18*200000000/20-1 |bc` > list18.txt ******* for task: list18.txt
+      From worker 14:	Target completed: list7.txt
+Worker 14 is free.
+Worker 14 is occupied for list3.txt.
+      From worker 14:	Executing command: ./premier `echo 2*200000000/20 |bc` `echo 3*200000000/20-1 |bc` > list3.txt ******* for task: list3.txt
+Worker 8 is free.
+      From worker 8:	Target completed: list8.txt
+Worker 8 is occupied for list13.txt.
+      From worker 8:	Executing command: ./premier `echo 12*200000000/20 |bc` `echo 13*200000000/20-1 |bc` > list13.txt ******* for task: list13.txt
+Worker 5 is free.
+      From worker 5:	Target completed: list9.txt
+Worker 2 is free.
+      From worker 2:	Target completed: list10.txt
+Worker 11 is free.
+      From worker 11:	Target completed: list11.txt
+Worker 15 is free.
+      From worker 15:	Target completed: list12.txt
+Worker 12 is free.
+      From worker 12:	Target completed: list15.txt
+Worker 6 is free.
+      From worker 6:	Target completed: list16.txt
+      From worker 7:	Target completed: list17.txt
+Worker 7 is free.
+Worker 3 is free.
+      From worker 3:	Target completed: list19.txt
+Worker 9 is free.
+      From worker 9:	Target completed: list20.txt
+      From worker 14:	Target completed: list3.txt
+Worker 14 is free.
+Worker 13 is free.
+      From worker 13:	Target completed: list5.txt
+Worker 4 is free.
+      From worker 4:	Target completed: list14.txt
+Worker 8 is free.
+      From worker 8:	Target completed: list13.txt
+Worker 10 is free.
+      From worker 10:	Target completed: list18.txt
+Worker 10 is occupied for list.txt.
+      From worker 10:	Executing command: cp list1.txt list.txt ******* for task: list.txt
+      From worker 10:	Executing command: cat list2.txt >> list.txt ******* for task: list.txt
+      From worker 10:	Executing command: cat list3.txt >> list.txt ******* for task: list.txt
+      From worker 10:	Executing command: cat list4.txt >> list.txt ******* for task: list.txt
+      From worker 10:	Executing command: cat list5.txt >> list.txt ******* for task: list.txt
+      From worker 10:	Executing command: cat list6.txt >> list.txt ******* for task: list.txt
+      From worker 10:	Executing command: cat list7.txt >> list.txt ******* for task: list.txt
+      From worker 10:	Executing command: cat list8.txt >> list.txt ******* for task: list.txt
+      From worker 10:	Executing command: cat list9.txt >> list.txt ******* for task: list.txt
+      From worker 10:	Executing command: cat list10.txt >> list.txt ******* for task: list.txt
+      From worker 10:	Executing command: cat list11.txt >> list.txt ******* for task: list.txt
+      From worker 10:	Executing command: cat list12.txt >> list.txt ******* for task: list.txt
+      From worker 10:	Executing command: cat list13.txt >> list.txt ******* for task: list.txt
+      From worker 10:	Executing command: cat list14.txt >> list.txt ******* for task: list.txt
+      From worker 10:	Executing command: cat list15.txt >> list.txt ******* for task: list.txt
+      From worker 10:	Executing command: cat list16.txt >> list.txt ******* for task: list.txt
+      From worker 10:	Executing command: cat list17.txt >> list.txt ******* for task: list.txt
+      From worker 10:	Executing command: cat list18.txt >> list.txt ******* for task: list.txt
+      From worker 10:	Executing command: cat list19.txt >> list.txt ******* for task: list.txt
+      From worker 10:	Executing command: cat list20.txt >> list.txt ******* for task: list.txt
+Worker 10 is free.
+      From worker 10:	Target completed: list.txt
+Parallel task execution time with 14 machines: 30.095625758 seconds
+Cleaning up generated files...
+Cleanup complete for 14 machines.
+Execution time with 14 machines : 30.095625758
+Acceleration with 14 machines: 8.718517585740907
+Efficiency with 14 machines: 0.6227512561243506
+Measuring parallel time (15 machines)...
+Worker 16 is occupied for compile.
+      From worker 16:	Executing command: gcc premier.c -o premier -lm ******* for task: compile
+      From worker 16:	Target completed: compile
+Worker 16 is free.
+Worker 16 is occupied for list19.txt.
+Worker 15 is occupied for list13.txt.
+Worker 14 is occupied for list18.txt.
+Worker 13 is occupied for list9.txt.
+Worker 12 is occupied for list16.txt.
+Worker 11 is occupied for list1.txt.
+Worker 10 is occupied for list2.txt.
+Worker 9 is occupied for list3.txt.
+Worker 8 is occupied for list17.txt.
+Worker 7 is occupied for list15.txt.
+Worker 6 is occupied for list14.txt.
+Worker 5 is occupied for list6.txt.
+Worker 4 is occupied for list8.txt.
+Worker 3 is occupied for list7.txt.
+Worker 2 is occupied for list11.txt.
+      From worker 16:	Executing command: ./premier `echo 18*200000000/20 |bc` `echo 19*200000000/20-1 |bc` > list19.txt ******* for task: list19.txt
+      From worker 15:	Executing command: ./premier `echo 12*200000000/20 |bc` `echo 13*200000000/20-1 |bc` > list13.txt ******* for task: list13.txt
+      From worker 12:	Executing command: ./premier `echo 15*200000000/20 |bc` `echo 16*200000000/20-1 |bc` > list16.txt ******* for task: list16.txt
+      From worker 14:	Executing command: ./premier `echo 17*200000000/20 |bc` `echo 18*200000000/20-1 |bc` > list18.txt ******* for task: list18.txt
+      From worker 10:	Executing command: ./premier `echo 1*200000000/20 |bc` `echo 2*200000000/20-1 |bc` > list2.txt ******* for task: list2.txt
+      From worker 13:	Executing command: ./premier `echo 8*200000000/20 |bc` `echo 9*200000000/20-1 |bc` > list9.txt ******* for task: list9.txt
+      From worker 11:	Executing command: ./premier 2 `echo 1*200000000/20-1 |bc` > list1.txt ******* for task: list1.txt
+      From worker 5:	Executing command: ./premier `echo 5*200000000/20 |bc` `echo 6*200000000/20-1 |bc` > list6.txt ******* for task: list6.txt
+      From worker 8:	Executing command: ./premier `echo 16*200000000/20 |bc` `echo 17*200000000/20-1 |bc` > list17.txt ******* for task: list17.txt
+      From worker 3:	Executing command: ./premier `echo 6*200000000/20 |bc` `echo 7*200000000/20-1 |bc` > list7.txt ******* for task: list7.txt
+      From worker 9:	Executing command: ./premier `echo 2*200000000/20 |bc` `echo 3*200000000/20-1 |bc` > list3.txt ******* for task: list3.txt
+      From worker 6:	Executing command: ./premier `echo 13*200000000/20 |bc` `echo 14*200000000/20-1 |bc` > list14.txt ******* for task: list14.txt
+      From worker 7:	Executing command: ./premier `echo 14*200000000/20 |bc` `echo 15*200000000/20-1 |bc` > list15.txt ******* for task: list15.txt
+      From worker 4:	Executing command: ./premier `echo 7*200000000/20 |bc` `echo 8*200000000/20-1 |bc` > list8.txt ******* for task: list8.txt
+      From worker 2:	Executing command: ./premier `echo 10*200000000/20 |bc` `echo 11*200000000/20-1 |bc` > list11.txt ******* for task: list11.txt
+Worker 11 is free.
+      From worker 11:	Target completed: list1.txt
+Worker 11 is occupied for list20.txt.
+      From worker 11:	Executing command: ./premier `echo 19*200000000/20 |bc` `echo 20*200000000/20-1 |bc` > list20.txt ******* for task: list20.txt
+Worker 10 is free.
+      From worker 10:	Target completed: list2.txt
+Worker 10 is occupied for list10.txt.
+      From worker 10:	Executing command: ./premier `echo 9*200000000/20 |bc` `echo 10*200000000/20-1 |bc` > list10.txt ******* for task: list10.txt
+Worker 9 is free.
+      From worker 9:	Target completed: list3.txt
+Worker 9 is occupied for list4.txt.
+      From worker 9:	Executing command: ./premier `echo 3*200000000/20 |bc` `echo 4*200000000/20-1 |bc` > list4.txt ******* for task: list4.txt
+Worker 5 is free.
+      From worker 5:	Target completed: list6.txt
+Worker 5 is occupied for list5.txt.
+      From worker 5:	Executing command: ./premier `echo 4*200000000/20 |bc` `echo 5*200000000/20-1 |bc` > list5.txt ******* for task: list5.txt
+Worker 3 is free.
+      From worker 3:	Target completed: list7.txt
+Worker 3 is occupied for list12.txt.
+      From worker 3:	Executing command: ./premier `echo 11*200000000/20 |bc` `echo 12*200000000/20-1 |bc` > list12.txt ******* for task: list12.txt
+Worker 4 is free.
+      From worker 4:	Target completed: list8.txt
+Worker 13 is free.
+      From worker 13:	Target completed: list9.txt
+Worker 2 is free.
+      From worker 2:	Target completed: list11.txt
+Worker 15 is free.
+      From worker 15:	Target completed: list13.txt
+Worker 6 is free.
+      From worker 6:	Target completed: list14.txt
+Worker 7 is free.
+      From worker 7:	Target completed: list15.txt
+Worker 12 is free.
+      From worker 12:	Target completed: list16.txt
+Worker 9 is free.
+      From worker 9:	Target completed: list4.txt
+Worker 8 is free.
+      From worker 8:	Target completed: list17.txt
+      From worker 14:	Target completed: list18.txt
+Worker 14 is free.
+Worker 16 is free.
+      From worker 16:	Target completed: list19.txt
+Worker 10 is free.
+      From worker 10:	Target completed: list10.txt
+Worker 5 is free.
+      From worker 5:	Target completed: list5.txt
+Worker 11 is free.
+      From worker 11:	Target completed: list20.txt
+Worker 3 is free.
+      From worker 3:	Target completed: list12.txt
+Worker 3 is occupied for list.txt.
+      From worker 3:	Executing command: cp list1.txt list.txt ******* for task: list.txt
+      From worker 3:	Executing command: cat list2.txt >> list.txt ******* for task: list.txt
+      From worker 3:	Executing command: cat list3.txt >> list.txt ******* for task: list.txt
+      From worker 3:	Executing command: cat list4.txt >> list.txt ******* for task: list.txt
+      From worker 3:	Executing command: cat list5.txt >> list.txt ******* for task: list.txt
+      From worker 3:	Executing command: cat list6.txt >> list.txt ******* for task: list.txt
+      From worker 3:	Executing command: cat list7.txt >> list.txt ******* for task: list.txt
+      From worker 3:	Executing command: cat list8.txt >> list.txt ******* for task: list.txt
+      From worker 3:	Executing command: cat list9.txt >> list.txt ******* for task: list.txt
+      From worker 3:	Executing command: cat list10.txt >> list.txt ******* for task: list.txt
+      From worker 3:	Executing command: cat list11.txt >> list.txt ******* for task: list.txt
+      From worker 3:	Executing command: cat list12.txt >> list.txt ******* for task: list.txt
+      From worker 3:	Executing command: cat list13.txt >> list.txt ******* for task: list.txt
+      From worker 3:	Executing command: cat list14.txt >> list.txt ******* for task: list.txt
+      From worker 3:	Executing command: cat list15.txt >> list.txt ******* for task: list.txt
+      From worker 3:	Executing command: cat list16.txt >> list.txt ******* for task: list.txt
+      From worker 3:	Executing command: cat list17.txt >> list.txt ******* for task: list.txt
+      From worker 3:	Executing command: cat list18.txt >> list.txt ******* for task: list.txt
+      From worker 3:	Executing command: cat list19.txt >> list.txt ******* for task: list.txt
+      From worker 3:	Executing command: cat list20.txt >> list.txt ******* for task: list.txt
+      From worker 3:	Target completed: list.txt
+Worker 3 is free.
+Parallel task execution time with 15 machines: 28.082027109 seconds
+Cleaning up generated files...
+Cleanup complete for 15 machines.
+Execution time with 15 machines : 28.082027109
+Acceleration with 15 machines: 9.343671715953404
+Efficiency with 15 machines: 0.622911447730227
+Measuring parallel time (16 machines)...
+Worker 17 is occupied for compile.
+      From worker 17:	Executing command: gcc premier.c -o premier -lm ******* for task: compile
+      From worker 17:	Target completed: compile
+Worker 17 is free.
+Worker 17 is occupied for list6.txt.
+Worker 16 is occupied for list18.txt.
+Worker 15 is occupied for list5.txt.
+Worker 14 is occupied for list1.txt.
+Worker 13 is occupied for list3.txt.
+Worker 12 is occupied for list13.txt.
+Worker 11 is occupied for list14.txt.
+Worker 10 is occupied for list10.txt.
+Worker 9 is occupied for list19.txt.
+Worker 8 is occupied for list16.txt.
+Worker 7 is occupied for list11.txt.
+Worker 6 is occupied for list8.txt.
+Worker 5 is occupied for list12.txt.
+Worker 4 is occupied for list7.txt.
+Worker 3 is occupied for list9.txt.
+Worker 2 is occupied for list20.txt.
+      From worker 15:	Executing command: ./premier `echo 4*200000000/20 |bc` `echo 5*200000000/20-1 |bc` > list5.txt ******* for task: list5.txt
+      From worker 14:	Executing command: ./premier 2 `echo 1*200000000/20-1 |bc` > list1.txt ******* for task: list1.txt
+      From worker 17:	Executing command: ./premier `echo 5*200000000/20 |bc` `echo 6*200000000/20-1 |bc` > list6.txt ******* for task: list6.txt
+      From worker 9:	Executing command: ./premier `echo 18*200000000/20 |bc` `echo 19*200000000/20-1 |bc` > list19.txt ******* for task: list19.txt
+      From worker 16:	Executing command: ./premier `echo 17*200000000/20 |bc` `echo 18*200000000/20-1 |bc` > list18.txt ******* for task: list18.txt
+      From worker 12:	Executing command: ./premier `echo 12*200000000/20 |bc` `echo 13*200000000/20-1 |bc` > list13.txt ******* for task: list13.txt
+      From worker 8:	Executing command: ./premier `echo 15*200000000/20 |bc` `echo 16*200000000/20-1 |bc` > list16.txt ******* for task: list16.txt
+      From worker 7:	Executing command: ./premier `echo 10*200000000/20 |bc` `echo 11*200000000/20-1 |bc` > list11.txt ******* for task: list11.txt
+      From worker 10:	Executing command: ./premier `echo 9*200000000/20 |bc` `echo 10*200000000/20-1 |bc` > list10.txt ******* for task: list10.txt
+      From worker 3:	Executing command: ./premier `echo 8*200000000/20 |bc` `echo 9*200000000/20-1 |bc` > list9.txt ******* for task: list9.txt
+      From worker 13:	Executing command: ./premier `echo 2*200000000/20 |bc` `echo 3*200000000/20-1 |bc` > list3.txt ******* for task: list3.txt
+      From worker 6:	Executing command: ./premier `echo 7*200000000/20 |bc` `echo 8*200000000/20-1 |bc` > list8.txt ******* for task: list8.txt
+      From worker 5:	Executing command: ./premier `echo 11*200000000/20 |bc` `echo 12*200000000/20-1 |bc` > list12.txt ******* for task: list12.txt
+      From worker 11:	Executing command: ./premier `echo 13*200000000/20 |bc` `echo 14*200000000/20-1 |bc` > list14.txt ******* for task: list14.txt
+      From worker 4:	Executing command: ./premier `echo 6*200000000/20 |bc` `echo 7*200000000/20-1 |bc` > list7.txt ******* for task: list7.txt
+      From worker 2:	Executing command: ./premier `echo 19*200000000/20 |bc` `echo 20*200000000/20-1 |bc` > list20.txt ******* for task: list20.txt
+Worker 14 is free.
+      From worker 14:	Target completed: list1.txt
+Worker 14 is occupied for list15.txt.
+      From worker 14:	Executing command: ./premier `echo 14*200000000/20 |bc` `echo 15*200000000/20-1 |bc` > list15.txt ******* for task: list15.txt
+Worker 13 is free.
+      From worker 13:	Target completed: list3.txt
+Worker 13 is occupied for list17.txt.
+      From worker 13:	Executing command: ./premier `echo 16*200000000/20 |bc` `echo 17*200000000/20-1 |bc` > list17.txt ******* for task: list17.txt
+Worker 15 is free.
+      From worker 15:	Target completed: list5.txt
+Worker 15 is occupied for list4.txt.
+      From worker 15:	Executing command: ./premier `echo 3*200000000/20 |bc` `echo 4*200000000/20-1 |bc` > list4.txt ******* for task: list4.txt
+Worker 17 is free.
+      From worker 17:	Target completed: list6.txt
+Worker 17 is occupied for list2.txt.
+      From worker 17:	Executing command: ./premier `echo 1*200000000/20 |bc` `echo 2*200000000/20-1 |bc` > list2.txt ******* for task: list2.txt
+Worker 4 is free.
+      From worker 4:	Target completed: list7.txt
+Worker 6 is free.
+      From worker 6:	Target completed: list8.txt
+Worker 3 is free.
+      From worker 3:	Target completed: list9.txt
+Worker 10 is free.
+      From worker 10:	Target completed: list10.txt
+Worker 7 is free.
+      From worker 7:	Target completed: list11.txt
+Worker 5 is free.
+      From worker 5:	Target completed: list12.txt
+Worker 12 is free.
+      From worker 12:	Target completed: list13.txt
+Worker 11 is free.
+      From worker 11:	Target completed: list14.txt
+Worker 8 is free.
+      From worker 8:	Target completed: list16.txt
+Worker 17 is free.
+      From worker 17:	Target completed: list2.txt
+Worker 16 is free.
+      From worker 16:	Target completed: list18.txt
+Worker 9 is free.
+      From worker 9:	Target completed: list19.txt
+Worker 2 is free.
+      From worker 2:	Target completed: list20.txt
+Worker 15 is free.
+      From worker 15:	Target completed: list4.txt
+      From worker 14:	Target completed: list15.txt
+Worker 14 is free.
+Worker 13 is free.
+      From worker 13:	Target completed: list17.txt
+Worker 13 is occupied for list.txt.
+      From worker 13:	Executing command: cp list1.txt list.txt ******* for task: list.txt
+      From worker 13:	Executing command: cat list2.txt >> list.txt ******* for task: list.txt
+      From worker 13:	Executing command: cat list3.txt >> list.txt ******* for task: list.txt
+      From worker 13:	Executing command: cat list4.txt >> list.txt ******* for task: list.txt
+      From worker 13:	Executing command: cat list5.txt >> list.txt ******* for task: list.txt
+      From worker 13:	Executing command: cat list6.txt >> list.txt ******* for task: list.txt
+      From worker 13:	Executing command: cat list7.txt >> list.txt ******* for task: list.txt
+      From worker 13:	Executing command: cat list8.txt >> list.txt ******* for task: list.txt
+      From worker 13:	Executing command: cat list9.txt >> list.txt ******* for task: list.txt
+      From worker 13:	Executing command: cat list10.txt >> list.txt ******* for task: list.txt
+      From worker 13:	Executing command: cat list11.txt >> list.txt ******* for task: list.txt
+      From worker 13:	Executing command: cat list12.txt >> list.txt ******* for task: list.txt
+      From worker 13:	Executing command: cat list13.txt >> list.txt ******* for task: list.txt
+      From worker 13:	Executing command: cat list14.txt >> list.txt ******* for task: list.txt
+      From worker 13:	Executing command: cat list15.txt >> list.txt ******* for task: list.txt
+      From worker 13:	Executing command: cat list16.txt >> list.txt ******* for task: list.txt
+      From worker 13:	Executing command: cat list17.txt >> list.txt ******* for task: list.txt
+      From worker 13:	Executing command: cat list18.txt >> list.txt ******* for task: list.txt
+      From worker 13:	Executing command: cat list19.txt >> list.txt ******* for task: list.txt
+      From worker 13:	Executing command: cat list20.txt >> list.txt ******* for task: list.txt
+Worker 13 is free.
+      From worker 13:	Target completed: list.txt
+Parallel task execution time with 16 machines: 26.583847049 seconds
+Cleaning up generated files...
+Cleanup complete for 16 machines.
+Execution time with 16 machines : 26.583847049
+Acceleration with 16 machines: 9.870250981408287
+Efficiency with 16 machines: 0.6168906863380179
+Measuring parallel time (17 machines)...
+Worker 18 is occupied for compile.
+      From worker 18:	Executing command: gcc premier.c -o premier -lm ******* for task: compile
+      From worker 18:	Target completed: compile
+Worker 18 is free.
+Worker 18 is occupied for list10.txt.
+Worker 17 is occupied for list4.txt.
+Worker 16 is occupied for list20.txt.
+Worker 15 is occupied for list2.txt.
+Worker 14 is occupied for list19.txt.
+Worker 13 is occupied for list6.txt.
+Worker 12 is occupied for list16.txt.
+Worker 11 is occupied for list15.txt.
+Worker 10 is occupied for list5.txt.
+Worker 9 is occupied for list12.txt.
+Worker 8 is occupied for list18.txt.
+Worker 7 is occupied for list3.txt.
+Worker 6 is occupied for list8.txt.
+Worker 5 is occupied for list17.txt.
+Worker 4 is occupied for list1.txt.
+Worker 3 is occupied for list9.txt.
+Worker 2 is occupied for list11.txt.
+      From worker 18:	Executing command: ./premier `echo 9*200000000/20 |bc` `echo 10*200000000/20-1 |bc` > list10.txt ******* for task: list10.txt
+      From worker 15:	Executing command: ./premier `echo 1*200000000/20 |bc` `echo 2*200000000/20-1 |bc` > list2.txt ******* for task: list2.txt
+      From worker 17:	Executing command: ./premier `echo 3*200000000/20 |bc` `echo 4*200000000/20-1 |bc` > list4.txt ******* for task: list4.txt
+      From worker 16:	Executing command: ./premier `echo 19*200000000/20 |bc` `echo 20*200000000/20-1 |bc` > list20.txt ******* for task: list20.txt
+      From worker 14:	Executing command: ./premier `echo 18*200000000/20 |bc` `echo 19*200000000/20-1 |bc` > list19.txt ******* for task: list19.txt
+      From worker 12:	Executing command: ./premier `echo 15*200000000/20 |bc` `echo 16*200000000/20-1 |bc` > list16.txt ******* for task: list16.txt
+      From worker 13:	Executing command: ./premier `echo 5*200000000/20 |bc` `echo 6*200000000/20-1 |bc` > list6.txt ******* for task: list6.txt
+      From worker 9:	Executing command: ./premier `echo 11*200000000/20 |bc` `echo 12*200000000/20-1 |bc` > list12.txt ******* for task: list12.txt
+      From worker 7:	Executing command: ./premier `echo 2*200000000/20 |bc` `echo 3*200000000/20-1 |bc` > list3.txt ******* for task: list3.txt
+      From worker 8:	Executing command: ./premier `echo 17*200000000/20 |bc` `echo 18*200000000/20-1 |bc` > list18.txt ******* for task: list18.txt
+      From worker 3:	Executing command: ./premier `echo 8*200000000/20 |bc` `echo 9*200000000/20-1 |bc` > list9.txt ******* for task: list9.txt
+      From worker 5:	Executing command: ./premier `echo 16*200000000/20 |bc` `echo 17*200000000/20-1 |bc` > list17.txt ******* for task: list17.txt
+      From worker 10:	Executing command: ./premier `echo 4*200000000/20 |bc` `echo 5*200000000/20-1 |bc` > list5.txt ******* for task: list5.txt
+      From worker 11:	Executing command: ./premier `echo 14*200000000/20 |bc` `echo 15*200000000/20-1 |bc` > list15.txt ******* for task: list15.txt
+      From worker 6:	Executing command: ./premier `echo 7*200000000/20 |bc` `echo 8*200000000/20-1 |bc` > list8.txt ******* for task: list8.txt
+      From worker 4:	Executing command: ./premier 2 `echo 1*200000000/20-1 |bc` > list1.txt ******* for task: list1.txt
+      From worker 2:	Executing command: ./premier `echo 10*200000000/20 |bc` `echo 11*200000000/20-1 |bc` > list11.txt ******* for task: list11.txt
+Worker 4 is free.
+      From worker 4:	Target completed: list1.txt
+Worker 4 is occupied for list13.txt.
+      From worker 4:	Executing command: ./premier `echo 12*200000000/20 |bc` `echo 13*200000000/20-1 |bc` > list13.txt ******* for task: list13.txt
+Worker 15 is free.
+      From worker 15:	Target completed: list2.txt
+Worker 15 is occupied for list7.txt.
+      From worker 15:	Executing command: ./premier `echo 6*200000000/20 |bc` `echo 7*200000000/20-1 |bc` > list7.txt ******* for task: list7.txt
+Worker 7 is free.
+      From worker 7:	Target completed: list3.txt
+Worker 7 is occupied for list14.txt.
+      From worker 7:	Executing command: ./premier `echo 13*200000000/20 |bc` `echo 14*200000000/20-1 |bc` > list14.txt ******* for task: list14.txt
+Worker 17 is free.
+      From worker 17:	Target completed: list4.txt
+Worker 10 is free.
+      From worker 10:	Target completed: list5.txt
+Worker 13 is free.
+      From worker 13:	Target completed: list6.txt
+Worker 6 is free.
+      From worker 6:	Target completed: list8.txt
+      From worker 3:	Target completed: list9.txt
+Worker 3 is free.
+Worker 18 is free.
+      From worker 18:	Target completed: list10.txt
+Worker 2 is free.
+      From worker 2:	Target completed: list11.txt
+Worker 9 is free.
+      From worker 9:	Target completed: list12.txt
+Worker 11 is free.
+      From worker 11:	Target completed: list15.txt
+Worker 12 is free.
+      From worker 12:	Target completed: list16.txt
+Worker 5 is free.
+      From worker 5:	Target completed: list17.txt
+Worker 8 is free.
+      From worker 8:	Target completed: list18.txt
+      From worker 14:	Target completed: list19.txt
+Worker 14 is free.
+Worker 15 is free.
+      From worker 15:	Target completed: list7.txt
+Worker 16 is free.
+      From worker 16:	Target completed: list20.txt
+Worker 4 is free.
+      From worker 4:	Target completed: list13.txt
+Worker 7 is free.
+      From worker 7:	Target completed: list14.txt
+Worker 7 is occupied for list.txt.
+      From worker 7:	Executing command: cp list1.txt list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list2.txt >> list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list3.txt >> list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list4.txt >> list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list5.txt >> list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list6.txt >> list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list7.txt >> list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list8.txt >> list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list9.txt >> list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list10.txt >> list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list11.txt >> list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list12.txt >> list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list13.txt >> list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list14.txt >> list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list15.txt >> list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list16.txt >> list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list17.txt >> list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list18.txt >> list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list19.txt >> list.txt ******* for task: list.txt
+      From worker 7:	Executing command: cat list20.txt >> list.txt ******* for task: list.txt
+Worker 7 is free.
+      From worker 7:	Target completed: list.txt
+Parallel task execution time with 17 machines: 24.572138343 seconds
+Cleaning up generated files...
+Cleanup complete for 17 machines.
+Execution time with 17 machines : 24.572138343
+Acceleration with 17 machines: 10.678323504545476
+Efficiency with 17 machines: 0.6281366767379691
+Measuring parallel time (18 machines)...
+Worker 19 is occupied for compile.
+      From worker 19:	Executing command: gcc premier.c -o premier -lm ******* for task: compile
+      From worker 19:	Target completed: compile
+Worker 19 is free.
+Worker 19 is occupied for list13.txt.
+Worker 18 is occupied for list9.txt.
+Worker 17 is occupied for list7.txt.
+Worker 16 is occupied for list2.txt.
+Worker 15 is occupied for list17.txt.
+Worker 14 is occupied for list20.txt.
+Worker 13 is occupied for list8.txt.
+Worker 12 is occupied for list6.txt.
+Worker 11 is occupied for list4.txt.
+Worker 10 is occupied for list11.txt.
+Worker 9 is occupied for list3.txt.
+Worker 8 is occupied for list5.txt.
+Worker 7 is occupied for list14.txt.
+Worker 6 is occupied for list15.txt.
+Worker 5 is occupied for list10.txt.
+Worker 4 is occupied for list16.txt.
+Worker 3 is occupied for list12.txt.
+Worker 2 is occupied for list19.txt.
+      From worker 19:	Executing command: ./premier `echo 12*200000000/20 |bc` `echo 13*200000000/20-1 |bc` > list13.txt ******* for task: list13.txt
+      From worker 18:	Executing command: ./premier `echo 8*200000000/20 |bc` `echo 9*200000000/20-1 |bc` > list9.txt ******* for task: list9.txt
+      From worker 15:	Executing command: ./premier `echo 16*200000000/20 |bc` `echo 17*200000000/20-1 |bc` > list17.txt ******* for task: list17.txt
+      From worker 14:	Executing command: ./premier `echo 19*200000000/20 |bc` `echo 20*200000000/20-1 |bc` > list20.txt ******* for task: list20.txt
+      From worker 16:	Executing command: ./premier `echo 1*200000000/20 |bc` `echo 2*200000000/20-1 |bc` > list2.txt ******* for task: list2.txt
+      From worker 5:	Executing command: ./premier `echo 9*200000000/20 |bc` `echo 10*200000000/20-1 |bc` > list10.txt ******* for task: list10.txt
+      From worker 7:	Executing command: ./premier `echo 13*200000000/20 |bc` `echo 14*200000000/20-1 |bc` > list14.txt ******* for task: list14.txt
+      From worker 6:	Executing command: ./premier `echo 14*200000000/20 |bc` `echo 15*200000000/20-1 |bc` > list15.txt ******* for task: list15.txt
+      From worker 10:	Executing command: ./premier `echo 10*200000000/20 |bc` `echo 11*200000000/20-1 |bc` > list11.txt ******* for task: list11.txt
+      From worker 12:	Executing command: ./premier `echo 5*200000000/20 |bc` `echo 6*200000000/20-1 |bc` > list6.txt ******* for task: list6.txt
+      From worker 11:	Executing command: ./premier `echo 3*200000000/20 |bc` `echo 4*200000000/20-1 |bc` > list4.txt ******* for task: list4.txt
+      From worker 4:	Executing command: ./premier `echo 15*200000000/20 |bc` `echo 16*200000000/20-1 |bc` > list16.txt ******* for task: list16.txt
+      From worker 8:	Executing command: ./premier `echo 4*200000000/20 |bc` `echo 5*200000000/20-1 |bc` > list5.txt ******* for task: list5.txt
+      From worker 9:	Executing command: ./premier `echo 2*200000000/20 |bc` `echo 3*200000000/20-1 |bc` > list3.txt ******* for task: list3.txt
+      From worker 17:	Executing command: ./premier `echo 6*200000000/20 |bc` `echo 7*200000000/20-1 |bc` > list7.txt ******* for task: list7.txt
+      From worker 13:	Executing command: ./premier `echo 7*200000000/20 |bc` `echo 8*200000000/20-1 |bc` > list8.txt ******* for task: list8.txt
+      From worker 3:	Executing command: ./premier `echo 11*200000000/20 |bc` `echo 12*200000000/20-1 |bc` > list12.txt ******* for task: list12.txt
+      From worker 2:	Executing command: ./premier `echo 18*200000000/20 |bc` `echo 19*200000000/20-1 |bc` > list19.txt ******* for task: list19.txt
+Worker 16 is free.
+      From worker 16:	Target completed: list2.txt
+Worker 16 is occupied for list1.txt.
+      From worker 16:	Executing command: ./premier 2 `echo 1*200000000/20-1 |bc` > list1.txt ******* for task: list1.txt
+Worker 9 is free.
+      From worker 9:	Target completed: list3.txt
+Worker 9 is occupied for list18.txt.
+      From worker 9:	Executing command: ./premier `echo 17*200000000/20 |bc` `echo 18*200000000/20-1 |bc` > list18.txt ******* for task: list18.txt
+Worker 11 is free.
+      From worker 11:	Target completed: list4.txt
+Worker 8 is free.
+      From worker 8:	Target completed: list5.txt
+Worker 16 is free.
+      From worker 16:	Target completed: list1.txt
+Worker 12 is free.
+      From worker 12:	Target completed: list6.txt
+Worker 17 is free.
+      From worker 17:	Target completed: list7.txt
+Worker 13 is free.
+      From worker 13:	Target completed: list8.txt
+Worker 18 is free.
+      From worker 18:	Target completed: list9.txt
+Worker 5 is free.
+      From worker 5:	Target completed: list10.txt
+Worker 10 is free.
+      From worker 10:	Target completed: list11.txt
+      From worker 3:	Target completed: list12.txt
+Worker 3 is free.
+      From worker 19:	Target completed: list13.txt
+Worker 19 is free.
+Worker 7 is free.
+      From worker 7:	Target completed: list14.txt
+Worker 6 is free.
+      From worker 6:	Target completed: list15.txt
+Worker 4 is free.
+      From worker 4:	Target completed: list16.txt
+Worker 15 is free.
+      From worker 15:	Target completed: list17.txt
+Worker 2 is free.
+      From worker 2:	Target completed: list19.txt
+      From worker 14:	Target completed: list20.txt
+Worker 14 is free.
+Worker 9 is free.
+      From worker 9:	Target completed: list18.txt
+Worker 9 is occupied for list.txt.
+      From worker 9:	Executing command: cp list1.txt list.txt ******* for task: list.txt
+      From worker 9:	Executing command: cat list2.txt >> list.txt ******* for task: list.txt
+      From worker 9:	Executing command: cat list3.txt >> list.txt ******* for task: list.txt
+      From worker 9:	Executing command: cat list4.txt >> list.txt ******* for task: list.txt
+      From worker 9:	Executing command: cat list5.txt >> list.txt ******* for task: list.txt
+      From worker 9:	Executing command: cat list6.txt >> list.txt ******* for task: list.txt
+      From worker 9:	Executing command: cat list7.txt >> list.txt ******* for task: list.txt
+      From worker 9:	Executing command: cat list8.txt >> list.txt ******* for task: list.txt
+      From worker 9:	Executing command: cat list9.txt >> list.txt ******* for task: list.txt
+      From worker 9:	Executing command: cat list10.txt >> list.txt ******* for task: list.txt
+      From worker 9:	Executing command: cat list11.txt >> list.txt ******* for task: list.txt
+      From worker 9:	Executing command: cat list12.txt >> list.txt ******* for task: list.txt
+      From worker 9:	Executing command: cat list13.txt >> list.txt ******* for task: list.txt
+      From worker 9:	Executing command: cat list14.txt >> list.txt ******* for task: list.txt
+      From worker 9:	Executing command: cat list15.txt >> list.txt ******* for task: list.txt
+      From worker 9:	Executing command: cat list16.txt >> list.txt ******* for task: list.txt
+      From worker 9:	Executing command: cat list17.txt >> list.txt ******* for task: list.txt
+      From worker 9:	Executing command: cat list18.txt >> list.txt ******* for task: list.txt
+      From worker 9:	Executing command: cat list19.txt >> list.txt ******* for task: list.txt
+      From worker 9:	Executing command: cat list20.txt >> list.txt ******* for task: list.txt
+Worker 9 is free.
+      From worker 9:	Target completed: list.txt
+Parallel task execution time with 18 machines: 26.583260078 seconds
+Cleaning up generated files...
+Cleanup complete for 18 machines.
+Execution time with 18 machines : 26.583260078
+Acceleration with 18 machines: 9.870468921234771
+Efficiency with 18 machines: 0.5483593845130429
+Measuring parallel time (19 machines)...
+Worker 20 is occupied for compile.
+      From worker 20:	Executing command: gcc premier.c -o premier -lm ******* for task: compile
+      From worker 20:	Target completed: compile
+Worker 20 is free.
+Worker 20 is occupied for list14.txt.
+Worker 19 is occupied for list8.txt.
+Worker 18 is occupied for list6.txt.
+Worker 17 is occupied for list15.txt.
+Worker 16 is occupied for list5.txt.
+Worker 15 is occupied for list17.txt.
+Worker 14 is occupied for list10.txt.
+Worker 13 is occupied for list19.txt.
+Worker 12 is occupied for list13.txt.
+Worker 11 is occupied for list18.txt.
+Worker 10 is occupied for list4.txt.
+Worker 9 is occupied for list9.txt.
+Worker 8 is occupied for list2.txt.
+Worker 7 is occupied for list16.txt.
+Worker 6 is occupied for list3.txt.
+Worker 5 is occupied for list1.txt.
+Worker 4 is occupied for list20.txt.
+Worker 3 is occupied for list11.txt.
+Worker 2 is occupied for list7.txt.
+      From worker 20:	Executing command: ./premier `echo 13*200000000/20 |bc` `echo 14*200000000/20-1 |bc` > list14.txt ******* for task: list14.txt
+      From worker 15:	Executing command: ./premier `echo 16*200000000/20 |bc` `echo 17*200000000/20-1 |bc` > list17.txt ******* for task: list17.txt
+      From worker 14:	Executing command: ./premier `echo 9*200000000/20 |bc` `echo 10*200000000/20-1 |bc` > list10.txt ******* for task: list10.txt
+      From worker 17:	Executing command: ./premier `echo 14*200000000/20 |bc` `echo 15*200000000/20-1 |bc` > list15.txt ******* for task: list15.txt
+      From worker 18:	Executing command: ./premier `echo 5*200000000/20 |bc` `echo 6*200000000/20-1 |bc` > list6.txt ******* for task: list6.txt
+      From worker 19:	Executing command: ./premier `echo 7*200000000/20 |bc` `echo 8*200000000/20-1 |bc` > list8.txt ******* for task: list8.txt
+      From worker 9:	Executing command: ./premier `echo 8*200000000/20 |bc` `echo 9*200000000/20-1 |bc` > list9.txt ******* for task: list9.txt
+      From worker 12:	Executing command: ./premier `echo 12*200000000/20 |bc` `echo 13*200000000/20-1 |bc` > list13.txt ******* for task: list13.txt
+      From worker 10:	Executing command: ./premier `echo 3*200000000/20 |bc` `echo 4*200000000/20-1 |bc` > list4.txt ******* for task: list4.txt
+      From worker 11:	Executing command: ./premier `echo 17*200000000/20 |bc` `echo 18*200000000/20-1 |bc` > list18.txt ******* for task: list18.txt
+      From worker 13:	Executing command: ./premier `echo 18*200000000/20 |bc` `echo 19*200000000/20-1 |bc` > list19.txt ******* for task: list19.txt
+      From worker 6:	Executing command: ./premier `echo 2*200000000/20 |bc` `echo 3*200000000/20-1 |bc` > list3.txt ******* for task: list3.txt
+      From worker 7:	Executing command: ./premier `echo 15*200000000/20 |bc` `echo 16*200000000/20-1 |bc` > list16.txt ******* for task: list16.txt
+      From worker 8:	Executing command: ./premier `echo 1*200000000/20 |bc` `echo 2*200000000/20-1 |bc` > list2.txt ******* for task: list2.txt
+      From worker 16:	Executing command: ./premier `echo 4*200000000/20 |bc` `echo 5*200000000/20-1 |bc` > list5.txt ******* for task: list5.txt
+      From worker 4:	Executing command: ./premier `echo 19*200000000/20 |bc` `echo 20*200000000/20-1 |bc` > list20.txt ******* for task: list20.txt
+      From worker 3:	Executing command: ./premier `echo 10*200000000/20 |bc` `echo 11*200000000/20-1 |bc` > list11.txt ******* for task: list11.txt
+      From worker 2:	Executing command: ./premier `echo 6*200000000/20 |bc` `echo 7*200000000/20-1 |bc` > list7.txt ******* for task: list7.txt
+      From worker 5:	Executing command: ./premier 2 `echo 1*200000000/20-1 |bc` > list1.txt ******* for task: list1.txt
+Worker 5 is free.
+      From worker 5:	Target completed: list1.txt
+Worker 5 is occupied for list12.txt.
+      From worker 5:	Executing command: ./premier `echo 11*200000000/20 |bc` `echo 12*200000000/20-1 |bc` > list12.txt ******* for task: list12.txt
+Worker 8 is free.
+      From worker 8:	Target completed: list2.txt
+Worker 6 is free.
+      From worker 6:	Target completed: list3.txt
+Worker 10 is free.
+      From worker 10:	Target completed: list4.txt
+Worker 16 is free.
+      From worker 16:	Target completed: list5.txt
+Worker 18 is free.
+      From worker 18:	Target completed: list6.txt
+Worker 2 is free.
+      From worker 2:	Target completed: list7.txt
+Worker 19 is free.
+      From worker 19:	Target completed: list8.txt
+Worker 9 is free.
+      From worker 9:	Target completed: list9.txt
+      From worker 14:	Target completed: list10.txt
+Worker 14 is free.
+Worker 3 is free.
+      From worker 3:	Target completed: list11.txt
+      From worker 12:	Target completed: list13.txt
+Worker 12 is free.
+Worker 20 is free.
+      From worker 20:	Target completed: list14.txt
+Worker 17 is free.
+      From worker 17:	Target completed: list15.txt
+Worker 7 is free.
+      From worker 7:	Target completed: list16.txt
+Worker 15 is free.
+      From worker 15:	Target completed: list17.txt
+Worker 11 is free.
+      From worker 11:	Target completed: list18.txt
+Worker 13 is free.
+      From worker 13:	Target completed: list19.txt
+Worker 4 is free.
+      From worker 4:	Target completed: list20.txt
+Worker 5 is free.
+      From worker 5:	Target completed: list12.txt
+Worker 5 is occupied for list.txt.
+      From worker 5:	Executing command: cp list1.txt list.txt ******* for task: list.txt
+      From worker 5:	Executing command: cat list2.txt >> list.txt ******* for task: list.txt
+      From worker 5:	Executing command: cat list3.txt >> list.txt ******* for task: list.txt
+      From worker 5:	Executing command: cat list4.txt >> list.txt ******* for task: list.txt
+      From worker 5:	Executing command: cat list5.txt >> list.txt ******* for task: list.txt
+      From worker 5:	Executing command: cat list6.txt >> list.txt ******* for task: list.txt
+      From worker 5:	Executing command: cat list7.txt >> list.txt ******* for task: list.txt
+      From worker 5:	Executing command: cat list8.txt >> list.txt ******* for task: list.txt
+      From worker 5:	Executing command: cat list9.txt >> list.txt ******* for task: list.txt
+      From worker 5:	Executing command: cat list10.txt >> list.txt ******* for task: list.txt
+      From worker 5:	Executing command: cat list11.txt >> list.txt ******* for task: list.txt
+      From worker 5:	Executing command: cat list12.txt >> list.txt ******* for task: list.txt
+      From worker 5:	Executing command: cat list13.txt >> list.txt ******* for task: list.txt
+      From worker 5:	Executing command: cat list14.txt >> list.txt ******* for task: list.txt
+      From worker 5:	Executing command: cat list15.txt >> list.txt ******* for task: list.txt
+      From worker 5:	Executing command: cat list16.txt >> list.txt ******* for task: list.txt
+      From worker 5:	Executing command: cat list17.txt >> list.txt ******* for task: list.txt
+      From worker 5:	Executing command: cat list18.txt >> list.txt ******* for task: list.txt
+      From worker 5:	Executing command: cat list19.txt >> list.txt ******* for task: list.txt
+      From worker 5:	Executing command: cat list20.txt >> list.txt ******* for task: list.txt
+Worker 5 is free.
+      From worker 5:	Target completed: list.txt
+Parallel task execution time with 19 machines: 20.056873119 seconds
+Cleaning up generated files...
+Cleanup complete for 19 machines.
+Execution time with 19 machines : 20.056873119
+Acceleration with 19 machines: 13.082260672848205
+Efficiency with 19 machines: 0.6885400354130634
+Measuring parallel time (20 machines)...
+Worker 21 is occupied for compile.
+      From worker 21:	Executing command: gcc premier.c -o premier -lm ******* for task: compile
+      From worker 21:	Target completed: compile
+Worker 21 is free.
+Worker 21 is occupied for list18.txt.
+Worker 20 is occupied for list17.txt.
+Worker 19 is occupied for list14.txt.
+Worker 18 is occupied for list7.txt.
+Worker 17 is occupied for list19.txt.
+Worker 16 is occupied for list16.txt.
+Worker 15 is occupied for list10.txt.
+Worker 14 is occupied for list3.txt.
+Worker 13 is occupied for list11.txt.
+Worker 12 is occupied for list12.txt.
+Worker 11 is occupied for list20.txt.
+Worker 10 is occupied for list13.txt.
+Worker 9 is occupied for list15.txt.
+Worker 8 is occupied for list2.txt.
+Worker 7 is occupied for list6.txt.
+Worker 6 is occupied for list4.txt.
+Worker 5 is occupied for list5.txt.
+Worker 4 is occupied for list1.txt.
+Worker 3 is occupied for list8.txt.
+Worker 2 is occupied for list9.txt.
+      From worker 21:	Executing command: ./premier `echo 17*200000000/20 |bc` `echo 18*200000000/20-1 |bc` > list18.txt ******* for task: list18.txt
+      From worker 20:	Executing command: ./premier `echo 16*200000000/20 |bc` `echo 17*200000000/20-1 |bc` > list17.txt ******* for task: list17.txt
+      From worker 19:	Executing command: ./premier `echo 13*200000000/20 |bc` `echo 14*200000000/20-1 |bc` > list14.txt ******* for task: list14.txt
+      From worker 17:	Executing command: ./premier `echo 18*200000000/20 |bc` `echo 19*200000000/20-1 |bc` > list19.txt ******* for task: list19.txt
+      From worker 16:	Executing command: ./premier `echo 15*200000000/20 |bc` `echo 16*200000000/20-1 |bc` > list16.txt ******* for task: list16.txt
+      From worker 18:	Executing command: ./premier `echo 6*200000000/20 |bc` `echo 7*200000000/20-1 |bc` > list7.txt ******* for task: list7.txt
+      From worker 15:	Executing command: ./premier `echo 9*200000000/20 |bc` `echo 10*200000000/20-1 |bc` > list10.txt ******* for task: list10.txt
+      From worker 14:	Executing command: ./premier `echo 2*200000000/20 |bc` `echo 3*200000000/20-1 |bc` > list3.txt ******* for task: list3.txt
+      From worker 13:	Executing command: ./premier `echo 10*200000000/20 |bc` `echo 11*200000000/20-1 |bc` > list11.txt ******* for task: list11.txt
+      From worker 12:	Executing command: ./premier `echo 11*200000000/20 |bc` `echo 12*200000000/20-1 |bc` > list12.txt ******* for task: list12.txt
+      From worker 11:	Executing command: ./premier `echo 19*200000000/20 |bc` `echo 20*200000000/20-1 |bc` > list20.txt ******* for task: list20.txt
+      From worker 9:	Executing command: ./premier `echo 14*200000000/20 |bc` `echo 15*200000000/20-1 |bc` > list15.txt ******* for task: list15.txt
+      From worker 10:	Executing command: ./premier `echo 12*200000000/20 |bc` `echo 13*200000000/20-1 |bc` > list13.txt ******* for task: list13.txt
+      From worker 7:	Executing command: ./premier `echo 5*200000000/20 |bc` `echo 6*200000000/20-1 |bc` > list6.txt ******* for task: list6.txt
+      From worker 8:	Executing command: ./premier `echo 1*200000000/20 |bc` `echo 2*200000000/20-1 |bc` > list2.txt ******* for task: list2.txt
+      From worker 6:	Executing command: ./premier `echo 3*200000000/20 |bc` `echo 4*200000000/20-1 |bc` > list4.txt ******* for task: list4.txt
+      From worker 4:	Executing command: ./premier 2 `echo 1*200000000/20-1 |bc` > list1.txt ******* for task: list1.txt
+      From worker 2:	Executing command: ./premier `echo 8*200000000/20 |bc` `echo 9*200000000/20-1 |bc` > list9.txt ******* for task: list9.txt
+      From worker 5:	Executing command: ./premier `echo 4*200000000/20 |bc` `echo 5*200000000/20-1 |bc` > list5.txt ******* for task: list5.txt
+      From worker 3:	Executing command: ./premier `echo 7*200000000/20 |bc` `echo 8*200000000/20-1 |bc` > list8.txt ******* for task: list8.txt
+Worker 4 is free.
+      From worker 4:	Target completed: list1.txt
+Worker 8 is free.
+      From worker 8:	Target completed: list2.txt
+      From worker 14:	Target completed: list3.txt
+Worker 14 is free.
+Worker 6 is free.
+      From worker 6:	Target completed: list4.txt
+Worker 5 is free.
+      From worker 5:	Target completed: list5.txt
+Worker 7 is free.
+      From worker 7:	Target completed: list6.txt
+Worker 18 is free.
+      From worker 18:	Target completed: list7.txt
+Worker 3 is free.
+      From worker 3:	Target completed: list8.txt
+Worker 2 is free.
+      From worker 2:	Target completed: list9.txt
+Worker 15 is free.
+      From worker 15:	Target completed: list10.txt
+Worker 13 is free.
+      From worker 13:	Target completed: list11.txt
+Worker 12 is free.
+      From worker 12:	Target completed: list12.txt
+Worker 10 is free.
+      From worker 10:	Target completed: list13.txt
+Worker 19 is free.
+      From worker 19:	Target completed: list14.txt
+Worker 9 is free.
+      From worker 9:	Target completed: list15.txt
+Worker 16 is free.
+      From worker 16:	Target completed: list16.txt
+Worker 20 is free.
+      From worker 20:	Target completed: list17.txt
+Worker 21 is free.
+      From worker 21:	Target completed: list18.txt
+Worker 17 is free.
+      From worker 17:	Target completed: list19.txt
+Worker 11 is free.
+      From worker 11:	Target completed: list20.txt
+Worker 11 is occupied for list.txt.
+      From worker 11:	Executing command: cp list1.txt list.txt ******* for task: list.txt
+      From worker 11:	Executing command: cat list2.txt >> list.txt ******* for task: list.txt
+      From worker 11:	Executing command: cat list3.txt >> list.txt ******* for task: list.txt
+      From worker 11:	Executing command: cat list4.txt >> list.txt ******* for task: list.txt
+      From worker 11:	Executing command: cat list5.txt >> list.txt ******* for task: list.txt
+      From worker 11:	Executing command: cat list6.txt >> list.txt ******* for task: list.txt
+      From worker 11:	Executing command: cat list7.txt >> list.txt ******* for task: list.txt
+      From worker 11:	Executing command: cat list8.txt >> list.txt ******* for task: list.txt
+      From worker 11:	Executing command: cat list9.txt >> list.txt ******* for task: list.txt
+      From worker 11:	Executing command: cat list10.txt >> list.txt ******* for task: list.txt
+      From worker 11:	Executing command: cat list11.txt >> list.txt ******* for task: list.txt
+      From worker 11:	Executing command: cat list12.txt >> list.txt ******* for task: list.txt
+      From worker 11:	Executing command: cat list13.txt >> list.txt ******* for task: list.txt
+      From worker 11:	Executing command: cat list14.txt >> list.txt ******* for task: list.txt
+      From worker 11:	Executing command: cat list15.txt >> list.txt ******* for task: list.txt
+      From worker 11:	Executing command: cat list16.txt >> list.txt ******* for task: list.txt
+      From worker 11:	Executing command: cat list17.txt >> list.txt ******* for task: list.txt
+      From worker 11:	Executing command: cat list18.txt >> list.txt ******* for task: list.txt
+      From worker 11:	Executing command: cat list19.txt >> list.txt ******* for task: list.txt
+      From worker 11:	Executing command: cat list20.txt >> list.txt ******* for task: list.txt
+Worker 11 is free.
+      From worker 11:	Target completed: list.txt
+Parallel task execution time with 20 machines: 19.56018481 seconds
+Cleaning up generated files...
+Cleanup complete for 20 machines.
+Execution time with 20 machines : 19.56018481
+Acceleration with 20 machines: 13.414456201398234
+Efficiency with 20 machines: 0.6707228100699117
+Writing metrics to file...
+Metrics written to file
+1110.337416 seconds (5.75 M allocations: 396.234 MiB, 0.01% gc time, 0.38% compilation time)
